@@ -1,2 +1,2 @@
-# urban-planning
-Notes taken from Urban Planning lectures 
+# Urban Planning
+Notes taken from Urban Planning lectures at University of Trento.
