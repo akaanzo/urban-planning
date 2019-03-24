@@ -38,7 +38,15 @@ Università degli Studi di Trento
     - [MILANO](#milano)
     - [BOLOGNA](#bologna)
     - [NAPOLI](#napoli)
-  - [IL SECONDO DOPOGUERRA (pag. 17)](#il-secondo-dopoguerra-pag-17)
+  - [IL SECONDO DOPOGUERRA](#il-secondo-dopoguerra)
+    - [COME RICOSTRUIRE?](#come-ricostruire)
+    - [RICOSTRUZIONE](#ricostruzione)
+    - [AVVIO DELLA PIANIFICAZIONE URBANISTICA](#avvio-della-pianificazione-urbanistica)
+    - [IL BOOM ECONOMICO DEL 1963](#il-boom-economico-del-1963)
+    - [NUOVE INFRASTRUTTURE](#nuove-infrastrutture)
+    - [BOOM EDILIZIO](#boom-edilizio)
+    - [EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA](#evoluzione-della-normativa-urbanistica-nel-dopoguerra)
+    - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO (pag. 20)](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio-pag-20)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -353,4 +361,66 @@ Dopo l'epidemia di colera (1885) il centro viene sventrato e viene fatto un vial
 Passa la legge per l'esproprio e il risanamento in modo da bonificare la città messa in ginocchio dalla malattia.  
 L'approccio della demolizione viene mantenuto anche durante l'epoca fascista, non svecchiando né aggiornando la città.
 
-### IL SECONDO DOPOGUERRA (pag. 17)
+### IL SECONDO DOPOGUERRA
+A differenza della prima guerra mondiale svoltasi lontano dalle città, la seconda si è svolta su tutto il territorio portando devastazione nelle città e sulle infrastrutture.  
+Viene nuovamente istituita la democrazia, svanita con il fascismo e viene attivata una grande mobilità da parte delle persone per ricostruire centri storici e infrastrutture.  
+Le condizioni abitative erano molto problematiche: le persone erano attirate verso la città, ma gli alloggi scarseggiavano ovunque. 
+
+#### COME RICOSTRUIRE?
+Nasce il dibattito fra il _ricostruire le parti storiche come e dove erano_ e l'_utilizzo di nuove tecnologie_ in modo da costruire "come oggi".
+
+A cavallo degli anni '50 la situazione economica era grave e la maggior parte della popolazione si occupava di agricoltura.  
+Ha il via una fase di __emigrazione__ temporanea verso i Paesi europei, e permanente verso il nord - america.
+
+#### RICOSTRUZIONE
+La ricostruzione fu favorita dal __"piano Marshall"__ (USA) che integrava economicamente anche gli altri Paesi colpiti. Il sostegno per consentire di far ripartire l'economia era comune tra tutti gli Stati.
+I mercati si aprono con i Paesi esteri. 
+
+Lo Stato italiano ha un ruolo importante: fonda l'istituto di ricostruzione (IRI) che, assieme ad ENI, approvvigionano con prodotti siderurgici ed energetici il popolo che necessita di materie prime.
+
+#### AVVIO DELLA PIANIFICAZIONE URBANISTICA
+La __legge urbanistica__ (1942) che regolamenta, attraverso il PRG, e definisce i _piani_ come _strumenti di governo e territorio, __non viene utilizzata!__  
+Con un decreto viene istituito un _piano di ricostruzione_. Si identificano i danni eseguiti e si creano dei piani (non unici) per la ricostruzione, con delle sezioni molto semplici e un numero di piani elevato in modo da contenere più alloggi che in precedenza.  
+Parte il processo di edificazione: come si interviene?  
+
+A __Trento__ si interviene senza un piano, appoggiandosi solamente al _regolamento edilizio_ e a qualche lottizzazione locale. 
+
+In altri casi è intervenuto l'ente pubblico con l'edilizia popolare costruita distante dalla città.  
+
+Nasce un processo di urbanizzazione (servizi di trasporto pubblico, altre costruzioni edilizie, ...) nelle zone attorno alla città.
+
+Nel 1963, in seguito al processo di ricostruzione, l'economia italiana ha un __booom__.
+
+#### IL BOOM ECONOMICO DEL 1963
+Durante il boom economico del 1963 molte imprese si rafforzano con la progettazione di auto e moto e nascono le prime industrie di elettrodomestici.  
+L'Italia, caratterizzata da prezzi medio - bassi, vive grazie all'esportazione. 
+
+Si ha un'evoluzione del settore tessile grazie a nuove modalità: si prendono materie prime povere e si creano prodotti finiti di alta qualità.
+
+Le città medio - piccole si specializzano in un settore grazie alla congregazione di piccole imprese.  
+Le grandi imprese, invece, sviluppano il __triangolo industriale__: Torino - Milano - Genova.
+
+Dal punto di vista territoriale, tra gli anni '50 - '70, si ha uno spostamento della popolazione dal sud Italia verso il nord.
+
+Nonostante tutto, le condizioni abitative erano modeste: solo il 7.4% delle abitazioni italiane avevano acqua, servizi ed elettricità assieme.
+
+Lo Stato crea __INA CASA__, istituto pubblico finanziato dallo Stato, dai datori di lavoro e dalle trattenute dagli stipendi dei dipendenti, con il compito di costruire case e quartieri popolari.
+
+#### NUOVE INFRASTRUTTURE
+Con l'avvio della motorizzazione di massa si necessita di una rete stradale più adeguata.  
+Dagli anni '50 si inizia a costruire con entusiasmo l'_autostrada_ con modelli avanzati: 2 corsie per senso di marcia, svincoli su due livelli, autogrill, pedaggi. Le autostrade spesso venivano finanziate e costruite da privati che avevano un ritorno attraverso i pedaggi a carico degli utilizzatori.
+
+#### BOOM EDILIZIO
+Accanto al boom economico ha inizio il boom edilizio. L'assenza di piani urbanistici e regole adeguate, però, necessita di seguire il regolamento edilizio che non sempre da tutte le indicazioni.  
+L'alta domanda di alloggi e i bassi costi di costruzione fomentano la _speculazione edilizia_.
+
+#### EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA
+Le leggi e le normative urbanistiche del secondo dopoguerra erano:
+* legge 1150 del 1942: viene criticata perché prevedeva uno sviluppo prevalentemente da parte del pubblico;
+* legge 167/1967: __legge sull'esproprio__ per attuare piani di _edilizia economica popolare_;
+* legge 765/1967: impone dei limiti all'edificazione dove non sono presenti piani regolatori. Inoltre, i PRG devono proporre _indici di edificazione_ contenuti (altezza, volume su mq, ...). I PRG non possono prevedere solo aree edificabili ma devono prevedere anche aree di servizio pubblico ($18\,m^2$ per abitante per i comuni con più di 10'000 abitanti);
+* legge 865/1971: __esproprio per piani di insediamento produttivi__ (industrie);
+* legge 10/1997: concessioni edilizie;
+* legge 457/1978: recupero dei centri storici per evitare l'abbandono.
+
+#### VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO (pag. 20)
