@@ -1,7 +1,9 @@
 --- 
+title: Appunti di Tecnica Urbanistica  
 Docenti: *Geneletti* - *Zanon*  
-Autore: *Matteo Franzoi - 2019-03-20*
-Università degli Studi di Trento
+Autore: *Matteo Franzoi - 2019-03-20*  
+Università degli Studi di Trento  
+---
 ---
 
 - [INTRODUZIONE AL CORSO](#introduzione-al-corso)
@@ -32,6 +34,11 @@ Università degli Studi di Trento
       - [INFRASTRUTTURE STRADALI](#infrastrutture-stradali)
       - [COME SCEGLIERE LE LINEE FERROVIARIE?](#come-scegliere-le-linee-ferroviarie)
       - [BONIFICHE](#bonifiche)
+  - [PIANIFICAZIONE URBANISTICA](#pianificazione-urbanistica)
+    - [MILANO](#milano)
+    - [BOLOGNA](#bologna)
+    - [NAPOLI](#napoli)
+  - [IL SECONDO DOPOGUERRA (pag. 17)](#il-secondo-dopoguerra-pag-17)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -322,3 +329,28 @@ Dopo il 1936, con l'avvento dell'idroelettrico e la carenza di carbone, si avvia
 Nel 2009 le principali reti ferroviarie erano collegate con le linee europee.
 
 ##### BONIFICHE
+I cambiamenti territoriali possono avvenire anche attraverso **bonifiche** e arginazioni (come ad esempio per il Po). Gli interventi possono essere finanziati sia dal pubblico (in particolare per i corsi d'acqua) che da privati.  
+Le dimensioni degli interventi dell'epoca erano molto grandi. Un esempio possono essere il _delta del Po_, la _pianura veronese e ferrerase_.  
+I privati che finanziavano le bonifiche erano principalmente grandi imprese capitalistiche che avevano il fine di lavorare il terreno. Importanti lavori sono stati fatti anche costruendo collegamenti e servizi, che formarono poi un **capoluogo**. Un esempio di questo processo è _Latina_.  
+Nel primo dopoguerra il compito di bonificare le aree di Latina era stato dato ai reduci della prima guerra mondiale (invece che alle grandi imprese).
+
+Dal 1932, 60'000 contadini veneti, friulani e ferraresi si trasferirono nelle aree bonificate.
+
+Le nuove città vengono progettate con l'idea di _città italiana_ e quindi con una __centralità__ e una __griglia__ abbastanza regolare.
+
+### PIANIFICAZIONE URBANISTICA
+#### MILANO
+Le città si espandono molto velocemente e in modo diverso dalla città storica per via delle diverse attrezzature e dei diversi servizi.  
+Si ha la necessità di individuare luoghi per la residenza adatti alle diverse gerarchie di popolazione. Non basta però individuare e inventare lo spazio, ma serve creare dei _modelli di pianificazione_.  
+
+La città diventa sempre più estesa e necessità di un trasporto pubblico massiccio. Essendo le strade non adatte al transito di un elevato flusso di veicoli, si creano delle sezioni stradali più larghe affiancate a marciapiedi molto ampi protetti da alberi (viali alberati).
+
+#### BOLOGNA
+Le mura vengono abbattute e la città si espande in cerchie centrate nella città vecchia collegate ad essa mediante strade radiali. Questo processo ha un costo per la comunità ma allo stesso tempo porta dei vantaggi in termini di valori degli edifici nelle nuove zone.
+
+#### NAPOLI
+Dopo l'epidemia di colera (1885) il centro viene sventrato e viene fatto un viale centrale.  
+Passa la legge per l'esproprio e il risanamento in modo da bonificare la città messa in ginocchio dalla malattia.  
+L'approccio della demolizione viene mantenuto anche durante l'epoca fascista, non svecchiando né aggiornando la città.
+
+### IL SECONDO DOPOGUERRA (pag. 17)
