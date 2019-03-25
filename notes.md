@@ -46,7 +46,23 @@ Università degli Studi di Trento
     - [NUOVE INFRASTRUTTURE](#nuove-infrastrutture)
     - [BOOM EDILIZIO](#boom-edilizio)
     - [EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA](#evoluzione-della-normativa-urbanistica-nel-dopoguerra)
-    - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO (pag. 20)](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio-pag-20)
+    - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio)
+    - [L'AMBIENTE NEL DOPOGUERRA](#lambiente-nel-dopoguerra)
+- [EVOLUZIONE DEL PIANO URBANISTICO](#evoluzione-del-piano-urbanistico)
+  - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale-1)
+    - [NEW YORK](#new-york)
+  - [PIANO OTTOCENTESCO](#piano-ottocentesco)
+  - [I PIANI DEL '900 IN ITALIA](#i-piani-del-900-in-italia)
+  - [ATTUAZIONE DEL PIANO](#attuazione-del-piano)
+    - [PEREQUAZIONE](#perequazione)
+  - [ZONING](#zoning)
+  - [AMSTERDAM - PIANO RAZIONALISTA (1934)](#amsterdam---piano-razionalista-1934)
+  - [ITALIA](#italia)
+    - [TRENTO](#trento)
+- [IL PIANO REGOLATORE GENERALE](#il-piano-regolatore-generale)
+  - [FINALITÀ DEL PIANO](#finalit%C3%A0-del-piano)
+  - [COSTRUZIONE DEL PIANO URBANISTICO](#costruzione-del-piano-urbanistico)
+    - [RUOLO E FORMA DEL PIANO](#ruolo-e-forma-del-piano)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -423,4 +439,93 @@ Le leggi e le normative urbanistiche del secondo dopoguerra erano:
 * legge 10/1997: concessioni edilizie;
 * legge 457/1978: recupero dei centri storici per evitare l'abbandono.
 
-#### VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO (pag. 20)
+#### VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO 
+Dopo una sentenza della Corte Costituzionale, i vincoli dei piani per l'esproprio sono diventati a __tempo determinato__. In precedenza, infatti, i piani potevano prevedere degli espropri per servizi pubblici senza l'obbligo di doverli costruire entro una data precisa.  
+Inoltre, dal 2007 l'indennità di esproprio avviene al prezzo di mercato, il che lo rende molto dispendioso economicamente per la pubblica amministrazione.
+
+#### L'AMBIENTE NEL DOPOGUERRA
+Durante il secondo dopoguerra sono state approvate delle leggi per la tutela dell'ambiente. In particolare:
+* 1939: legge sulla tutela delle bellezze;
+* 1985 - legge Galasso: sottopone a vincolo zone, aree e luoghi di grande importanza e bellezza (laghi, coste, ...). Impone dei controlli paesaggistici per costruire;
+* 2004: codice beni culturali e paesaggio.
+
+## EVOLUZIONE DEL PIANO URBANISTICO
+### CITTÀ INDUSTRIALE
+La città industriale è caratterizzata da nuove componenti: le fabbriche.  
+Diventa importante collegare tra loro le componenti della città e definire modelli urbani di abitabilità di determinate classi sociali.
+
+#### NEW YORK
+A New York, i commissari definiscono una _griglia regolare_ e semplice che risulta un elemento solido pesantemente impiegato.  
+Di notevole importanza per una città così ampia sono gli spazi verdi: viene creato _Central Park_, parco molto vasto posizionato in mezzo alla città.  
+Alle strade principali viene dato il nome di "i - esima" __Aveneu__. Alle strade secondarie "j - esima" __Street__. Entrambe non risultavano eccessivamente larghe (come i viali francesi).  
+Il modello di edificio impiegato si estende in altezza, in modo da occupare meno area possibile del territorio.
+
+### PIANO OTTOCENTESCO
+Adegua la città storica e la collega alla nuova città mediante modelli tipicamente a griglia caratterizzati da edifici con facciata che dà sulla strada e cortili interni.
+
+Non sempre il modello a griglia è accettato: nascono dei movimenti che prediligono il "pittoresco" caratteristico della città vecchia.  
+Questi si basano sul disegno irregolare con la proposta, all'inizio del '900, di città giardino a bassa densità, dove prevale il verde. In molti casi vengono creati _quartieri giardino_: schiere circondate da giardini e posizionate su griglie deformate.
+
+### I PIANI DEL '900 IN ITALIA
+All'inizio del '900 c'è una contrapposizione tra il disegno urbanistico regolare, a griglia, e il disegno pittoresco.
+
+### ATTUAZIONE DEL PIANO
+L'attuazione del piano necessita di riorganizzare le aree.  
+In Germania nascono i primi __piani di lottizzazione__: si riorganizzano le superfici per definire lotti edificabili, strade, marciapiedi che vengono detratti dalle superfici edificabili.
+
+#### PEREQUAZIONE
+Se l'esproprio è molto caro, il privato cede una parte di terreno per costruire strade, servizi pubblici (area per standard) tenendosene una parte utilizzabile (area privata).
+
+### ZONING
+Lo zoning è un meccanismo di pianificazione secondo zone del territorio comunale, che viene smaterializzato.  
+Il territorio viene diviso in zone a cui vengono definite le destinazioni d'uso (zona residenziale, zona industriale, ...) e gli indici edificabili (distanza dai confini, altezza massima, ...).
+
+### AMSTERDAM - PIANO RAZIONALISTA (1934)
+Si attiva un percorso di analisi preliminari e di previsione negli anni futuri in funzione del numero di abitanti futuro (scuole necessarie, servizi, ...).
+
+Vengono costituiti dei quartieri residenzili serviti da scuole e servizi pubbici vari.  
+Il territorio viene suddiviso in zone che definiscono il piano attuativo.
+
+### ITALIA
+In Italia, viene approvata la legge urbanistica 1150/1942: piano post razionalista, dove vengono attuate delle previsioni (in genere poco accurate) e delle indagini.  
+
+Le periferie crescono in maniera disordinata, obbligando il pubblico a creare servizi (fognature, strade, ...) per poche case sparse sul territorio.
+
+Viene impiegato lo zoning dalla pubblica amministrazione, che risulta però poco impegnata ed efficacie. Inizia un intervento da parte dei privati.
+
+__N.B. Il piano non è un progetto! Dà più libertà di interpretazione e delle indicazioni su cosa fare e cosa non fare__.
+
+Sulla base della legge urbanistica del 1942, sono stati avviati i __piani__ (anche se in ritardo, intorno agli anni '70). Questi prevedevano lo __zoning__ distinguendo le attività che potevano essere svolte e le funzioni ammesse in determinate zone.
+
+#### TRENTO
+A Trento, il PRG del 1989 contiene lo zoning che è composto da microzone. Questo lo rende facilmenta attuabile.
+
+In zone già urbanizzate, o in lottizzazioni, si può intervenire applicando un _piano attuativo_.
+
+## IL PIANO REGOLATORE GENERALE
+Il PRG si occupa sia di questioni al lungo periodo sia a breve periodo.
+
+### FINALITÀ DEL PIANO
+Il piano deve rispondere alle esigenze della comunità. Questo rende il piano di competenza del comune, ente pià vicino al cittadino.  
+Il piano deve comunque bilanciare attese collettive (parcheggi, sicurezza, ...) ma anche interloquire con diversi interessi dei cittadini, a volte conflittuali.
+
+### COSTRUZIONE DEL PIANO URBANISTICO
+In Trentino, si ha:
+* piano territoriale: deve essere soddisfatto dal PRG;
+* piano paesaggistico (non regolamenta le infrastrutture, ...).
+  
+#### RUOLO E FORMA DEL PIANO
+Il piano è composto da:
+* norme e indicazioni;
+* progetto o processo;
+* rapporti tra scale o fasi e soggetti attuatori.
+
+Vi sono diverse declinazioni del piano:
+* piano strategico: decisioni e strategie da assumere per il cambiamento;
+* piano strutturale: riguarda la struttura del territorio. Include le invarianti (monte Bondone, Duomo, autostrada, ...) che non possono essere spostate;
+* piano operativo: piano di intervento e di trasformazione (presente ad esempio in Veneto);
+* piano di uso del suolo: regolamenta gli usi e la trasformabilità del suolo;
+* piano comprensivo: somma un po' tutti i piani precedenti. Un esempio è il PRG di Trento.
+
+
+(pag. 25)
