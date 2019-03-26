@@ -63,6 +63,16 @@ Università degli Studi di Trento
   - [FINALITÀ DEL PIANO](#finalit%C3%A0-del-piano)
   - [COSTRUZIONE DEL PIANO URBANISTICO](#costruzione-del-piano-urbanistico)
     - [RUOLO E FORMA DEL PIANO](#ruolo-e-forma-del-piano)
+    - [DIMENSIONAMENTO](#dimensionamento)
+      - [TRENTO](#trento-1)
+  - [DOCUMENTI DEL PIANO](#documenti-del-piano)
+  - [RAPPORTI CON TEMI E STRUMENTI DI SETTORE](#rapporti-con-temi-e-strumenti-di-settore)
+  - [ZONING](#zoning-1)
+  - [STANDARD URBANISTICI](#standard-urbanistici)
+    - [ZONE TERRITORIALI OMOGENEE](#zone-territoriali-omogenee)
+    - [INDICI URBANISTICO - EDILIZI](#indici-urbanistico---edilizi)
+  - [DEFINIZIONE DEGLI INTERVENTI EDILIZI](#definizione-degli-interventi-edilizi)
+  - [L'ITER DI APPROVAZIONE DEL PIANO (pag. 31)](#liter-di-approvazione-del-piano-pag-31)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -527,5 +537,109 @@ Vi sono diverse declinazioni del piano:
 * piano di uso del suolo: regolamenta gli usi e la trasformabilità del suolo;
 * piano comprensivo: somma un po' tutti i piani precedenti. Un esempio è il PRG di Trento.
 
+#### DIMENSIONAMENTO
+In alcuni casi è necessario modificare il piano perché servono alloggi, parcheggi, servizi, ecc. Si possono distinguere due visioni di dimensionamento del piano:
+* __visione funzionalista__: consiste nel prevedere i fabbisogni delle persone e le dimensioni di servizi e infrastrutture;
+* __visione incrementalista__: consiste nell'identificare le esigenze e creare delle soluzioni.
 
-(pag. 25)
+Nel dimensionamento si deve riuscire a soddisfare, oltra alla quantità di richieste, anche la _qualità_, definendo una tipologia edilizia e degli __standard__: una persona ha bisogno di $100\,m^3$ (o $25\,m^2$).  
+Si deve anche decidere il ruolo dei soggetti per le responsabilità.
+
+##### TRENTO
+Trento è un territorio molto eterogeneo. L'80% del territorio del comune di Trento è _extraurbano_ e il restante 20% _urbano_. Di quest'ultimo, il 50% degli alloggi è di proprietà pubblica. Il PRG deve essere in grado di normare tutto il territorio e di fornire un quadro urbano coerente, combinando in maniera appropriata tutte le componenti.
+
+### DOCUMENTI DEL PIANO
+Il piano è composto da tre elementi principali:
+* __relazione__: giustifica, descrive e argomenta le scelte fatte per l'interesse pubblico. Dà indicazioni su come fare certi interventi;
+* __cartografia__: zonizza il territorio in funzione agli utilizzi. Rimanda alle norme per i vincoli progettuali;
+* __norme di attuazione__
+
+### RAPPORTI CON TEMI E STRUMENTI DI SETTORE
+Il PRG deve soddisfare piani e tematiche di settore quali:
+* sicurezza idrogeologica: in genere contenuta nel __piano di bacino__ che attraverso la __carta geologica__ indica le zone geologicamente pericolose o problematiche e mette a tutela zone di sorgenti e pozzi;
+* valori naturalistici (aree protette);
+* valori paesaggistici (aree sottoposte a vincoli paesaggistici come boschi, corsi d'acqua, ...);
+* valori storico - culturali (immobili sottoposti a vincolo come il Duomo, ...);
+* piani di settore: un esempio sono il piano di mobilità (si può limitare alla circolazione ma deve comunque accordarsi al piano regolatore), il piano per lo smaltimento dei rifiuti, ecc.;
+
+### ZONING
+Lo zoning consiste nell'individuazione cartografica delle diverse zone. Bisogna comunque tener conto delle fasce di rispetto da autostrade, ferrovie, depuratori, ecc. Questo rende lo zoning un processo complicato.
+
+### STANDARD URBANISTICI
+Gli standard urbanistci sono stati definiti da un decreto ministeriale del 1968 e dalla legge "__Ponte__" del 1967 e fissano operativamente parametri quali:
+* limite inderogabile di densità edilizia;
+* altezza massima;
+* distanza tra i fabbricati;
+* ecc.
+
+Il piano regolatore deve già soddisfare i limiti e gli standarde definiti, prevedendo spazi pubblici e parcheggi.
+
+Il decreto interviene _fissando limiti ai parametri edificatori e prescrivendo aree e attrezzature pubbliche_.
+
+Gli __standard urbanistici__ sono quantità minime prescritte per le quantità di spazi pubblici, di verde pubblico, di parcheggi, da osservare nella redazione di un piano urbanistico.
+
+#### ZONE TERRITORIALI OMOGENEE
+La norma sugli standard individua le zone territoriali omogenee:
+* __A__: centri storici;
+* __B__: parti ediciate consolidate;
+* __C__: aree di nuovo sviluppo residenziale;
+* __D__: aree per insediamenti industriali;
+* __E__: aree agricole;
+* __F__: aree per attrezzature e impianti di interesse generale.
+
+Il decreto sugli standard impone che _per ogni abitante insediato o da insediare deve essere prevista una superficie minima di spazi pubblici pari a_:
+* $18\,m^2$ per insediamenti residenziali con un numero di abitanti superiore a 10'000;
+* $12\,m^2$ per insediamenti residenziali con un numero di abitanti inferiore a 10'000;
+
+Questa superficie viene ripartita come segue:
+* $4.50\,m^2$ __istruzione__: asili nido, scuole materne, scuole dell'obbligo;
+* $2.00\,m^2$ __aree attrezzate__: sanitarie, religiose, culturali;
+* $9.00\,m^2$ __spazi pubblici attrezzati a parco__ e per il gioco e per lo sport;
+* $2.50\,m^2$ __parcheggi__.
+
+Il __dimensionamento__ avviene tramite  indici di densità, territoriale o fondiaria ($\simeq 2\,m^3/m^2$), e parametri che misurano le esigenze di spazio pro capite (circa $25\,m^2$ di superfricie abitabile).
+
+Indici di densità territoriale alti portano a superfici effettivamente edificabili minori e quindi indici di densità fondiaria bassi.
+
+Le _aree a standard_ sono _aree pubbliche_ cedute dai privati al pubblico (in caso di lottizzazioni, ...).
+
+Oltre ai parcheggi pubblici che rientrano, però, nelle aree a standard, bisogna tener conto del numero di _parcheggi privati_ delle zone edificate che sono differenti da quelli pubblici.
+
+#### INDICI URBANISTICO - EDILIZI
+__Come si attua un piano regolatore?__
+
+Il piano regolatore si attua per _piani attuativi_ (in caso di lottizzazioni) o, in alcuni casi, per _intervento diretto_ (servizi già presenti).
+
+Si devono comunque rispettare le regole imposte dagli indici edificatori tipo:
+* rapporto di copertura  
+<img src="images/rapportoCopertura.jpg" alt="drawing" width="400"/>
+* superficie minima dei lotti: conferisce omogeneità all'edificazione. È presente in alcuni piani regolatori;
+* distanza minime tra edifici: $10\,m$ (decreto ministeriale) oppure la proiezione dell'edificio più elevato se la confrontanza è maggiore o uguale a $12\,m$.  
+<img src="images/distanzaEdifici.jpg" alt="drawing" width="400"/> <img src="images/confrontanza.jpg" alt="drawing" height="135"/>  
+È possibile derogare in caso di pareti non finestrate, di vani scala, ecc.;
+* altezza degli edifici: il piano descrive anche la modalità di misura (gronda, metà falda, colmo, ...);
+* densità fondiaria: espressa in $m^3 / m^2$ o in $m^2_{calpestabili} / m^2$. Nel secondo caso vani come ingresso, vano scala, muratura, ecc. non vengono contati (adottato dal PRG di Trento). Per indici di densità fondiaria più grandi di $3\,m^3/m^2$ è necessario un piano attuativo. Per limitare l'edificabilità (ad esempio in zone agricole) si abbassa l'indice edificatorio. Per le residenze in territorio aperto il rapporto è di $0.01\,m^3/m^2$;
+* densità terrioriale: rapporto tra volume edificabile e superficie dove alcune aree sono destinate secondo gli standard;
+* distanza dai confini ($5\,m$);
+* distanza dalle strade: definita dal decreto sugli standard vale all'esterno dei centri abitati;
+* superfici a parcheggio: sono presenti 2 indicazioni:
+  - riferita all'edificio: $1\,m^2$ di parcheggio ogni $10\,m^3$ di edificio per assicurare la funzionalità dell'edificio;
+  - riferita alla città: $2.5\,m^2/abitante$ di parcheggi pubblici;
+* superfici a verde: in aree produttive il decreto sugli standard impone una quota minima di aree verdi;
+* altri indici: permeabilità del suolo, ecc.
+
+### DEFINIZIONE DEGLI INTERVENTI EDILIZI
+Gli interventi edilizi sono normati non solo da zonizzazione, destinazioni d'uso e da indici ma anche da indicazioni riferite all'intervento specifico ai singoli edifici.
+
+Alcune parti, come nel centro urbano, non sono regolamentate da indici ma dall'_individuazione di singole unità edilizie_ e dalla refolazione degli interventi da effettuare. Ad esempio, per edifici storici, non sono importanti i limiti di volume e le distanze, ma viene regolamentata con riferimento alle operazioni di restauro e conservazione dello stesso.  
+Ogni singola unità edilizia avrà le sue regole da rispettare.
+
+Secondo la _legge n. 457 art. 31 del 5 agosto 1978_ gli interventi possibili sono:
+* manutenzione ordinaria: riparazione, rinnovamento, mantenimento dell'efficienza dell'edificio (impianti, ...);
+* manutenzione straordinaria: modificare o sostituire parti strutturali, realizzare servizi igienico - sanitari o tecnologici (senza che aumentino il volume dell'edificio e la superficie delle unità o modifichino le destinazioni d'uso);
+* restauro e risanamento conservatorio: conservare l'organismo edilizio e assicurarne le funzionalità. Esempi sono il consolidamento, ripristino e rinnovo degli elementi dell'edificio. Reastauro e risanamento sono due interventi diversi: il restauro è molto rigoroso mentre il risanamento è più libero ma non consente di modificare drasticamente l'aspetto dell'edificio;
+* ristrutturazione edilizia: trasformare gli organismi edilizi mediante un insieme di opere in modo da ottenere un organismo in parte o del tutto diverso dal precedente. Include anche la demolizione e successiva __fedele__ ricostruzione di un fabbricato identico;
+* nuova costruzione: trasformazione edilizia o urbanistica del territorio;
+* ristrutturazione urbanistica: sostituire il tessuto urbanistico - edilizio.
+
+### L'ITER DI APPROVAZIONE DEL PIANO (pag. 31)
