@@ -88,7 +88,34 @@ Università degli Studi di Trento
     - [PRODUZIONE CARTOGRAFICA](#produzione-cartografica)
     - [DATI PER ANALISI URBANE e TERRITORIALI](#dati-per-analisi-urbane-e-territoriali)
       - [DOVE SI TROVANO I DATI?](#dove-si-trovano-i-dati)
-  - [ANALISI AMBIENTALI (pag. 37)](#analisi-ambientali-pag-37)
+  - [ANALISI AMBIENTALI](#analisi-ambientali)
+  - [MOBILITA'](#mobilita)
+- [I DATI](#i-dati)
+  - [TIPI DI DATI](#tipi-di-dati)
+  - [VALIDITA' e AFFIDABILITA'](#validita-e-affidabilita)
+- [ANALISI DEMOGRAFICHE PER LA PIANIFICAZIONE](#analisi-demografiche-per-la-pianificazione)
+  - [STUDIO DEI CARATTERI DI UNA POPOLAZIONE](#studio-dei-caratteri-di-una-popolazione)
+  - [BILANCIO DEMOGRAFICO](#bilancio-demografico)
+  - [STRUTTURA DELLA POPOLAZIONE](#struttura-della-popolazione)
+  - [PIRAMIDE DELLE ETA'](#piramide-delle-eta)
+  - [ANALISI DEI TASSI](#analisi-dei-tassi)
+  - [PREVISIONE DELLA POPOLAZIONE](#previsione-della-popolazione)
+    - [METODO DI SOPRAVVIVENZA DELLE CORORTI (CLASSI DI ETA')](#metodo-di-sopravvivenza-delle-cororti-classi-di-eta)
+- [ANALISI TIPOLOGICA e MORFOLOGICA URBANA](#analisi-tipologica-e-morfologica-urbana)
+  - [LA TIPOLOGIA](#la-tipologia)
+  - [SENSO DELLA TIPOLOGIA](#senso-della-tipologia)
+  - [TIPOLOGIA e MORFOLOGIA URBANA](#tipologia-e-morfologia-urbana)
+  - [TIPOLOGIE DI EDIFICI](#tipologie-di-edifici)
+- [TERRITORIO, INSEDIAMENTO, ATTIVITA'](#territorio-insediamento-attivita)
+  - [RELAZIONI VERTICALI e ORIZZONTALI](#relazioni-verticali-e-orizzontali)
+  - [LOCALIZZAZIONE DELLE ATTIVITA' SUL TERRITORIO](#localizzazione-delle-attivita-sul-territorio)
+    - [PRINCIPI DI ORGANIZZAZIONE TERRITORIALE (CAMAGNI)](#principi-di-organizzazione-territoriale-camagni)
+      - [AGGLOMERAZIONE](#agglomerazione)
+      - [ACCESSIBILITA'](#accessibilita)
+      - [INTERAZIONE SPAZIALE](#interazione-spaziale)
+      - [GERARCHIA](#gerarchia)
+      - [COMPETITIVITA'](#competitivita)
+- [I SERVIZI PUBBLICI (pag. 44)](#i-servizi-pubblici-pag-44)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -788,4 +815,162 @@ Gli aspetti da indagare sono:
 * servizi (pubblici): scuole, strade, etc. Quante sono? In che condizioni sono?
 * quadro normativo, vincoli, sistema di piani: è sempre utile tracciare un quadro generale sui vincoli che gravano.
 
-### ANALISI AMBIENTALI (pag. 37)
+### ANALISI AMBIENTALI 
+I piani ambientali hanno valenza anche nei piani paesaggistici, come ad esempio i piani provinciali e i piani di bacino.
+
+I piani ambientali si riferiscono a:
+* gestione delle risorse: acque, foreste, agricoltura, etc.;
+* paesaggio: utile per conoscere le trasformazioni ambientali a scala medio - grande (ecologia del paesaggio);
+* ciclo dell'acqua;
+* sicurezza idrogeologica.
+
+### MOBILITA'
+Un esempio sulla mobilità è il piano urbano di moblità, che non va inteso solo come una questione sul traffico ma rigurda le relazioni con il territorio (collegamento tra poli).
+
+## I DATI
+I dati si distinguono in:
+* __dati primari__: raccolti direttamente;
+* __dati secondari__: disponibili o raccolti da altri enti.
+
+I dati devono essere adeguati alle proprie esigenze conoscitive (livello territoriale o di aggiornamento). La qualità dei dati è legata alla finalità degli stessi.
+
+I dati hanno senso se corredati da __indicatori__ che rappresentano i valori dei _dati grezzi_ in un contesto (valori percentuali, numeri indice, etc.).
+
+`I numeri indice si calcolano ponendo a 100 il valore di riferimento (ad esempio un anno) e visualizzando la variazione dei valori (nel corso degli anni) rispetto al riferimento.`
+
+### TIPI DI DATI
+I dati possono essere:
+* quantitativi: grandezze assunte da variabili (percentuali, numeri indice, etc.). In urbanistica sono i più interessanti;
+* qualitativi: qualità dei dati (va bene o non va bene).
+
+### VALIDITA' e AFFIDABILITA'
+* validità: pertinenza delle variabili per definire il concetto da studiare;
+* affidabilità: coerenza dei dati impiegati.
+
+## ANALISI DEMOGRAFICHE PER LA PIANIFICAZIONE
+Le analisi demografiche mettono in luce:
+* dimensione della popolazione residente totale e la sua variazione;
+* dinamiche familiari;
+* struttura della popolazione;
+* componente della varizione;
+* mobilità territoriale.
+### STUDIO DEI CARATTERI DI UNA POPOLAZIONE
+Consiste nello studio della variazione di popolazione nel tempo in ambito territoriale.
+
+### BILANCIO DEMOGRAFICO
+Riguarda il territorio (comune, provincia, regione, Stato) e si compone di: 
+* bilancio naturale (nati/morti);
+* bilancio sociale o migratorio;
+* altre variazioni.
+
+### STRUTTURA DELLA POPOLAZIONE 
+E' definita dalla composizione per sesso e classi di età. Dipende direttamente dagli andamenti di fertilità, mortalità e immigrazione.
+
+### PIRAMIDE DELLE ETA'
+Rappresenta la composizione di popolazione per classi di età, divisa per sesso.
+
+### ANALISI DEI TASSI
+Tassi e indici usati dai demografi per descrivere la popolazione media sono:
+* tasso (rapporto);
+* coorte.
+
+Gli indici descrivono in modo sintetico condizioni dei caratteri della popolazione (problematiche sociali ed economiche, etc.).
+
+### PREVISIONE DELLA POPOLAZIONE
+tra le tante modalità di previsione ce n'è una molto interessante:
+#### METODO DI SOPRAVVIVENZA DELLE CORORTI (CLASSI DI ETA')
+E' un metodo probabilistico per proiettare il numero di nati. Unico neo è che non si conosce in numero di immigrati.
+
+## ANALISI TIPOLOGICA e MORFOLOGICA URBANA
+Camillo Sitte, architetto austriaco, studiò la forma delle città e del centro storico guardando le relazioni tra edifici storici ed edifici attorno.
+
+### LA TIPOLOGIA
+Sitte classificò le tipologie di edifici in:
+* tipo edilizio: riferimento formale, funzionale e tecnologico con il quale, in una certa epoca, viene costruita l'"edilizia di base";
+* varianti: dal tipo iniziale si sviluppano e si evolvono ulteriori tipi, sia contemporaneamente che in epoche successive.
+
+### SENSO DELLA TIPOLOGIA
+* concetto di casa in un certo luogo e in un certo tempo;
+* modello: viene creato un modello di casa da replicare. "_Il tipo sostituisce il progetto_" (G. C. Argan);
+* controllo delle trasformazioni e/o progettazione: fondazioni o espansioni urbane, lottizzazioni, regole (e.g. lotto gotico).
+
+### TIPOLOGIA e MORFOLOGIA URBANA
+Il tipo edilizio è legato alla morfologia urbana e alle sue relazioni. Si parla di __tessuto costruttivo__.
+
+Bisogna tener conto delle trasforamazioni eseguite all'insediamento con certe modalità.
+
+Dopo gli anni '60 - '70 tutte le città hanno iniziato a mappare le tipologie urbane e il loro rapporto con il sistema viario.  
+Questi studi sono serviti per regolarizzare l'edificazione urbanistica.
+
+### TIPOLOGIE DI EDIFICI
+Gli edifici possono essere:
+* __singola__: unità abitativa non aggregabile. Ha un giardino privato;   
+<img src="images/singola.jpg" alt="drawing" width="200"/>
+* __a schiera__: unità abitativa aggregabile con:  
+  * ingressi indipendenti;
+  * spazi privati di pertinenza all'aperto;
+  * due muri in comune e unità affiancate;
+  * due soli fronti a contatto con l'esterno.    
+<img src="images/schiera.jpg" alt="drawing" width="200"/>
+* __in linea__: caratterizzate da aggregazioni lineari, non necessariamente rettilinee, di unità immobiliari accorpate a due a due (o più) attorno a un collegamento verticale;  
+<img src="images/linea.jpg" alt="drawing" width="400"/>
+* __a ballatoio__  
+<img src="images/ballatoio.jpg" alt="drawing" width="600"/>
+* __a torre__: hanno forma diversa ma caratteristiche comuni:
+  * isolati su tutti i fronti;
+  * più unità abitative per ogni piano;
+  * elemento/i di connessione verticale.
+
+## TERRITORIO, INSEDIAMENTO, ATTIVITA'
+### RELAZIONI VERTICALI e ORIZZONTALI
+Lo spazio si può distinguere in:
+* spazio geografico:
+  * costruito dalla natura;
+  * integrazioni tra le attività;
+  * è una __relazione verticale__.
+* spazio economico:
+  * costruito dall'uomo;
+  * relazioni di scambio tra siti diversi;
+  * è una __relazione orizzontale__.
+
+Il territorio è l'unione tra entrambe le relazioni, che sono in continuo cambiamento.
+
+### LOCALIZZAZIONE DELLE ATTIVITA' SUL TERRITORIO
+Come mai certe attività si localizzano su certi siti?
+
+Si ricercano i __fattori di localizzazione__.
+#### PRINCIPI DI ORGANIZZAZIONE TERRITORIALE (CAMAGNI)
+I principi fondamentali definiti da Camagni sono:
+* agglomerazione;
+* accessibilità;
+* integrazione spaziale;
+* gerarchia;
+* competitività.
+
+##### AGGLOMERAZIONE
+Esistono logiche ed economie di agglomerazione, divise in:
+* economie di scala: i costi diminuiscono con l'aumento della dimensione industriale efficiente. Bisogna fate attenzione poiché la produzione centralizzata in un'unica industria causa la _diseconomia_ (o inceppo). La _diseconomia_ porta a delocalizzare la singola impresa e crea una grande mobilità territoriale. Dal punto di vista urbano l'economia di scala ha senso solo per un numero elevato di utilizzatori (ospedali, aeroporti, etc.);
+* economie esterne: economie che si ricavano grazie agli investimenti di un investitore esterno. Si dividono in:
+  * economie di localizzazione: sono, ad esempio, le economie che si creano per i lotti fuori da uno svincolo autostradale;
+  * economie di urbanizzazione: vantaggi dati da servizi come università, poli, etc.  
+
+  Superate certe soglie si creano diseconomie causate da congestione, costi elevati, etc.
+
+##### ACCESSIBILITA'
+Fattore di definizione dell'organizzazione del territorio, in particolate delle infrastrutture.  
+L'accessibilità cambia rapidamente grazie a nuove modalità (Flixbus, BlaBlaCar, etc.)
+
+##### INTERAZIONE SPAZIALE
+Rapporti che l'attività crea con l'ambiente circostante. Queste relazioni possono essere viste come campi gravitazionali (più grande è la città più azienda grandi attrae).
+
+##### GERARCHIA
+Principio che cerca di comprendere la differenza dimensionale dei centri e la loro distanza o posizione reciproca.  
+C'è una gerarchia dei centri, dovuta alla dimensione e alla frequenza di visita degli stessi.  
+Esistono vari modelli di centri:
+* località centrali;
+* rango - dimensione.
+
+##### COMPETITIVITA'
+Principio che individua la crescita delle città di quel pezzo di economia di esportazione che non favorisce la crescita della città.
+
+## I SERVIZI PUBBLICI (pag. 44)
