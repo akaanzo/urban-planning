@@ -72,7 +72,23 @@ Università degli Studi di Trento
     - [ZONE TERRITORIALI OMOGENEE](#zone-territoriali-omogenee)
     - [INDICI URBANISTICO - EDILIZI](#indici-urbanistico---edilizi)
   - [DEFINIZIONE DEGLI INTERVENTI EDILIZI](#definizione-degli-interventi-edilizi)
-  - [L'ITER DI APPROVAZIONE DEL PIANO (pag. 31)](#liter-di-approvazione-del-piano-pag-31)
+  - [L'ITER DI APPROVAZIONE DEL PIANO](#liter-di-approvazione-del-piano)
+    - [INTERVENTO DIRETTO](#intervento-diretto)
+    - [PIANI ATTUATIVI](#piani-attuativi)
+      - [PROGRAMMA INTEGRATO DI INTERVENTO](#programma-integrato-di-intervento)
+    - [PROCEDURE AMMINISTRATIVE](#procedure-amministrative)
+      - [REGOLAMENTO EDILIZIO](#regolamento-edilizio)
+      - [COMMISSIONE EDILIZIA](#commissione-edilizia)
+- [LE ANALISI URBANE E TERRITORIALI](#le-analisi-urbane-e-territoriali)
+  - [ANALISI e PIANO](#analisi-e-piano)
+  - [SAPERE ESPERTO, SAPERE CONTESTUALE](#sapere-esperto-sapere-contestuale)
+  - [SISTEMI INFORMATIVI TERRITORIALI (SIT) e GEOGRAPHICAL INFORMATION SYSTEM (GIS)](#sistemi-informativi-territoriali-sit-e-geographical-information-system-gis)
+    - [SIT](#sit)
+  - [CARTOGRAFIA](#cartografia)
+    - [PRODUZIONE CARTOGRAFICA](#produzione-cartografica)
+    - [DATI PER ANALISI URBANE e TERRITORIALI](#dati-per-analisi-urbane-e-territoriali)
+      - [DOVE SI TROVANO I DATI?](#dove-si-trovano-i-dati)
+  - [ANALISI AMBIENTALI (pag. 37)](#analisi-ambientali-pag-37)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -88,39 +104,39 @@ L'esame si composto da:
 
 ## TERMINI DELLE DISCIPLINE TERRITORIALI
 * **urbanistica**: impiegato dall'ingegnere spagnolo *Alfonso Cerdà* (1885) nel 1867 per designare una disciplina autonoma avente per scopo l'organizzazione del territorio.
-* **pianificazione**: processo decisionale orientato a risolvere problemi. E` impiegato in campi diversi (ambiente, economia, ...) ed è un concetto **diverso dal progetto**!  
+* **pianificazione**: processo decisionale orientato a risolvere problemi. E` impiegato in campi diversi (ambiente, economia, etc.) ed è un concetto **diverso dal progetto**!  
 Richiede di precisare il problema e fare delle previsioni (processo molto rischioso).
-* **piano regolatore**: regola l'uso di zone del territorio attraverso regole e indicazioni. Presenta dei contenuti di *disegno urbano* come il **progetto alla scala urbana** (infrastrutture, scuole, ...).
+* **piano regolatore**: regola l'uso di zone del territorio attraverso regole e indicazioni. Presenta dei contenuti di *disegno urbano* come il **progetto alla scala urbana** (infrastrutture, scuole, etc.).
 * **governo del territorio**: è stato introdotto nel 2001 nella *Costituzione* italiana. Amplia il concetto di *urbanistica* a tutte le azioni di **trasformazione del territorio**.
 * **territorio**: *spazio organizzato dall'uomo*. Ha dimensione ampia e fa riferimento anche all'ambito di governo: `il comune interviene su un certo territorio, la provincia su un altro e lo Stato su un altro ancora`. Si riferisce a **funzioni** e alle loro **relazioni** da organizzare spazialmente.
 * **ambiente**: termine molto ampio, di diversi significati in base ai contenuti. In urbanistica ci si riferisce all'ambiente come allo spazio vitale (**habitat**), non solo dell'uomo ma di tutta la natura (materia vivente), cioè dell'**ecosistema**.  
 Dove prima c'era un ambiente omogeneo (di una sola specie) a causa delle prevalenza di alcune specie, dopo la modifica da parte dell'uomo si ha un sistema di *biodiversità* caratterizzato da una mescolazione di specie presenti nell'ambiente.  
-Il riconoscimento giuridico dell'ambiente è avvenuto di recente (1967) e riguarda il danneggiamento dello stesso (inquinamento dell'aria o dell'acqua, ...).  
+Il riconoscimento giuridico dell'ambiente è avvenuto di recente (1967) e riguarda il danneggiamento dello stesso (inquinamento dell'aria o dell'acqua, etc.).  
 Anche l'Unione Europea con il progetto **Natura 2000** ha iniziato a salvaguardare l'ambiente ed ostacolare impatti negativi sull'habitat.
-* **città**: concetto complesso che si riferisce a realtà morfologiche, funzionali e organizzative diverse. È uno spazio diverso da quello agricolo, infatti, consente attività commerciali, artistiche (ma non agricole) e allo stesso tempo offre servizi, protezione, ecc.
-È comunque un luogo denso e con forma particolare (strade strette, case attaccate, ...) e impone delle regole specifiche per costruire.
+* **città**: concetto complesso che si riferisce a realtà morfologiche, funzionali e organizzative diverse. È uno spazio diverso da quello agricolo, infatti, consente attività commerciali, artistiche (ma non agricole) e allo stesso tempo offre servizi, protezione, etc.
+È comunque un luogo denso e con forma particolare (strade strette, case attaccate, etc.) e impone delle regole specifiche per costruire.
 * **paesaggio**: è quello che si percepisce dello spazio che ci circonda. Rappresenta l'aspetto percettivo (visivo) dell'organizzazione del territorio.  Il concetto vede la sua nascita con la pittura del '700 per poi essere usato in geografia come categoria descrittiva di aspetti fisico - morfologici del territorio legati ad aspetti climatici.
-* **metodo**: natura composita della disciplina utilizzando strumenti propri dell'urbanistica, ma anche di tipo storico, analitico, geografico, ecc.  Necessita di saper dialogare con altre conoscenze.
+* **metodo**: natura composita della disciplina utilizzando strumenti propri dell'urbanistica, ma anche di tipo storico, analitico, geografico, etc.  Necessita di saper dialogare con altre conoscenze.
 * **piani**: strumenti urbanistici che hanno scale territoriali differenti in base al territorio da studiare (comunale, provinciale, regionale, statale).
 * **norme**: leggi che regolano comportamenti (scala edilizia).
 * **programmi**: riguardano aspetti economici di organizzazione temporale.
-* **procedure** definizione di scelte e decisioni come *autorizzazioni*, *valutazioni di impatto ambientale*, ecc.  
-A volte prevedono la conformità di certe norme, altre vole sono valutative (impatto ambientale, sicurezza, ...).
+* **procedure** definizione di scelte e decisioni come *autorizzazioni*, *valutazioni di impatto ambientale*, etc.  
+A volte prevedono la conformità di certe norme, altre vole sono valutative (impatto ambientale, sicurezza, etc.).
 * **politiche**: intervento di amministrazioni pubbliche.
 
 ## SOGGETTI DELLE DISCIPLINE TERRITORIALI
 * **amministrazioni pubbliche**: Stato, regioni, province, comuni hanno competenze diverse ma devono perseguire l'interesse pubblico.
 * **cittadini**: utenti di città e servizi, membri della comunità che opera le scelte attraverso i meccanismi di partecipazione.
-* **operatori economici**: figure diverse relative ai vari settori dell'economia (commercio, industria, ...).
-* **soggetti collettivi**: partiti, sindacati, ecc. Entrano nelle scelte territoriali.
-* **progettisti/tecnici**: ingegneri, architetti, ecc. che si occupano di settori specifici.
+* **operatori economici**: figure diverse relative ai vari settori dell'economia (commercio, industria, etc.).
+* **soggetti collettivi**: partiti, sindacati, etc. Entrano nelle scelte territoriali.
+* **progettisti/tecnici**: ingegneri, architetti, etc. che si occupano di settori specifici.
 
 ## TERRITORIO, LUOGO
 Già i romani organizzarono il territorio in modo ordinato usandolo per scopi specifici come può essere quello agricolo.  
 Certe forme impresse al territorio, che servono nel lungo periodo, sono tutt'ora presenti. Si deve, allora, valutare se l'opera sarà duratura e utilizzata nel tempo o se verrà dismessa in fretta (come, ad esempio, per le strade).  
 Il territorio **non** è un dato ma il risultato di diversi processi, spontanei o umani.  
 Gli abitanti di un territorio scrivono, cancellano e riscrivono il "palinsesto" del territorio.  
-Il territorio funziona perché consente relazioni con il sito e/o altri parti dello stesso (relazione tra area agricola e mercato o area industriale e porto, ...)
+Il territorio funziona perché consente relazioni con il sito e/o altri parti dello stesso (relazione tra area agricola e mercato o area industriale e porto, etc.)
 
 Il territorio è costruito mediante fasi, dette *atti territorializzanti*:  
 1. **denominazione**: un luogo ha un significato per chi lo frequenta. Serve per identificare una superficie o un luogo.  
@@ -160,8 +176,8 @@ Il non - luogo è uno spazio che non si può definire:
 
 <!-- end of list --> 
 
-Sono un esempio gli *aeroporti*, i *centri commerciali*, ecc.  
-Spesso i non - luoghi hanno un valore economico, di mercato, ma non storico. Funzionano in maniera differente dai luoghi (piazze, duomo, ...).
+Sono un esempio gli *aeroporti*, i *centri commerciali*, etc.  
+Spesso i non - luoghi hanno un valore economico, di mercato, ma non storico. Funzionano in maniera differente dai luoghi (piazze, duomo, etc.).
 
 ## INSEDIAMENTI, CITTÀ e RETI URBANE
 ### CITTÀ
@@ -169,7 +185,7 @@ La città è una forma insediativa caratterizzata dall'essere un:
 * punto di incontro;  
 * luogo di attività non agricole;  
 * luogo difeso (da mura) e di difesa;  
-* sede di potere, giustizia, ecc.
+* sede di potere, giustizia, etc.
 
 La città può avere luogo dove c'è un surplus agricolo in grado di sostenere uomini che si dedicano ad attività non agricole.
 
@@ -177,7 +193,7 @@ La città può avere luogo dove c'è un surplus agricolo in grado di sostenere u
 Ha il compito di dare sicurezza mediante regole ed istituzioni.
 
 In genere, le città sono una diversa dall'altra. Il concetto di città non è legato alle dimensioni, ma alla **funzione**, al **peso**, alla **forma che ricopre**.  
-La città deve offrire protezione e servizi al territorio circostante. Deve essere collocata in un luogo appropriato: lungo un percorso, in un incrocio di reti, ecc.
+La città deve offrire protezione e servizi al territorio circostante. Deve essere collocata in un luogo appropriato: lungo un percorso, in un incrocio di reti, etc.
 
 ### CITTÀ INDUSTRIALE
 Tra il '700 e '800, in Inghilterra e Europa centrale, si formano nuove attivita produttive: le **fabbriche**.  
@@ -224,16 +240,16 @@ Lo Stato ha il compito importante di *pianificazione* e *programmazione* nonché
 I cambiamenti:  
 * economici (da economia industriale a terziario);  
 * di organizzazione produttiva (just in time);  
-* sociali (migrazione, globalizzazione, ...);  
+* sociali (migrazione, globalizzazione, etc.);  
 * di mobilità;
 
 fanno si che le attività si spostino all'esterno delle città.  
-I modelli del movimento moderno, in particolare di *Le Corbusier*, hanno prodotto edifici, organismi urbani, ecc. inadatti a ospitare la società. Erano infatti piani utopistici, basati sulle "ipotetiche" esigenze della popolazione, con l'idea di fabbricare alloggi capaci di contenere migliaia o addirittura milioni di persone al loro interno (una città in un unico edificio), che andava però contro alle effettive esigenze delle persone.
+I modelli del movimento moderno, in particolare di *Le Corbusier*, hanno prodotto edifici, organismi urbani, etc. inadatti a ospitare la società. Erano infatti piani utopistici, basati sulle "ipotetiche" esigenze della popolazione, con l'idea di fabbricare alloggi capaci di contenere migliaia o addirittura milioni di persone al loro interno (una città in un unico edificio), che andava però contro alle effettive esigenze delle persone.
 
 ### CITTÀ CONTEMPORANEA
 Pone le basi sullo spazio espanso della società post - industriale, con le industrie delocalizzate. Questo porta a un ruolo di minor importanza delle industrie, formano la *classe borghese*.
 
-Il ruolo dello Stato diventa sempre più importante dovendo gestire compiti e servizi sempre maggiori (strade, canali, ...) e non solo la sicurezza come era abituato a fare in precedenza.
+Il ruolo dello Stato diventa sempre più importante dovendo gestire compiti e servizi sempre maggiori (strade, canali, etc.) e non solo la sicurezza come era abituato a fare in precedenza.
 
 Diventa importante la figura dell'*ingegnere civile* che sa come applicare nuove tecnologie e nuove capacità di intervento tramite modelli di città.
 
@@ -258,7 +274,7 @@ La dislocazione delle fabbriche porta la formazione di nuovi luoghi di lavoro (n
 
 Si riscontra una difficoltà maggiore a rigenerare gli spazi dismessi piuttosto che espandere la città costruendo su aree nuove.
 
-Nascono nuovi luoghi pubblici (centri commerciali, contenitori di attività ludiche e sportive, ...) ma anche zone dismesse (vuoti urbani, non-luoghi, ...) che imitano la città storica (ad esempio con la presenza di portici, ...).
+Nascono nuovi luoghi pubblici (centri commerciali, contenitori di attività ludiche e sportive, etc.) ma anche zone dismesse (vuoti urbani, non-luoghi, etc.) che imitano la città storica (ad esempio con la presenza di portici, etc.).
 
 ### CRISI DELLA CITTÀ CONTEMPORANEA
 La crisi si crea anche nella città contemporanea a causa di:
@@ -330,7 +346,7 @@ La Parigi di Napoleone e Haussmann sente la necessità di:
 Per connettere parti urbane, in particolare, vengono creati dei viali molto larghi (quello che passa sotto all Tour Eiffel). Per fare questo fu necessario abbattere edifici, mentre, quelli che davano sui viale salirono vertiginosamente di prezzo.
 
 #### L'ITALIA NEL SECOLO $XIX$
-Dopo l'unificazione politica del 1861, si scelse un modello napoleonico di amministrazione pubblica basato su province, comuni, ministeri, moneta unica, catasto, ecc.  
+Dopo l'unificazione politica del 1861, si scelse un modello napoleonico di amministrazione pubblica basato su province, comuni, ministeri, moneta unica, catasto, etc.  
 
 Nasce la prima legge sulle **espropriazioni per causa di utilità pubblica**: *legge n. 2359 del 25 giugno 1865*.  
 Nonostante questo, non esistevano leggi che descrivevano come ampliare l'abitato. Per farlo era necessario adottare i piani regolatori (prima statali e poi passati in mano alle regioni).  
@@ -413,7 +429,7 @@ A __Trento__ si interviene senza un piano, appoggiandosi solamente al _regolamen
 
 In altri casi è intervenuto l'ente pubblico con l'edilizia popolare costruita distante dalla città.  
 
-Nasce un processo di urbanizzazione (servizi di trasporto pubblico, altre costruzioni edilizie, ...) nelle zone attorno alla città.
+Nasce un processo di urbanizzazione (servizi di trasporto pubblico, altre costruzioni edilizie, etc.) nelle zone attorno alla città.
 
 Nel 1963, in seguito al processo di ricostruzione, l'economia italiana ha un __booom__.
 
@@ -444,7 +460,7 @@ L'alta domanda di alloggi e i bassi costi di costruzione fomentano la _speculazi
 Le leggi e le normative urbanistiche del secondo dopoguerra erano:
 * legge 1150 del 1942: viene criticata perché prevedeva uno sviluppo prevalentemente da parte del pubblico;
 * legge 167/1967: __legge sull'esproprio__ per attuare piani di _edilizia economica popolare_;
-* legge 765/1967: impone dei limiti all'edificazione dove non sono presenti piani regolatori. Inoltre, i PRG devono proporre _indici di edificazione_ contenuti (altezza, volume su mq, ...). I PRG non possono prevedere solo aree edificabili ma devono prevedere anche aree di servizio pubblico ($18\,m^2$ per abitante per i comuni con più di 10'000 abitanti);
+* legge 765/1967: impone dei limiti all'edificazione dove non sono presenti piani regolatori. Inoltre, i PRG devono proporre _indici di edificazione_ contenuti (altezza, volume su mq, etc.). I PRG non possono prevedere solo aree edificabili ma devono prevedere anche aree di servizio pubblico ($18\,m^2$ per abitante per i comuni con più di 10'000 abitanti);
 * legge 865/1971: __esproprio per piani di insediamento produttivi__ (industrie);
 * legge 10/1997: concessioni edilizie;
 * legge 457/1978: recupero dei centri storici per evitare l'abbandono.
@@ -456,7 +472,7 @@ Inoltre, dal 2007 l'indennità di esproprio avviene al prezzo di mercato, il che
 #### L'AMBIENTE NEL DOPOGUERRA
 Durante il secondo dopoguerra sono state approvate delle leggi per la tutela dell'ambiente. In particolare:
 * 1939: legge sulla tutela delle bellezze;
-* 1985 - legge Galasso: sottopone a vincolo zone, aree e luoghi di grande importanza e bellezza (laghi, coste, ...). Impone dei controlli paesaggistici per costruire;
+* 1985 - legge Galasso: sottopone a vincolo zone, aree e luoghi di grande importanza e bellezza (laghi, coste, etc.). Impone dei controlli paesaggistici per costruire;
 * 2004: codice beni culturali e paesaggio.
 
 ## EVOLUZIONE DEL PIANO URBANISTICO
@@ -488,10 +504,10 @@ Se l'esproprio è molto caro, il privato cede una parte di terreno per costruire
 
 ### ZONING
 Lo zoning è un meccanismo di pianificazione secondo zone del territorio comunale, che viene smaterializzato.  
-Il territorio viene diviso in zone a cui vengono definite le destinazioni d'uso (zona residenziale, zona industriale, ...) e gli indici edificabili (distanza dai confini, altezza massima, ...).
+Il territorio viene diviso in zone a cui vengono definite le destinazioni d'uso (zona residenziale, zona industriale, etc.) e gli indici edificabili (distanza dai confini, altezza massima, etc.).
 
 ### AMSTERDAM - PIANO RAZIONALISTA (1934)
-Si attiva un percorso di analisi preliminari e di previsione negli anni futuri in funzione del numero di abitanti futuro (scuole necessarie, servizi, ...).
+Si attiva un percorso di analisi preliminari e di previsione negli anni futuri in funzione del numero di abitanti futuro (scuole necessarie, servizi, etc.).
 
 Vengono costituiti dei quartieri residenzili serviti da scuole e servizi pubbici vari.  
 Il territorio viene suddiviso in zone che definiscono il piano attuativo.
@@ -499,7 +515,7 @@ Il territorio viene suddiviso in zone che definiscono il piano attuativo.
 ### ITALIA
 In Italia, viene approvata la legge urbanistica 1150/1942: piano post razionalista, dove vengono attuate delle previsioni (in genere poco accurate) e delle indagini.  
 
-Le periferie crescono in maniera disordinata, obbligando il pubblico a creare servizi (fognature, strade, ...) per poche case sparse sul territorio.
+Le periferie crescono in maniera disordinata, obbligando il pubblico a creare servizi (fognature, strade, etc.) per poche case sparse sul territorio.
 
 Viene impiegato lo zoning dalla pubblica amministrazione, che risulta però poco impegnata ed efficacie. Inizia un intervento da parte dei privati.
 
@@ -517,12 +533,12 @@ Il PRG si occupa sia di questioni al lungo periodo sia a breve periodo.
 
 ### FINALITÀ DEL PIANO
 Il piano deve rispondere alle esigenze della comunità. Questo rende il piano di competenza del comune, ente pià vicino al cittadino.  
-Il piano deve comunque bilanciare attese collettive (parcheggi, sicurezza, ...) ma anche interloquire con diversi interessi dei cittadini, a volte conflittuali.
+Il piano deve comunque bilanciare attese collettive (parcheggi, sicurezza, etc.) ma anche interloquire con diversi interessi dei cittadini, a volte conflittuali.
 
 ### COSTRUZIONE DEL PIANO URBANISTICO
 In Trentino, si ha:
 * piano territoriale: deve essere soddisfatto dal PRG;
-* piano paesaggistico (non regolamenta le infrastrutture, ...).
+* piano paesaggistico (non regolamenta le infrastrutture, etc.).
   
 #### RUOLO E FORMA DEL PIANO
 Il piano è composto da:
@@ -532,13 +548,13 @@ Il piano è composto da:
 
 Vi sono diverse declinazioni del piano:
 * piano strategico: decisioni e strategie da assumere per il cambiamento;
-* piano strutturale: riguarda la struttura del territorio. Include le invarianti (monte Bondone, Duomo, autostrada, ...) che non possono essere spostate;
+* piano strutturale: riguarda la struttura del territorio. Include le invarianti (monte Bondone, Duomo, autostrada, etc.) che non possono essere spostate;
 * piano operativo: piano di intervento e di trasformazione (presente ad esempio in Veneto);
 * piano di uso del suolo: regolamenta gli usi e la trasformabilità del suolo;
 * piano comprensivo: somma un po' tutti i piani precedenti. Un esempio è il PRG di Trento.
 
 #### DIMENSIONAMENTO
-In alcuni casi è necessario modificare il piano perché servono alloggi, parcheggi, servizi, ecc. Si possono distinguere due visioni di dimensionamento del piano:
+In alcuni casi è necessario modificare il piano perché servono alloggi, parcheggi, servizi, etc. Si possono distinguere due visioni di dimensionamento del piano:
 * __visione funzionalista__: consiste nel prevedere i fabbisogni delle persone e le dimensioni di servizi e infrastrutture;
 * __visione incrementalista__: consiste nell'identificare le esigenze e creare delle soluzioni.
 
@@ -558,19 +574,19 @@ Il piano è composto da tre elementi principali:
 Il PRG deve soddisfare piani e tematiche di settore quali:
 * sicurezza idrogeologica: in genere contenuta nel __piano di bacino__ che attraverso la __carta geologica__ indica le zone geologicamente pericolose o problematiche e mette a tutela zone di sorgenti e pozzi;
 * valori naturalistici (aree protette);
-* valori paesaggistici (aree sottoposte a vincoli paesaggistici come boschi, corsi d'acqua, ...);
-* valori storico - culturali (immobili sottoposti a vincolo come il Duomo, ...);
-* piani di settore: un esempio sono il piano di mobilità (si può limitare alla circolazione ma deve comunque accordarsi al piano regolatore), il piano per lo smaltimento dei rifiuti, ecc.;
+* valori paesaggistici (aree sottoposte a vincoli paesaggistici come boschi, corsi d'acqua, etc.);
+* valori storico - culturali (immobili sottoposti a vincolo come il Duomo, etc.);
+* piani di settore: un esempio sono il piano di mobilità (si può limitare alla circolazione ma deve comunque accordarsi al piano regolatore), il piano per lo smaltimento dei rifiuti, etc.;
 
 ### ZONING
-Lo zoning consiste nell'individuazione cartografica delle diverse zone. Bisogna comunque tener conto delle fasce di rispetto da autostrade, ferrovie, depuratori, ecc. Questo rende lo zoning un processo complicato.
+Lo zoning consiste nell'individuazione cartografica delle diverse zone. Bisogna comunque tener conto delle fasce di rispetto da autostrade, ferrovie, depuratori, etc. Questo rende lo zoning un processo complicato.
 
 ### STANDARD URBANISTICI
 Gli standard urbanistci sono stati definiti da un decreto ministeriale del 1968 e dalla legge "__Ponte__" del 1967 e fissano operativamente parametri quali:
 * limite inderogabile di densità edilizia;
 * altezza massima;
 * distanza tra i fabbricati;
-* ecc.
+* etc.
 
 Il piano regolatore deve già soddisfare i limiti e gli standarde definiti, prevedendo spazi pubblici e parcheggi.
 
@@ -601,7 +617,7 @@ Il __dimensionamento__ avviene tramite  indici di densità, territoriale o fondi
 
 Indici di densità territoriale alti portano a superfici effettivamente edificabili minori e quindi indici di densità fondiaria bassi.
 
-Le _aree a standard_ sono _aree pubbliche_ cedute dai privati al pubblico (in caso di lottizzazioni, ...).
+Le _aree a standard_ sono _aree pubbliche_ cedute dai privati al pubblico (in caso di lottizzazioni, etc.).
 
 Oltre ai parcheggi pubblici che rientrano, però, nelle aree a standard, bisogna tener conto del numero di _parcheggi privati_ delle zone edificate che sono differenti da quelli pubblici.
 
@@ -616,9 +632,9 @@ Si devono comunque rispettare le regole imposte dagli indici edificatori tipo:
 * superficie minima dei lotti: conferisce omogeneità all'edificazione. È presente in alcuni piani regolatori;
 * distanza minime tra edifici: $10\,m$ (decreto ministeriale) oppure la proiezione dell'edificio più elevato se la confrontanza è maggiore o uguale a $12\,m$.  
 <img src="images/distanzaEdifici.jpg" alt="drawing" width="400"/> <img src="images/confrontanza.jpg" alt="drawing" height="135"/>  
-È possibile derogare in caso di pareti non finestrate, di vani scala, ecc.;
-* altezza degli edifici: il piano descrive anche la modalità di misura (gronda, metà falda, colmo, ...);
-* densità fondiaria: espressa in $m^3 / m^2$ o in $m^2_{calpestabili} / m^2$. Nel secondo caso vani come ingresso, vano scala, muratura, ecc. non vengono contati (adottato dal PRG di Trento). Per indici di densità fondiaria più grandi di $3\,m^3/m^2$ è necessario un piano attuativo. Per limitare l'edificabilità (ad esempio in zone agricole) si abbassa l'indice edificatorio. Per le residenze in territorio aperto il rapporto è di $0.01\,m^3/m^2$;
+È possibile derogare in caso di pareti non finestrate, di vani scala, etc.;
+* altezza degli edifici: il piano descrive anche la modalità di misura (gronda, metà falda, colmo, etc.);
+* densità fondiaria: espressa in $m^3 / m^2$ o in $m^2_{calpestabili} / m^2$. Nel secondo caso vani come ingresso, vano scala, muratura, etc. non vengono contati (adottato dal PRG di Trento). Per indici di densità fondiaria più grandi di $3\,m^3/m^2$ è necessario un piano attuativo. Per limitare l'edificabilità (ad esempio in zone agricole) si abbassa l'indice edificatorio. Per le residenze in territorio aperto il rapporto è di $0.01\,m^3/m^2$;
 * densità terrioriale: rapporto tra volume edificabile e superficie dove alcune aree sono destinate secondo gli standard;
 * distanza dai confini ($5\,m$);
 * distanza dalle strade: definita dal decreto sugli standard vale all'esterno dei centri abitati;
@@ -626,7 +642,7 @@ Si devono comunque rispettare le regole imposte dagli indici edificatori tipo:
   - riferita all'edificio: $1\,m^2$ di parcheggio ogni $10\,m^3$ di edificio per assicurare la funzionalità dell'edificio;
   - riferita alla città: $2.5\,m^2/abitante$ di parcheggi pubblici;
 * superfici a verde: in aree produttive il decreto sugli standard impone una quota minima di aree verdi;
-* altri indici: permeabilità del suolo, ecc.
+* altri indici: permeabilità del suolo, etc.
 
 ### DEFINIZIONE DEGLI INTERVENTI EDILIZI
 Gli interventi edilizi sono normati non solo da zonizzazione, destinazioni d'uso e da indici ma anche da indicazioni riferite all'intervento specifico ai singoli edifici.
@@ -635,11 +651,141 @@ Alcune parti, come nel centro urbano, non sono regolamentate da indici ma dall'_
 Ogni singola unità edilizia avrà le sue regole da rispettare.
 
 Secondo la _legge n. 457 art. 31 del 5 agosto 1978_ gli interventi possibili sono:
-* manutenzione ordinaria: riparazione, rinnovamento, mantenimento dell'efficienza dell'edificio (impianti, ...);
+* manutenzione ordinaria: riparazione, rinnovamento, mantenimento dell'efficienza dell'edificio (impianti, etc.);
 * manutenzione straordinaria: modificare o sostituire parti strutturali, realizzare servizi igienico - sanitari o tecnologici (senza che aumentino il volume dell'edificio e la superficie delle unità o modifichino le destinazioni d'uso);
 * restauro e risanamento conservatorio: conservare l'organismo edilizio e assicurarne le funzionalità. Esempi sono il consolidamento, ripristino e rinnovo degli elementi dell'edificio. Reastauro e risanamento sono due interventi diversi: il restauro è molto rigoroso mentre il risanamento è più libero ma non consente di modificare drasticamente l'aspetto dell'edificio;
 * ristrutturazione edilizia: trasformare gli organismi edilizi mediante un insieme di opere in modo da ottenere un organismo in parte o del tutto diverso dal precedente. Include anche la demolizione e successiva __fedele__ ricostruzione di un fabbricato identico;
 * nuova costruzione: trasformazione edilizia o urbanistica del territorio;
 * ristrutturazione urbanistica: sostituire il tessuto urbanistico - edilizio.
 
-### L'ITER DI APPROVAZIONE DEL PIANO (pag. 31)
+### L'ITER DI APPROVAZIONE DEL PIANO 
+I piani urbanistici sono _atti tecnico - amministrativi_ che devono seguire un iter preciso di approvazione per garantire la correttezza delle norme.  
+Solitamente la giunta comunale (organo esecutivo) decide e avvia il processo di modifica del piano regolatore.  
+Una volta predisposto, il consiglio comunale presenta e __adotta__ il piano. Il piano viene adottato e non approvato!  
+Viene così reso pubblico e può essere visionato per 30 giorni durante cui possono essere presentate delle __osservazioni__ di atti non giustificati o di problemi in esso.  
+
+Dopo la seconda adozione segue l'__esame tecnico__ da parte di uno specifico organo. In seguito viene __approvato__ da organi superiori (regione o provincia autonoma).  
+
+L'adozione fa scattare la _salvaguardia del piano_, per evitare ad esempio che venga costruito in zone classificate nel piano come pubbliche durante l'adozione.
+
+Il piano può essere attuato attraverso:
+* l'__intervento diretto__;
+* __piani attuativi__.
+
+#### INTERVENTO DIRETTO
+Normato dal _DPR 6-06-2001 n. 380 TITOLO II - TITOLI ABILITATIVI - CAPO I - DISPOSIZIONI GENERALI - Art. 6_ definisce:
+* __attività edilizia libera__;
+* __permesso per costruire__;
+* __denuncia di inizio lavori__.
+
+#### PIANI ATTUATIVI
+I piani attuativi possono essere di:
+* __iniziativa pubblica__: permette di investire denaro pubblico per:
+  * piani particolareggiati;
+  * esproprio di terreni;
+  * etc.
+
+* __iniziativa privata__:
+  * lottizzazioni convenzionate;
+  * piani di recupero (anche di iniziativa pubblica);
+  * convenzione tra ente pubblico e privati.
+
+##### PROGRAMMA INTEGRATO DI INTERVENTO
+Pensato per il recupero edilizio e urbanistico di aree dismesse cedendo parte dell'area al pubblico.  
+Può valere come variante al PRG.
+
+#### PROCEDURE AMMINISTRATIVE
+##### REGOLAMENTO EDILIZIO
+Norma gli aspetti relativi all'edificazione. Non cambia con il PRG.
+##### COMMISSIONE EDILIZIA
+Organo tecnico consultivo dell'amministrazione comunale.
+
+## LE ANALISI URBANE E TERRITORIALI
+Il processo di indagine e analisi serve, oltre che per costruire il piano, per rispondere ai momenti decisionali e amministrativi.
+
+### ANALISI e PIANO
+Il quadro del piano deve essere monitorato lungo tutto il suo processo  e attraverso tutti i ruoli in fase di progettazione e attuazione dello stesso.
+
+I dati e le informazioni possono essere raccolti in modo continuativo o con azioni ad hoc.
+
+### SAPERE ESPERTO, SAPERE CONTESTUALE
+Non è sempre sufficiente il sapere tecnico (dell'ingegnere) ma a volte bisogna anche contestualizzarlo con la cultura degli abitanti e del territorio.
+
+Per prima cosa si analizza lo stato attuale della popolazione, del lavoro e del territorio. Poi, si passa alla fase di visione generale con ipotesi, previsioni e decisioni.
+
+Le informazioni non sono generiche, ma localizzate.
+
+### SISTEMI INFORMATIVI TERRITORIALI (SIT) e GEOGRAPHICAL INFORMATION SYSTEM (GIS)
+#### SIT
+Hanno a che fare con informazioni geometriche, spaziali e topologiche.  
+I dati possono essere vettoriali o raster.  
+Il sistema consente di archiviare i dati ed estrarli. I dati sono corredati da _metadati_, informazioni sui dati stessi (modalità di raccolta, data della raccolta, etc.).
+
+### CARTOGRAFIA
+La cartografia è necessaria per operare sul lato urbano.  
+La scala cartografica è fondamentale per defiire il livello di dettaglio delle informazioni raccolte.
+La cartografia è molto dispendiosa sia economicamente che in termini di tempo. A volte, infatti, possono non essere aggiornate.
+
+#### PRODUZIONE CARTOGRAFICA
+I produttori cartografici italiani sono:
+* __Istituto Geografico Militare__: scala di rappresentazione di 1:100'000, 1:50'000;
+* __regioni__ e __province autonome__: sclale di 1:10'000, 1:5000;
+* __catasto__: documenta le proprietà immobiliari a fini fiscali. La cartografia che produce è di scala 1:1000, etc. e non rappresentano il territorio ma hanno una visuale piatta.
+
+È quasi impossibile sovrapporre carte catastali e topografiche.
+
+Le scale richieste per un piano urbanistico sono di 1:1000, 1:2000.
+
+#### DATI PER ANALISI URBANE e TERRITORIALI
+I dati di interesse sono:
+* popolazione;
+* attività della popolazione;
+* abitazioni;
+* dinamiche della popolazione (come e dove si spostano).
+
+e vengono raccolte attraverso:
+* fonti dirette: rilevate sul campo;
+* fonti indirette: banche dati, etc.
+
+##### DOVE SI TROVANO I DATI?
+I dati necessari sono forniti da:
+* __Istituto Nazionale di Statistica (ISTAT)__: raccoglie dati generali, in particolare censimenti di:
+  * popolazione;
+  * industria;
+  * agricoltura.
+  
+  Dal 1 ottobre 2018 è in atto il censimento permanente che avviene in modo dinamico e continuativo. In precedenza il censimento avveniva ogni 10 anni.  
+  Il censimento fornische dati relativi a:
+  * popolazione per sesso, età, istruzione;
+  * famiglie e relativi componenti;
+  * attività svolte (agricoltura, industria, terziario);
+  * abitazioni occupate e non occupate, tipologia di abitazione, numero di stanza, servizi, etc.
+
+  I dati devono essere studiati tenendo conto del territorio e delle sue dinamiche.
+
+* __anagrafe comunale__: registra i residenti e i cambi di residenza. Fornisce informazioni su:
+  * nati;
+  * morti;
+  * immigrati;
+  * emigrati.
+
+  L'ISTAT raccoglie e analizza questi dati generalmente disponibili annualmente.
+
+  Interessanti sono i cambi di residenza che descrivono le esigenze delle famiglie e la loro necessità di cambiare casa.
+
+ * __camera di commercio__: dati relativi a imprese e attività economiche;
+ * __uffici pubblici, aziende di servizio__, etc.
+
+Gli aspetti da indagare sono:
+* ambiente, risorse, paesaggio, salvaguardia dell'ambiente e delle risorse, senso di appartenenza;
+* popolazione e sue attività;
+* attività economiche di un determinato territorio;
+* dinamiche insediative: variazione di popolazione e di attività econoniche;
+* uso del suolo: cosa c'è e dove (qui ci sono boschi, qui prati, etc.);
+* struttura urbana: reticolo, suburbanizzazione, corte, etc.;
+* patrimonio edilizio e produzione edilizia;
+* mobilità: modi per spostare persone e merci sul territorio. Esistono piani per la mobilità (e.g. piano per la mobilità sostenibile);
+* servizi (pubblici): scuole, strade, etc. Quante sono? In che condizioni sono?
+* quadro normativo, vincoli, sistema di piani: è sempre utile tracciare un quadro generale sui vincoli che gravano.
+
+### ANALISI AMBIENTALI (pag. 37)
