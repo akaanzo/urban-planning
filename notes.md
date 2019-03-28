@@ -6,129 +6,143 @@ Università degli Studi di Trento
 ---
 ---
 
-- [INTRODUZIONE AL CORSO](#introduzione-al-corso)
-- [TERMINI DELLE DISCIPLINE TERRITORIALI](#termini-delle-discipline-territoriali)
-- [SOGGETTI DELLE DISCIPLINE TERRITORIALI](#soggetti-delle-discipline-territoriali)
-- [TERRITORIO, LUOGO](#territorio-luogo)
-  - [LUOGO](#luogo)
-  - [NON - LUOGO](#non---luogo)
-- [INSEDIAMENTI, CITTÀ e RETI URBANE](#insediamenti-citt%C3%A0-e-reti-urbane)
-  - [CITTÀ](#citt%C3%A0)
-  - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale)
-    - [VILLAGGI OPERAI](#villaggi-operai)
-    - [URBANISTICA TECNICA](#urbanistica-tecnica)
-- [LA CITTÀ DEL MOVIMENTO MODERNO (Le Corbusier)](#la-citt%C3%A0-del-movimento-moderno-le-corbusier)
-  - [DALLA CITTÀ INDUSTRIALE ALLA CITTÀ CONTEMPORANEA](#dalla-citt%C3%A0-industriale-alla-citt%C3%A0-contemporanea)
-  - [LA CRISI DELLA CITTÀ MODERNA](#la-crisi-della-citt%C3%A0-moderna)
-  - [CITTÀ CONTEMPORANEA](#citt%C3%A0-contemporanea)
-  - [NUOVE FORME DI TERRITORIO URBANIZZATO](#nuove-forme-di-territorio-urbanizzato)
-  - [CRISI DELLA CITTÀ CONTEMPORANEA](#crisi-della-citt%C3%A0-contemporanea)
-- [TERRITORIO e CITTÀ IN EUROPA e ITALIA (dall'età industriale a oggi)](#territorio-e-citt%C3%A0-in-europa-e-italia-dallet%C3%A0-industriale-a-oggi)
-  - [RIVOLUZIONE INDUSTRIALE, CAPITALISMO, CITTÀ INDUSTRIALE](#rivoluzione-industriale-capitalismo-citt%C3%A0-industriale)
-    - [INNOVAZIONE TECNICA](#innovazione-tecnica)
-    - [NUOVO SISTEMA ECONOMICO](#nuovo-sistema-economico)
-    - [COLLOCAZIONE DELLE ATTIVITÀ SUL TERRITORIO](#collocazione-delle-attivit%C3%A0-sul-territorio)
-    - [FERROVIE](#ferrovie)
-    - [TRASFORMAZIONI URBANE IN EUROPA](#trasformazioni-urbane-in-europa)
-    - [L'ITALIA NEL SECOLO $XIX$](#litalia-nel-secolo-xix)
-      - [INFRASTRUTTURE STRADALI](#infrastrutture-stradali)
-      - [COME SCEGLIERE LE LINEE FERROVIARIE?](#come-scegliere-le-linee-ferroviarie)
-      - [BONIFICHE](#bonifiche)
-  - [PIANIFICAZIONE URBANISTICA](#pianificazione-urbanistica)
-    - [MILANO](#milano)
-    - [BOLOGNA](#bologna)
-    - [NAPOLI](#napoli)
-  - [IL SECONDO DOPOGUERRA](#il-secondo-dopoguerra)
-    - [COME RICOSTRUIRE?](#come-ricostruire)
-    - [RICOSTRUZIONE](#ricostruzione)
-    - [AVVIO DELLA PIANIFICAZIONE URBANISTICA](#avvio-della-pianificazione-urbanistica)
-    - [IL BOOM ECONOMICO DEL 1963](#il-boom-economico-del-1963)
-    - [NUOVE INFRASTRUTTURE](#nuove-infrastrutture)
-    - [BOOM EDILIZIO](#boom-edilizio)
-    - [EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA](#evoluzione-della-normativa-urbanistica-nel-dopoguerra)
-    - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio)
-    - [L'AMBIENTE NEL DOPOGUERRA](#lambiente-nel-dopoguerra)
-- [EVOLUZIONE DEL PIANO URBANISTICO](#evoluzione-del-piano-urbanistico)
-  - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale-1)
-    - [NEW YORK](#new-york)
-  - [PIANO OTTOCENTESCO](#piano-ottocentesco)
-  - [I PIANI DEL '900 IN ITALIA](#i-piani-del-900-in-italia)
-  - [ATTUAZIONE DEL PIANO](#attuazione-del-piano)
-    - [PEREQUAZIONE](#perequazione)
-  - [ZONING](#zoning)
-  - [AMSTERDAM - PIANO RAZIONALISTA (1934)](#amsterdam---piano-razionalista-1934)
-  - [ITALIA](#italia)
-    - [TRENTO](#trento)
-- [IL PIANO REGOLATORE GENERALE](#il-piano-regolatore-generale)
-  - [FINALITÀ DEL PIANO](#finalit%C3%A0-del-piano)
-  - [COSTRUZIONE DEL PIANO URBANISTICO](#costruzione-del-piano-urbanistico)
-    - [RUOLO E FORMA DEL PIANO](#ruolo-e-forma-del-piano)
-    - [DIMENSIONAMENTO](#dimensionamento)
-      - [TRENTO](#trento-1)
-  - [DOCUMENTI DEL PIANO](#documenti-del-piano)
-  - [RAPPORTI CON TEMI E STRUMENTI DI SETTORE](#rapporti-con-temi-e-strumenti-di-settore)
-  - [ZONING](#zoning-1)
-  - [STANDARD URBANISTICI](#standard-urbanistici)
-    - [ZONE TERRITORIALI OMOGENEE](#zone-territoriali-omogenee)
-    - [INDICI URBANISTICO - EDILIZI](#indici-urbanistico---edilizi)
-  - [DEFINIZIONE DEGLI INTERVENTI EDILIZI](#definizione-degli-interventi-edilizi)
-  - [L'ITER DI APPROVAZIONE DEL PIANO](#liter-di-approvazione-del-piano)
-    - [INTERVENTO DIRETTO](#intervento-diretto)
-    - [PIANI ATTUATIVI](#piani-attuativi)
-      - [PROGRAMMA INTEGRATO DI INTERVENTO](#programma-integrato-di-intervento)
-    - [PROCEDURE AMMINISTRATIVE](#procedure-amministrative)
-      - [REGOLAMENTO EDILIZIO](#regolamento-edilizio)
-      - [COMMISSIONE EDILIZIA](#commissione-edilizia)
-- [LE ANALISI URBANE E TERRITORIALI](#le-analisi-urbane-e-territoriali)
-  - [ANALISI e PIANO](#analisi-e-piano)
-  - [SAPERE ESPERTO, SAPERE CONTESTUALE](#sapere-esperto-sapere-contestuale)
-  - [SISTEMI INFORMATIVI TERRITORIALI (SIT) e GEOGRAPHICAL INFORMATION SYSTEM (GIS)](#sistemi-informativi-territoriali-sit-e-geographical-information-system-gis)
-    - [SIT](#sit)
-  - [CARTOGRAFIA](#cartografia)
-    - [PRODUZIONE CARTOGRAFICA](#produzione-cartografica)
-    - [DATI PER ANALISI URBANE e TERRITORIALI](#dati-per-analisi-urbane-e-territoriali)
-      - [DOVE SI TROVANO I DATI?](#dove-si-trovano-i-dati)
-  - [ANALISI AMBIENTALI](#analisi-ambientali)
-  - [MOBILITA'](#mobilita)
-- [I DATI](#i-dati)
-  - [TIPI DI DATI](#tipi-di-dati)
-  - [VALIDITA' e AFFIDABILITA'](#validita-e-affidabilita)
-- [ANALISI DEMOGRAFICHE PER LA PIANIFICAZIONE](#analisi-demografiche-per-la-pianificazione)
-  - [STUDIO DEI CARATTERI DI UNA POPOLAZIONE](#studio-dei-caratteri-di-una-popolazione)
-  - [BILANCIO DEMOGRAFICO](#bilancio-demografico)
-  - [STRUTTURA DELLA POPOLAZIONE](#struttura-della-popolazione)
-  - [PIRAMIDE DELLE ETA'](#piramide-delle-eta)
-  - [ANALISI DEI TASSI](#analisi-dei-tassi)
-  - [PREVISIONE DELLA POPOLAZIONE](#previsione-della-popolazione)
-    - [METODO DI SOPRAVVIVENZA DELLE CORORTI (CLASSI DI ETA')](#metodo-di-sopravvivenza-delle-cororti-classi-di-eta)
-- [ANALISI TIPOLOGICA e MORFOLOGICA URBANA](#analisi-tipologica-e-morfologica-urbana)
-  - [LA TIPOLOGIA](#la-tipologia)
-  - [SENSO DELLA TIPOLOGIA](#senso-della-tipologia)
-  - [TIPOLOGIA e MORFOLOGIA URBANA](#tipologia-e-morfologia-urbana)
-  - [TIPOLOGIE DI EDIFICI](#tipologie-di-edifici)
-- [TERRITORIO, INSEDIAMENTO, ATTIVITA'](#territorio-insediamento-attivita)
-  - [RELAZIONI VERTICALI e ORIZZONTALI](#relazioni-verticali-e-orizzontali)
-  - [LOCALIZZAZIONE DELLE ATTIVITA' SUL TERRITORIO](#localizzazione-delle-attivita-sul-territorio)
-    - [PRINCIPI DI ORGANIZZAZIONE TERRITORIALE (CAMAGNI)](#principi-di-organizzazione-territoriale-camagni)
-      - [AGGLOMERAZIONE](#agglomerazione)
-      - [ACCESSIBILITA'](#accessibilita)
-      - [INTERAZIONE SPAZIALE](#interazione-spaziale)
-      - [GERARCHIA](#gerarchia)
-      - [COMPETITIVITA'](#competitivita)
-- [I SERVIZI PUBBLICI](#i-servizi-pubblici)
-  - [SERVIZI](#servizi)
-  - [NUOVE CONCEZIONI DI PUBBLICA AMMINISTRAZIONE](#nuove-concezioni-di-pubblica-amministrazione)
-  - [QUADRO UE](#quadro-ue)
-  - [ATTREZZATURA SOCIALE](#attrezzatura-sociale)
-  - [I SOGGETTI](#i-soggetti)
-  - [PIANIFICAZIONE DEI SERVIZI](#pianificazione-dei-servizi)
-  - [ATTREZZATURE DI SERVIZIO](#attrezzature-di-servizio)
-    - [RUOLO URBANISTICO DELLE ATTRAZZATURE](#ruolo-urbanistico-delle-attrazzature)
-  - [ANALISI DEL FABBISOGNO](#analisi-del-fabbisogno)
-  - [GERARCHIA DEI SERVIZI](#gerarchia-dei-servizi)
-  - [BACINO DI UTENZA](#bacino-di-utenza)
-  - [DIMENSIONAMENTO e LOCALIZZAZIONE](#dimensionamento-e-localizzazione)
-- [ANALISI DELLA RESIDENZA (pag. 49)](#analisi-della-residenza-pag-49)
+- [INTRODUZIONE ALLA TECNICA URBANISTICA (ZANON)](#introduzione-alla-tecnica-urbanistica-zanon)
+  - [TERMINI DELLE DISCIPLINE TERRITORIALI](#termini-delle-discipline-territoriali)
+  - [SOGGETTI DELLE DISCIPLINE TERRITORIALI](#soggetti-delle-discipline-territoriali)
+  - [TERRITORIO, LUOGO](#territorio-luogo)
+    - [LUOGO](#luogo)
+    - [NON - LUOGO](#non---luogo)
+  - [INSEDIAMENTI, CITTÀ e RETI URBANE](#insediamenti-citt%C3%A0-e-reti-urbane)
+    - [CITTÀ](#citt%C3%A0)
+    - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale)
+      - [VILLAGGI OPERAI](#villaggi-operai)
+      - [URBANISTICA TECNICA](#urbanistica-tecnica)
+  - [LA CITTÀ DEL MOVIMENTO MODERNO (Le Corbusier)](#la-citt%C3%A0-del-movimento-moderno-le-corbusier)
+    - [DALLA CITTÀ INDUSTRIALE ALLA CITTÀ CONTEMPORANEA](#dalla-citt%C3%A0-industriale-alla-citt%C3%A0-contemporanea)
+    - [LA CRISI DELLA CITTÀ MODERNA](#la-crisi-della-citt%C3%A0-moderna)
+    - [CITTÀ CONTEMPORANEA](#citt%C3%A0-contemporanea)
+    - [NUOVE FORME DI TERRITORIO URBANIZZATO](#nuove-forme-di-territorio-urbanizzato)
+    - [CRISI DELLA CITTÀ CONTEMPORANEA](#crisi-della-citt%C3%A0-contemporanea)
+  - [TERRITORIO e CITTÀ IN EUROPA e ITALIA (dall'età industriale a oggi)](#territorio-e-citt%C3%A0-in-europa-e-italia-dallet%C3%A0-industriale-a-oggi)
+    - [RIVOLUZIONE INDUSTRIALE, CAPITALISMO, CITTÀ INDUSTRIALE](#rivoluzione-industriale-capitalismo-citt%C3%A0-industriale)
+      - [INNOVAZIONE TECNICA](#innovazione-tecnica)
+      - [NUOVO SISTEMA ECONOMICO](#nuovo-sistema-economico)
+      - [COLLOCAZIONE DELLE ATTIVITÀ SUL TERRITORIO](#collocazione-delle-attivit%C3%A0-sul-territorio)
+      - [FERROVIE](#ferrovie)
+      - [TRASFORMAZIONI URBANE IN EUROPA](#trasformazioni-urbane-in-europa)
+      - [L'ITALIA NEL SECOLO $XIX$](#litalia-nel-secolo-xix)
+        - [INFRASTRUTTURE STRADALI](#infrastrutture-stradali)
+        - [COME SCEGLIERE LE LINEE FERROVIARIE?](#come-scegliere-le-linee-ferroviarie)
+        - [BONIFICHE](#bonifiche)
+    - [PIANIFICAZIONE URBANISTICA](#pianificazione-urbanistica)
+      - [MILANO](#milano)
+      - [BOLOGNA](#bologna)
+      - [NAPOLI](#napoli)
+    - [IL SECONDO DOPOGUERRA](#il-secondo-dopoguerra)
+      - [COME RICOSTRUIRE?](#come-ricostruire)
+      - [RICOSTRUZIONE](#ricostruzione)
+      - [AVVIO DELLA PIANIFICAZIONE URBANISTICA](#avvio-della-pianificazione-urbanistica)
+      - [IL BOOM ECONOMICO DEL 1963](#il-boom-economico-del-1963)
+      - [NUOVE INFRASTRUTTURE](#nuove-infrastrutture)
+      - [BOOM EDILIZIO](#boom-edilizio)
+      - [EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA](#evoluzione-della-normativa-urbanistica-nel-dopoguerra)
+      - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio)
+      - [L'AMBIENTE NEL DOPOGUERRA](#lambiente-nel-dopoguerra)
+  - [EVOLUZIONE DEL PIANO URBANISTICO](#evoluzione-del-piano-urbanistico)
+    - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale-1)
+      - [NEW YORK](#new-york)
+    - [PIANO OTTOCENTESCO](#piano-ottocentesco)
+    - [I PIANI DEL '900 IN ITALIA](#i-piani-del-900-in-italia)
+    - [ATTUAZIONE DEL PIANO](#attuazione-del-piano)
+      - [PEREQUAZIONE](#perequazione)
+    - [ZONING](#zoning)
+    - [AMSTERDAM - PIANO RAZIONALISTA (1934)](#amsterdam---piano-razionalista-1934)
+    - [ITALIA](#italia)
+      - [TRENTO](#trento)
+  - [IL PIANO REGOLATORE GENERALE](#il-piano-regolatore-generale)
+    - [FINALITÀ DEL PIANO](#finalit%C3%A0-del-piano)
+    - [COSTRUZIONE DEL PIANO URBANISTICO](#costruzione-del-piano-urbanistico)
+      - [RUOLO E FORMA DEL PIANO](#ruolo-e-forma-del-piano)
+      - [DIMENSIONAMENTO](#dimensionamento)
+        - [TRENTO](#trento-1)
+    - [DOCUMENTI DEL PIANO](#documenti-del-piano)
+    - [RAPPORTI CON TEMI E STRUMENTI DI SETTORE](#rapporti-con-temi-e-strumenti-di-settore)
+    - [ZONING](#zoning-1)
+    - [STANDARD URBANISTICI](#standard-urbanistici)
+      - [ZONE TERRITORIALI OMOGENEE](#zone-territoriali-omogenee)
+      - [INDICI URBANISTICO - EDILIZI](#indici-urbanistico---edilizi)
+    - [DEFINIZIONE DEGLI INTERVENTI EDILIZI](#definizione-degli-interventi-edilizi)
+    - [L'ITER DI APPROVAZIONE DEL PIANO](#liter-di-approvazione-del-piano)
+      - [INTERVENTO DIRETTO](#intervento-diretto)
+      - [PIANI ATTUATIVI](#piani-attuativi)
+        - [PROGRAMMA INTEGRATO DI INTERVENTO](#programma-integrato-di-intervento)
+      - [PROCEDURE AMMINISTRATIVE](#procedure-amministrative)
+        - [REGOLAMENTO EDILIZIO](#regolamento-edilizio)
+        - [COMMISSIONE EDILIZIA](#commissione-edilizia)
+  - [LE ANALISI URBANE E TERRITORIALI](#le-analisi-urbane-e-territoriali)
+    - [ANALISI e PIANO](#analisi-e-piano)
+    - [SAPERE ESPERTO, SAPERE CONTESTUALE](#sapere-esperto-sapere-contestuale)
+    - [SISTEMI INFORMATIVI TERRITORIALI (SIT) e GEOGRAPHICAL INFORMATION SYSTEM (GIS)](#sistemi-informativi-territoriali-sit-e-geographical-information-system-gis)
+      - [SIT](#sit)
+    - [CARTOGRAFIA](#cartografia)
+      - [PRODUZIONE CARTOGRAFICA](#produzione-cartografica)
+      - [DATI PER ANALISI URBANE e TERRITORIALI](#dati-per-analisi-urbane-e-territoriali)
+        - [DOVE SI TROVANO I DATI?](#dove-si-trovano-i-dati)
+    - [ANALISI AMBIENTALI](#analisi-ambientali)
+    - [MOBILITA'](#mobilita)
+  - [I DATI](#i-dati)
+    - [TIPI DI DATI](#tipi-di-dati)
+    - [VALIDITA' e AFFIDABILITA'](#validita-e-affidabilita)
+  - [ANALISI DEMOGRAFICHE PER LA PIANIFICAZIONE](#analisi-demografiche-per-la-pianificazione)
+    - [STUDIO DEI CARATTERI DI UNA POPOLAZIONE](#studio-dei-caratteri-di-una-popolazione)
+    - [BILANCIO DEMOGRAFICO](#bilancio-demografico)
+    - [STRUTTURA DELLA POPOLAZIONE](#struttura-della-popolazione)
+    - [PIRAMIDE DELLE ETA'](#piramide-delle-eta)
+    - [ANALISI DEI TASSI](#analisi-dei-tassi)
+    - [PREVISIONE DELLA POPOLAZIONE](#previsione-della-popolazione)
+      - [METODO DI SOPRAVVIVENZA DELLE CORORTI (CLASSI DI ETA')](#metodo-di-sopravvivenza-delle-cororti-classi-di-eta)
+  - [ANALISI TIPOLOGICA e MORFOLOGICA URBANA](#analisi-tipologica-e-morfologica-urbana)
+    - [LA TIPOLOGIA](#la-tipologia)
+    - [SENSO DELLA TIPOLOGIA](#senso-della-tipologia)
+    - [TIPOLOGIA e MORFOLOGIA URBANA](#tipologia-e-morfologia-urbana)
+    - [TIPOLOGIE DI EDIFICI](#tipologie-di-edifici)
+  - [TERRITORIO, INSEDIAMENTO, ATTIVITA'](#territorio-insediamento-attivita)
+    - [RELAZIONI VERTICALI e ORIZZONTALI](#relazioni-verticali-e-orizzontali)
+    - [LOCALIZZAZIONE DELLE ATTIVITA' SUL TERRITORIO](#localizzazione-delle-attivita-sul-territorio)
+      - [PRINCIPI DI ORGANIZZAZIONE TERRITORIALE (CAMAGNI)](#principi-di-organizzazione-territoriale-camagni)
+        - [AGGLOMERAZIONE](#agglomerazione)
+        - [ACCESSIBILITA'](#accessibilita)
+        - [INTERAZIONE SPAZIALE](#interazione-spaziale)
+        - [GERARCHIA](#gerarchia)
+        - [COMPETITIVITA'](#competitivita)
+  - [I SERVIZI PUBBLICI](#i-servizi-pubblici)
+    - [SERVIZI](#servizi)
+    - [NUOVE CONCEZIONI DI PUBBLICA AMMINISTRAZIONE](#nuove-concezioni-di-pubblica-amministrazione)
+    - [QUADRO UE](#quadro-ue)
+    - [ATTREZZATURA SOCIALE](#attrezzatura-sociale)
+    - [I SOGGETTI](#i-soggetti)
+    - [PIANIFICAZIONE DEI SERVIZI](#pianificazione-dei-servizi)
+    - [ATTREZZATURE DI SERVIZIO](#attrezzature-di-servizio)
+      - [RUOLO URBANISTICO DELLE ATTRAZZATURE](#ruolo-urbanistico-delle-attrazzature)
+    - [ANALISI DEL FABBISOGNO](#analisi-del-fabbisogno)
+    - [GERARCHIA DEI SERVIZI](#gerarchia-dei-servizi)
+    - [BACINO DI UTENZA](#bacino-di-utenza)
+    - [DIMENSIONAMENTO e LOCALIZZAZIONE](#dimensionamento-e-localizzazione)
+  - [ANALISI DELLA RESIDENZA](#analisi-della-residenza)
+    - [LA CASA](#la-casa)
+    - [CONTESTO TERRITORIALE - URBANO](#contesto-territoriale---urbano)
+      - [GOVERNO DEL MERCATO EDILIZIO](#governo-del-mercato-edilizio)
+        - [STRUMENTI DI CONCENTRAZIONE](#strumenti-di-concentrazione)
+      - [POLITICA DEI SUOLI](#politica-dei-suoli)
+      - [LA RENDITA](#la-rendita)
+      - [RUOLO DELL'ENTE PUBBLICO](#ruolo-dellente-pubblico)
+      - [ABITAZIONI PRIMARIE e SECONDARIE](#abitazioni-primarie-e-secondarie)
+    - [EDIFICIO (ISTAT 2011)](#edificio-istat-2011)
+      - [ANALISI DEI DATI](#analisi-dei-dati)
+      - [PRATICHE DI INTERVENTO](#pratiche-di-intervento)
+- [IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (GENELETTI)](#il-processo-di-piano-e-gli-strumenti-della-pianificazione-in-italia---la-valutazione-dei-piani-geneletti)
+  - [CONTENUTI DEI PRINCIPALI STRUMENTI DI PIANIFICAZIONE TERRITORIALE IN ITALIA](#contenuti-dei-principali-strumenti-di-pianificazione-territoriale-in-italia)
+  - [LA PIANIFICAZIONE DI AREA VASTA (pag. 53)](#la-pianificazione-di-area-vasta-pag-53)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -139,8 +153,13 @@ Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 
 
 
 L'esame si composto da:  
-- parte scritta (moduli **1**, **2**, **4**);  
+- parte scritta (moduli **1**, **2**, **4**): 5 domande articolate come segue:
+  - 2 domande sul modulo 1 (Zanon);
+  - 2 domande su modulo 2 (Geneletti);
+  - 1 domanda sul modulo 4 di legislazione.
 - elaborato progettuale con discussione orale.
+
+# INTRODUZIONE ALLA TECNICA URBANISTICA (ZANON)
 
 ## TERMINI DELLE DISCIPLINE TERRITORIALI
 * **urbanistica**: impiegato dall'ingegnere spagnolo *Alfonso Cerdà* (1885) nel 1867 per designare una disciplina autonoma avente per scopo l'organizzazione del territorio.
@@ -1084,4 +1103,113 @@ E' fondamentale dare la possibilità di scelta agli utenti: non è mai buona cos
 I servizi vanno dimensionati e localizzati definendone le caratteristiche prestazionali (limiti di soglia, etc.). All'interno del PRG si trovano previsioni di aree per servizi.  
 Il tutto è regolamentato dal _DM 11 aprile 2013: Norme tecniche - quadro_.
 
-## ANALISI DELLA RESIDENZA (pag. 49)
+## ANALISI DELLA RESIDENZA 
+Le famiglie hanno bisogni ed esigenze specifiche. Non è facile far incontrare la domanda con l'offerta.
+### LA CASA
+La casa è un oggetto che soddisfa le esigenze fondamentali dell'uomo. E' un oggetto complesso, legato alle ai progetti di vita ed emotivamente all'uomo.  
+Le dotazioni delle case sono molto diverse tra loro, in particolare nel tempo.  
+Bisogna tener conto che le esigenze cambiano nel corso della vita.
+
+In Italia c'è una forte stabilità nell'alloggio.
+
+La casa è un prodotto di comparto economico che opera secondo le logiche di mercato.  
+Gli aspetti tipologici dell'alloggio sono in relazione:
+* al modello di famiglia: allargata, nucleare, etc.;
+* alle attività svolte: economiche, etc.;
+* alla disponibilità finanziaria;
+* alla cultura;
+* alle conoscenze tecniche.
+
+### CONTESTO TERRITORIALE - URBANO
+Il fabbisogno di alloggi dipende dalle aree urbane. Esistono:
+* aree stabili;
+* aree in declino;
+* aree in crescita;
+* fenomeni di suburbanizzazione;
+* diffusione di insediamenti;
+* sviluppo locale;
+* fenomeni di recupero del patrimonio esistente;
+* trasformazioni dei modelli abitativi.
+
+E' necessario definire uno standard di riferimento per far incontrare la domanda con l'offerta (quello che non è stato fatto alle Albere).  
+Il fabbisogno riguarda:
+* il fabbisogno regresso;
+* il fabbisogno futuro.
+
+Per soddisfare il fabbisogno ci sono modalità diverse:
+* attraverso il mercato (acquisto o affitto di alloggi): __domanda solvibile__;
+* accesso ad abitazioni messe a disposizione dall'ente pubblico: __strati sociali deboli__;
+* uso e valorizzazione di proprietà famigliari: __autopromozione__ sostenuta dal pubblico attraverso mutui agevolati, etc.
+
+#### GOVERNO DEL MERCATO EDILIZIO
+I soggetti istituzionali per orientare la produzione impiegano:
+* intervento diretto: edilizia pubblica;
+* agevolazioni fiscali: detrazioni dalle tasse, iva agevolata, etc.;
+* incentivi: finanziamenti a fondo perduto o in conto d'interessi.
+
+##### STRUMENTI DI CONCENTRAZIONE
+Sono imprese private che costruiscono, finanziate con soldi pubblici e in accordo con il pubblico, e mettono a disposizione degli alloggi a "_canone moderato_".
+
+#### POLITICA DEI SUOLI
+Non è detto che l'ampliamento di aree edificabili porti a nuove costruzioni. Questo perché per ogni area edificabile è necessario avere delle aree pubbliche in più.
+
+#### LA RENDITA
+Controllo di proprietà del suolo (monopolio).
+
+Processo di valorizzazione delle aree e degli immobili grazie all'intervento collettivo attraverso un piano.
+
+Ampliando l'offerta di terreni i prezzi non calano (utile per l'esproprio che avviene a prezzi di mercato).
+
+#### RUOLO DELL'ENTE PUBBLICO
+L'ente pubblico opera:
+* sostenendo le famiglie: agevolazioni, sgravi fiscali, mutui, etc.;
+* intevenendo con modifiche agli strumenti di piano;
+* tollerando o sanando l'abusivismo.
+
+#### ABITAZIONI PRIMARIE e SECONDARIE
+Le abitazioni possono essere:
+* di prima residenza delle famiglie;
+* seconde case per vacanze;
+* alloggi per permanenze prolungate: studio, lavoro, etc.
+
+### EDIFICIO (ISTAT 2011)
+L'edificio costituisce l'unità di rilevazione per il censimento delle abitazioni, escluse quelle non occupate.
+
+#### ANALISI DEI DATI
+Il senso del censimento delle abitazioni è capire quali di queste sono occupate e quali no, la dinamica (i flussi) delle persone, le stanze, le condizioni degli alloggi, i cambi di destinazione d'uso, etc.
+
+I dati possono essere:
+* di __stock__: misurano una certa situazione in una determinata data;
+* di __flusso__: misurano le variazioni tra due date.
+
+#### PRATICHE DI INTERVENTO
+Le pratiche di intervento su un edificio possono essere:
+* riuso e/o nuovi alloggi;
+* nuova edificazione (quali tipologie edilizie? Chi interviene?);
+* residenze primarie e secondarie;
+* scelte urbanistiche.
+
+---
+
+# IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (GENELETTI)
+
+## CONTENUTI DEI PRINCIPALI STRUMENTI DI PIANIFICAZIONE TERRITORIALE IN ITALIA
+Ogni regione adotta piani urbanistici con nomi diversi.  
+Ogni piano deve contenere 2 elementi fondamentali:
+* descrizione;
+* cartografia.
+
+
+I piani possono essere __riferiti alle amministrazioni__ (comunali, provinciali, regionali) o __trasversali__ (piano di bacino, piano per il parco). Questi ultimi in particolare intersecano trasversalmente la gerarchia degli altri piani e oltrepassano i confini amministrativi, e si riferiscono a confini territoriali e morfologici.  
+Esiste una gerarchia amministrativa definita dalla _legge 142/1990 e TU enti locali 267/200_ e dalla _legge urbanistica 1150/1942 e smi_. 
+<figure>
+  <img src="images/gerarchiaPiani.jpg" alt="gerarchia" style="width:100%">
+  <figcaption>Gerarchia dei piani - <i>Fonte prof. D. Geneletti</i></figcaption>
+</figure>
+
+In alcune regioni esistno piani intermedi (sovracomunali) come:
+* piano territoriale della città metropolitana;
+* piano territoriale intercomunale;
+* etc.
+
+## LA PIANIFICAZIONE DI AREA VASTA (pag. 53)
