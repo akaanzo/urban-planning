@@ -115,7 +115,20 @@ Università degli Studi di Trento
       - [INTERAZIONE SPAZIALE](#interazione-spaziale)
       - [GERARCHIA](#gerarchia)
       - [COMPETITIVITA'](#competitivita)
-- [I SERVIZI PUBBLICI (pag. 44)](#i-servizi-pubblici-pag-44)
+- [I SERVIZI PUBBLICI](#i-servizi-pubblici)
+  - [SERVIZI](#servizi)
+  - [NUOVE CONCEZIONI DI PUBBLICA AMMINISTRAZIONE](#nuove-concezioni-di-pubblica-amministrazione)
+  - [QUADRO UE](#quadro-ue)
+  - [ATTREZZATURA SOCIALE](#attrezzatura-sociale)
+  - [I SOGGETTI](#i-soggetti)
+  - [PIANIFICAZIONE DEI SERVIZI](#pianificazione-dei-servizi)
+  - [ATTREZZATURE DI SERVIZIO](#attrezzature-di-servizio)
+    - [RUOLO URBANISTICO DELLE ATTRAZZATURE](#ruolo-urbanistico-delle-attrazzature)
+  - [ANALISI DEL FABBISOGNO](#analisi-del-fabbisogno)
+  - [GERARCHIA DEI SERVIZI](#gerarchia-dei-servizi)
+  - [BACINO DI UTENZA](#bacino-di-utenza)
+  - [DIMENSIONAMENTO e LOCALIZZAZIONE](#dimensionamento-e-localizzazione)
+- [ANALISI DELLA RESIDENZA (pag. 49)](#analisi-della-residenza-pag-49)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -973,4 +986,102 @@ Esistono vari modelli di centri:
 ##### COMPETITIVITA'
 Principio che individua la crescita delle città di quel pezzo di economia di esportazione che non favorisce la crescita della città.
 
-## I SERVIZI PUBBLICI (pag. 44)
+## I SERVIZI PUBBLICI
+I servizi pubblici sono attività che costituiscono un elemento importante che caratterizza la città e ne definiscono il ruolo.  
+La localizzazione dei servizi pubblici nello spazio urbano è importante per far funzionare al meglio il servizio.
+
+### SERVIZI
+I servizi possono riguardare:
+* attività pubbliche: municipio, scuola, ospedale, etc.;
+* attivià di interesse pubblico gestite da soggetti privati;
+* attività private: mercato, etc.
+
+I servizi devono rispondere alle esigenze localizzative delle attività di competenza pubblica o di interesse collettivo.  
+La pianificazione urbanistica ha il compito di governare la localizzazione delle attività commerciali e di mercato.
+
+### NUOVE CONCEZIONI DI PUBBLICA AMMINISTRAZIONE
+Molte attività che una volta erano gestite dal pubblico, sono state _esternalizzate_. Ora, i servizi possono essere prodotti indifferentemente sia da parte del pubblico che da parte di privati.
+
+### QUADRO UE
+La **UE** interviene in ambito servizi, con particolare occhio ai mercati. Spinge per la liberizzazione delle modalità di fornitura.
+
+La __carta dei servizi pubblici__ puntualizza i diritti fondamenteali e i principi; in particolare:
+* continuità del servizio;
+* sicurezza;
+* parità di accesso;
+* prezzo ragionevole.
+
+I servizi non vengono erogati per fare mercato ma per __benessere sociale__. Il pubblico infatti, anche nella gestione da parte di privati, contribuisce  economicamente.  
+In gran parte i servizi vengono pagati con la fiscalità (imposte) ma anche con una tariffa (servizi di trasporto pubblico) o con una tassa.  
+Le finalià dei servizi pubblici sono:
+* promozione personale e sociale: scuola;
+* integrazione;
+* sicurezza;
+* salute.
+
+Lo stato sociale (welfare state) può essere definito come l'estensione a tutti i cittadini del diritto di accedere a condizioni di vita regolata da standard minimi, che devono essere definiti e misurati in modo appropriato.
+
+### ATTREZZATURA SOCIALE
+Implica lo spazio adibito allo svolgimento di attività di servizio e viene finanziato e gestito dal pubblico.  
+La pianificazione dei servizi deve tener conto e delle dinamiche di mercato e della popolazione e della disponibilità presente e futura.
+
+### I SOGGETTI
+I soggetti che intervengono hanno ruoli diversi e possono essere:
+* Stato: interviene con leggi, finanziamenti e gestione diretta tramite alcuni ministeri;
+* regioni: intervengono con leggi, programmi e piani di settore, gestione dei servizi (sanità, trasporto pubblico locale, etc.);
+* province: intervengono con l'edilizia scolastica superiore, etc.;
+* comuni: forniscono servizi di base;
+* comunità montane: aggregazione di comuni montani che gestisce i servizi dei comuni aggregati;
+* agenzie, società municipalizzate (controllate dal pubblico), società di capitali.
+
+### PIANIFICAZIONE DEI SERVIZI
+Il PRG deve prevedere spazi adeguati alle attrezzature di servizio e possono essere creati con l'esproprio (come nel caso di verde pubblico, scuole, etc.), ricordando che i vincoli di esproprio decadono dopo alcuni anni.
+
+Alcune regioni, oltre al PRG, creano un piano dei servizi.
+
+Il problema della pianificazione dei servizi è che essi hanno una loro logica che tende a cambiare nel tempo. Bisogna cogliere una logica di servizio e una logica tecnico - funzionale (soglie di funzionalità: dimensioni minime e massime, costi di costruzione e gestione).  
+Importante è anche capire il bacino di persone e quindi il territorio serviti da un determinato servizio.  
+La pianificazione dei servizi deve tener conto e delle dinamiche di mercato e della popolazione e della disponibilità presente e futura e deve rispondere alle normative.
+
+### ATTREZZATURE DI SERVIZIO
+Possono essere:
+* di interesse pubblico: municipio, etc.;
+  
+relative a:
+* formazione: scuola, etc.;
+* salute: ospedali, poliambulatori, etc.;
+* cultura: teatri, biblioteche, etc.;
+
+ma anche relative a:
+* mobilità: stazioni, parcheggi, etc.;
+* verde;
+* attrezzature sportive.
+
+Alcune sono obbligatorie (municipio) altre no (teatro). Sono orientate verso i consumatori e soddisfano la loro domanda.
+
+Esistono altri servizi urbano che svolgono funzioni di servizio pubblico come _piazze_ e _parchi_.
+
+#### RUOLO URBANISTICO DELLE ATTRAZZATURE
+In base alla normativa _L. 874/1964 art. 4 modificato dall'art. 44 L.865/1971_ si distingue fra:
+* __opere di urbanizzazione primaria__: strade, parcheggi, fognature, rete idrica, gas, verde, etc.
+* __opere di urbanizzazione secondaria__: asili nido, scuole materne, etc.
+
+Altra normativa sugli standard urbanistici è il _D.I. 1444/1968_.
+
+### ANALISI DEL FABBISOGNO
+Quando si parla di pianificazione bisogna tener conto dell'analisi del fabbisogno tramite un confronto tra situazione teorica e stato di fatto. Bisogna definire degli __standard__ come strumento di misura.
+
+La previsione della domanda futura deve essere fatta proiettando l'evoluzione demografica e quindi l'evoluzione della domanda.
+
+### GERARCHIA DEI SERVIZI
+Esiste una gerarchia dei servizi, alcuni più diffusi sul territorio, altri rari e concentrati nei centri maggiori. Nonostante questo tutti i servizi devono essere __accessibili__.
+
+### BACINO DI UTENZA
+Bisogna individuare un'area di gravitazione o bacino di utenza per un determinato servizio. Il fattore principale è il _tempo di percorrenza_ (non la distanza). Riducendo il tempo di percorrenza si aumenta il bacino di utenza.   
+E' fondamentale dare la possibilità di scelta agli utenti: non è mai buona cosa imporre un servizio.
+
+### DIMENSIONAMENTO e LOCALIZZAZIONE
+I servizi vanno dimensionati e localizzati definendone le caratteristiche prestazionali (limiti di soglia, etc.). All'interno del PRG si trovano previsioni di aree per servizi.  
+Il tutto è regolamentato dal _DM 11 aprile 2013: Norme tecniche - quadro_.
+
+## ANALISI DELLA RESIDENZA (pag. 49)
