@@ -142,7 +142,26 @@ Università degli Studi di Trento
       - [PRATICHE DI INTERVENTO](#pratiche-di-intervento)
 - [IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (GENELETTI)](#il-processo-di-piano-e-gli-strumenti-della-pianificazione-in-italia---la-valutazione-dei-piani-geneletti)
   - [CONTENUTI DEI PRINCIPALI STRUMENTI DI PIANIFICAZIONE TERRITORIALE IN ITALIA](#contenuti-dei-principali-strumenti-di-pianificazione-territoriale-in-italia)
-  - [LA PIANIFICAZIONE DI AREA VASTA (pag. 53)](#la-pianificazione-di-area-vasta-pag-53)
+  - [LA PIANIFICAZIONE DI AREA VASTA](#la-pianificazione-di-area-vasta)
+    - [SCALA REGIONALE (o livello sovracomunale)](#scala-regionale-o-livello-sovracomunale)
+      - [STRUTTURA GENERALE](#struttura-generale)
+    - [PIANO TERRITORIALE REGIONALE - PTR](#piano-territoriale-regionale---ptr)
+      - [TEMI PRINICIPALI DEL PTR](#temi-prinicipali-del-ptr)
+    - [PIANO PAESAGGISTICO REGIONALE - PPR](#piano-paesaggistico-regionale---ppr)
+      - [PAESAGGIO](#paesaggio)
+      - [LINEE GUIDA](#linee-guida)
+    - [PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE - PTCP](#piano-territoriale-di-coordinamento-provinciale---ptcp)
+      - [TEMI PRINCIPALI DEL PTCP](#temi-principali-del-ptcp)
+    - [PIANO DI BACINO e PIANO PER IL PARCO](#piano-di-bacino-e-piano-per-il-parco)
+      - [PIANO DI BACINO](#piano-di-bacino)
+        - [TEMI D'INTERESSE DEL PIANO DI BACINO](#temi-dinteresse-del-piano-di-bacino)
+      - [PIANO PER IL PARCO](#piano-per-il-parco)
+  - [PIANO URBANISTICO COMUNALE](#piano-urbanistico-comunale)
+    - [STRUTTURA GENERALE](#struttura-generale-1)
+      - [INQUADRAMENTO](#inquadramento)
+      - [QUADRO CONOSCITIVO](#quadro-conoscitivo)
+      - [PROPOSTE](#proposte)
+      - [ATTUAZIONE](#attuazione)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -1203,7 +1222,7 @@ Ogni piano deve contenere 2 elementi fondamentali:
 I piani possono essere __riferiti alle amministrazioni__ (comunali, provinciali, regionali) o __trasversali__ (piano di bacino, piano per il parco). Questi ultimi in particolare intersecano trasversalmente la gerarchia degli altri piani e oltrepassano i confini amministrativi, e si riferiscono a confini territoriali e morfologici.  
 Esiste una gerarchia amministrativa definita dalla _legge 142/1990 e TU enti locali 267/200_ e dalla _legge urbanistica 1150/1942 e smi_. 
 <figure>
-  <img src="images/gerarchiaPiani.jpg" alt="gerarchia" style="width:100%">
+  <img src="images/gerarchiaPiani.jpg" alt="gerarchia" style="width:70%">
   <figcaption>Gerarchia dei piani - <i>Fonte prof. D. Geneletti</i></figcaption>
 </figure>
 
@@ -1212,4 +1231,191 @@ In alcune regioni esistno piani intermedi (sovracomunali) come:
 * piano territoriale intercomunale;
 * etc.
 
-## LA PIANIFICAZIONE DI AREA VASTA (pag. 53)
+## LA PIANIFICAZIONE DI AREA VASTA
+### SCALA REGIONALE (o livello sovracomunale)
+I piani di aria vasta sono __strumenti di indirizzo__ e coordinamento per l'attività pianificatoria comunale e/o regionale.  
+Il piano definisce cosa si può e cosa non si può fare (restrittivo) ma anche cosa si dovrebbe e non si dovrebbe fare (suggerimento).
+
+#### STRUTTURA GENERALE
+<figure>
+  <img src = "images/strutturaPiano.jpg", style = "width:100%">
+  <figcaption>Struttura dei piani - _Fonte Prof D. Geneletti_</figcaption>
+</figure>
+
+La struttura generale dei piani è così composta:
+* __vision e obiettivi generali__;
+* __quadro conoscitivo__ (studio di flussi, aree verdi, idrografia, aree sismiche, caratteristiche urbanistiche ed economiche del territorio):
+  * analisi;
+  * sintesi;
+
+* __progetto di piano/scelte__:
+  * obiettivi specifici (idee di dove si vuole arrivare in funzione alle zone - e.g. valli);
+  * azioni;
+
+* __strumenti per l'attuazione__:
+  * norme: come posso fare per avere il budget per gli obiettivi? Quali sono i divieti (costruire il nuovo, etc.)?
+  * indirizzi (o strategie);
+  * monitoraggio: mi sto avvicinando agli obiettivi? Come sta cambiando il territorio?
+
+### PIANO TERRITORIALE REGIONALE - PTR
+A livello regionale dovrebbe:
+* recepire le direttive nazionali ed europee e tradurle sul territorio;
+* rendere coerente la visione strategica della programmazione regionale con il contesto fisico, ambientale, etc., della regione;
+* costituire il quadro di riferimento per il governo del territorio.
+
+Fattore molto importante rimane la _coerenza_:
+* __interna__ alle scelte/vision contenute nel PTR: i contenuti del PTR non devono essere in conflitto;
+* __esterna__ tra i vari piani: non deve essere in conflitto con i piani provinciali, comunali ma in particolare i piani trasversali quali _piano di bacino_ e _piano dei parchi_.
+
+#### TEMI PRINICIPALI DEL PTR
+I temi principali contenuti all'interno del PTR sono:
+* ambiente: parchi, aree protette, rete ecologica (modo per collegare aree importanti dal punto di vista ecologico - e.g. boschi o parchi isolati collegati attraverso delle corridoi verdi o altri boschi);
+* infrastrutture: principali corridoi (non solo riguardo i trasporti);
+* assetto insediativo: classificazione delle aree urbane e le relative dinamiche;
+* sviluppo socio - economico: attività da promuovere.
+
+### PIANO PAESAGGISTICO REGIONALE - PPR
+Introdotto dalla _L. 431/1985 "legge Galasso"_.  
+Le regioni sono preposte anche a tutelare e valorizzare il paesaggio in modo adeguato. I cittadini devono fruire in maniera il più semplice possibile il paesaggio.  
+
+Oltre a tutelare e valorizzare il paesaggio il piano paesaggistico definisce le trasformazioni compatibili con i valori paesaggistici con azioni di recupero e valorizzazione.
+
+#### PAESAGGIO
+Definito dal _D.L. 42/2004 art. 131_:  
+`Per paesaggio si intende una parte omogenea del territorio i cui caratteri derivano dalla natura, dalla storia umana o dalle reciproche
+interrelazioni.`
+
+All'interno dei piani paesaggistici sono presenti censimenti di beni culturali e di beni paesaggistici (località dotate di qualità estetiche meritevoli), normati attraverso dei vincoli.
+
+I beni paesaggistici non sono solo _puntuali_ (lago, cascata, etc.) ma anche _ambiti_ (fasce lungo il mare, montagne, aree di vigneti, etc.).
+
+Come detto sopra, il PPR:
+* __tutela__ il paesaggio attraverso vincoli;
+* __valorizza__ la fruizione del paesaggio e l'educazione della collettività;
+* __recupera e riqualifica__ attraverso interventi sui paesaggi degradati.
+
+La scala di rappresentazione del PPR si aggira attorno a 1:25'000 - 1:50'000.
+
+I piani paesaggistici dovrebbero coinvolgere anche i cittadini in modo da descrivere il paesaggio da chi lo abita.
+
+#### LINEE GUIDA
+Spesso questi piani contengono linee guida per gli interventi (materiali da utilizzare, caratteristiche, etc.), utili per l'ingegnere civile, riferite a questioni estetiche e paesaggistiche.
+
+### PIANO TERRITORIALE DI COORDINAMENTO PROVINCIALE - PTCP
+Non si differenzia molto in termini di contenuti dal PTR. La principale differenza consiste nella scala di rappresentazione, e quindi nella ricchezza informativa, che è di 1:10'000. A questa scala si vedono le infrastrutture, i confini tra verde e zona urbana, etc.
+
+Il PTCP deve essere coerente con i piani che gli stanno sopra (beni culturali, tutela paesaggistica, etc.). Nel PTCP sono presenti reinterpretazioni e indicazioni precise descritte nel piano regionale. Deve, inoltre, coordinare i piani comunali e le loro pianificazioni.
+
+#### TEMI PRINCIPALI DEL PTCP
+I temi principali trattati nel PTCP sono:
+* agricoltura;
+* foreste a rischio idrologico;
+* infrastrutture;
+* sviluppo socio - economico;
+* assetto insediativo.
+
+Il PTCP ha alcune competenze specifiche per interessi sovracomunali (centri commeriali, campi sportivi, etc.). 
+
+Essenzialmente si struttura come il piano regionale, in particolare si compone di:
+* relazione;
+* norme di attuazione;
+* cartografia.
+
+### PIANO DI BACINO e PIANO PER IL PARCO
+Entrambi fanno parte del piano di area vasta (piani sovracomunali).
+
+#### PIANO DI BACINO
+Introdotto dalla _L. 183/1989_ che istituisce le autorità di bacino e tutela le acqua e il rischio idrogeologico.  
+E` un piano territoriale di settore relativo alla difesa del suolo e delle acque superficiali e sotterranee.  
+
+Le prescrizioni del piano di bacino sono __vincolanti__ e per i piani che stanno sotto (comunali) e per le amministrazioni pubbliche e i cittidini.
+
+Il territorio dei piani di bacino scinde i confini geografici e considera confini idrologici e/o morfologici.  
+
+Dal punto di vista normativo si appoggiano a 2 normative europee:
+* __direttiva alluvioni__ (2007/60/CE) per la _difesa idrogeologica_;
+* __direttiva quadro sulle acque__ (2000/60/CE) per la _tutela della qualità e della quantità delle risorse idriche_.
+
+##### TEMI D'INTERESSE DEL PIANO DI BACINO
+I temi principali trattati sono:
+* sistemazione, conservazione e recupero del suolo e dei bacini idrografici;
+* difesa e sistemazione dei corsi d'acqua;
+* vincoli e aree sottoposte a vincoli;
+* protezione delle coste;
+* etc.
+
+La struttura è simile al PRG. Il piano ricopre __tutto__ il territorio nazionale.
+
+#### PIANO PER IL PARCO
+Vale solo per le aree protette nazionali o regionali. Viene istituito dalla _L. 394/1991_ per:
+* parchi nazionali;
+* parchi regionali.
+
+Il compito è quello di fare in modo che le finalità del parco vengano garantite, oltre che tutelare i valori naturali e ambientali del parco e delle azioni (e.g. pascoli ad alta quota). 
+
+La struttura è la stessa dei precedenti piani.
+
+Una delle carte più importanti del piano per il parco è quella che descrive la _zonizzazione_ del parco:  
+  A: __riserve integrali__: prevale la tutela della natura;  
+  B: __riserve guidate__: è consentita l'attività antropica se mantiene e tutela l'ambiente;  
+  C: __riserve controllate__: attività volte alla fruizione del parco (area pic-nic, sentiero guidato, etc.).
+
+Il piano sostituisce, all'interno dell'area protetta, i piani paesaggistico, territoriale e urbanistico.
+
+I contenuti del piano si interfacciano anche con i confini del parco (trasporto locale, parcheggi, strade, etc.).
+
+## PIANO URBANISTICO COMUNALE
+Le indicazioni, la zonizzazione, etc., hanno carattere _quantitativo_ (quanta crescita ci si aspetta).
+
+Devono essere coerenti con i piani sovraordinati e con i piani trasversali. Disciplina le trasformazioni territoriali e urbanistiche.
+
+In dettaglio tratta:
+* obiettivi di sviluppo sulla base di dinamiche demografiche e capacità insediative del territorio;
+* individua le aree di nuova espansione, la zonizzazione e le modalità di realizzazione;
+* valuta lo stato dei servizi (aree verdi, poliambulatori, infrastrutture, etc.);
+* definisce l'intervento di edilizia pubblica, per l'attività produttiva e di commercio;
+* definisce le aree di esercizio per l'attività agricola e forestale, tenendo conto dei vincoli sovraordinati.
+
+### STRUTTURA GENERALE
+<figure>
+  <img src = "images/strutturaPianoComunale.jpg" style = "width:100%">
+  <figcaption>Struttura del piano urbanistico comunale - _Fonte Prof. D. Geneletti_</figcaption>
+</figure>
+La struttura è la medesima dei piani precedenti:
+* introduzione/inquadramento;
+* quadro conoscitivo;
+* progetto di piano;
+* strumenti per l'attuazione.
+
+#### INQUADRAMENTO
+Il processo di pianificazione comunale è un processo __partecipativo__ guidato dall'amministrazione comunale e che coinvolge:
+* enti di vigilanza;
+* enti consultivi;
+* cittadini.
+
+#### QUADRO CONOSCITIVO
+Analisi dei servizi esistenti e dei servizi previsti dai precedenti piani in fase di attuazione o realizzazione.
+
+La conoscenza contiene temi come: 
+* carta idrologica;
+* carta geomorfologica;
+* carta del rischio idraulico;
+* carta dei servizi;
+* etc.
+
+Il quadro conoscitivo può contenere una sintesi di _opportunità_ e _criticità_ del territorio comunale sotto forma di tabella o cartografia.
+
+#### PROPOSTE
+Srutturate in _obiettivi_ (astratte) e _azioni_ (concrete) molto specifiche.
+
+#### ATTUAZIONE
+E` sempre presente una tavola di zonizzazione che divide __tutto__ il territorio comunale in aree omogenee per tipologia e destinazione d'uso. Ad ogni zona è associata una normativa specifica che definisce funzioni, indici di edificabilità, tipologie di insediamento, interventi ammessi (demolizioni, ricostruzioni, etc.).  
+Il _D.M. 1444/68_ definisce 6 zone omogenee principali:
+* zona A centro storico;
+* zona B di completamento (già urbanizzata, edificazione da completare);
+* zona C di espansione (prati, pascoli, aree boschive);
+* zona D insediamenti produttivi;
+* zona E uso del soprasuolo per fini agricoli;
+* zona F.
+
+Ogni zona comprende svariate sottozone (e.g. C1, C2, etc.).
