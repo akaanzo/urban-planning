@@ -1,6 +1,6 @@
 --- 
 title: Appunti di Tecnica Urbanistica  
-Docenti: *Geneletti* - *Zanon*  
+Docenti: *Geneletti* - *Zanon* - *Cassatella* - *Parona*
 Autore: *Matteo Franzoi - 2019-03-20*  
 Università degli Studi di Trento  
 ---
