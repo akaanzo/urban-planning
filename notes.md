@@ -6,7 +6,7 @@ Università degli Studi di Trento
 ---
 ---
 
-- [INTRODUZIONE ALLA TECNICA URBANISTICA (ZANON)](#introduzione-alla-tecnica-urbanistica-zanon)
+- [INTRODUZIONE ALLA TECNICA URBANISTICA (Bruno Zanon)](#introduzione-alla-tecnica-urbanistica-bruno-zanon)
   - [TERMINI DELLE DISCIPLINE TERRITORIALI](#termini-delle-discipline-territoriali)
   - [SOGGETTI DELLE DISCIPLINE TERRITORIALI](#soggetti-delle-discipline-territoriali)
   - [TERRITORIO, LUOGO](#territorio-luogo)
@@ -140,7 +140,7 @@ Università degli Studi di Trento
     - [EDIFICIO (ISTAT 2011)](#edificio-istat-2011)
       - [ANALISI DEI DATI](#analisi-dei-dati)
       - [PRATICHE DI INTERVENTO](#pratiche-di-intervento)
-- [IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (GENELETTI)](#il-processo-di-piano-e-gli-strumenti-della-pianificazione-in-italia---la-valutazione-dei-piani-geneletti)
+- [IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (Davide Geneletti)](#il-processo-di-piano-e-gli-strumenti-della-pianificazione-in-italia---la-valutazione-dei-piani-davide-geneletti)
   - [CONTENUTI DEI PRINCIPALI STRUMENTI DI PIANIFICAZIONE TERRITORIALE IN ITALIA](#contenuti-dei-principali-strumenti-di-pianificazione-territoriale-in-italia)
   - [LA PIANIFICAZIONE DI AREA VASTA](#la-pianificazione-di-area-vasta)
     - [SCALA REGIONALE (o livello sovracomunale)](#scala-regionale-o-livello-sovracomunale)
@@ -162,6 +162,112 @@ Università degli Studi di Trento
       - [QUADRO CONOSCITIVO](#quadro-conoscitivo)
       - [PROPOSTE](#proposte)
       - [ATTUAZIONE](#attuazione)
+    - [CONTENUTI](#contenuti)
+      - [PROVINCIA DI TRENTO](#provincia-di-trento)
+      - [EMILIA-ROMAGNA](#emilia-romagna)
+      - [LOMBARDIA](#lombardia)
+    - [SVILUPPO URBANO](#sviluppo-urbano)
+      - [DOVE METTO GLI ABITANTI?](#dove-metto-gli-abitanti)
+      - [SERVIZI](#servizi-1)
+    - [PROCESSO DI PIANO](#processo-di-piano)
+      - [OBIETTIVI](#obiettivi)
+      - [RACCOLTA e ANALISI DEI DATI](#raccolta-e-analisi-dei-dati)
+      - [STUDI DI DETTAGLIO](#studi-di-dettaglio)
+      - [IPOTESI DI PIANO](#ipotesi-di-piano)
+- [LA PIANIFICAZIONE URBANISTICA: PROFILI GIURIDICI (Antonio Cassatella)](#la-pianificazione-urbanistica-profili-giuridici-antonio-cassatella)
+  - [LE FONTI DEL DIRITTO URBANISTICO e DEL DIRITTO DELL'ATTIVITA` EDILIZIA](#le-fonti-del-diritto-urbanistico-e-del-diritto-dellattivita-edilizia)
+    - [NORME DI RIFERIMENTO](#norme-di-riferimento)
+      - [LEGISLAZIONE STATALE](#legislazione-statale)
+  - [LA PIANIFICAZIONE URBANISTICA: PRINCIPI GENERALI](#la-pianificazione-urbanistica-principi-generali)
+    - [LEGGE URBANISTICA 1150/1942](#legge-urbanistica-11501942)
+    - [LEGGE 865/1967 "PONTE"](#legge-8651967-%22ponte%22)
+  - [IL CONCETTO GIURIDICO DI PIANO](#il-concetto-giuridico-di-piano)
+  - [LE FUNZIONI DEI PIANI URBANISTICI](#le-funzioni-dei-piani-urbanistici)
+  - [CARATTERISTICHE DELLA PIANIFICAZIONE URBANISTICA](#caratteristiche-della-pianificazione-urbanistica)
+  - [LIVELLI DI PIANIFICAZIONE TERRITORIALE](#livelli-di-pianificazione-territoriale)
+  - [IL PRG: CONTENUTI e STRUTTURA](#il-prg-contenuti-e-struttura)
+    - [STRUTTURA FISICA DEL PIANO](#struttura-fisica-del-piano)
+    - [ZONIZZAZIONE: LE SINGOLE ZONE OMOGENEE](#zonizzazione-le-singole-zone-omogenee)
+      - [LIMITI e SUPERAMENTO DEL MODELLO STATALE](#limiti-e-superamento-del-modello-statale)
+        - [LIMITI](#limiti)
+- [LA DISCIPLINA DELLA PIANIFICAZIONE ATTUATIVA (Dott. Leonardo Parona)](#la-disciplina-della-pianificazione-attuativa-dott-leonardo-parona)
+  - [EVOLUZIONE DEI MODELLI DI PIANIFICAZIONE: CAUSE e SVILUPPI](#evoluzione-dei-modelli-di-pianificazione-cause-e-sviluppi)
+  - [SCHEMA DI SINTESI DEI PIANI](#schema-di-sintesi-dei-piani)
+  - [PIANIFICAZIONE ATTUATIVA](#pianificazione-attuativa)
+    - [PROGRAMMI PLURIENNALI DI ATTUAZIONE](#programmi-pluriennali-di-attuazione)
+    - [PIANO PARTICOLAREGGIATO DI ESECUZIONE](#piano-particolareggiato-di-esecuzione)
+      - [PROCEDIMENTO DI FORMAZIONE ORDINARIO](#procedimento-di-formazione-ordinario)
+      - [PROCEDIMENTO DI FORMAZIONE SEMPLIFICATO](#procedimento-di-formazione-semplificato)
+    - [PIANO DI LOTTIZZAZIONE](#piano-di-lottizzazione)
+      - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione)
+      - [PROBLEMATICHE](#problematiche)
+    - [PIANI ATTUATIVI SPECIALI e SPERIMENTAZIONI](#piani-attuativi-speciali-e-sperimentazioni)
+  - [IN SINTESI ](#in-sintesi)
+  - [ESEMPI DI PIANIFICAZIONE URBANISTICA](#esempi-di-pianificazione-urbanistica)
+    - [VENETO](#veneto)
+      - [PTCR](#ptcr)
+        - [CONTENUTO](#contenuto)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-1)
+      - [PTCP](#ptcp)
+        - [CONTENUTO](#contenuto-1)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-2)
+      - [PIANO REGOLATORE COMUNALE](#piano-regolatore-comunale)
+        - [PAT](#pat)
+          - [CONTENUTO](#contenuto-2)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-3)
+        - [PI](#pi)
+          - [CONTENUTO](#contenuto-3)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-4)
+      - [PIANI URBANISTICI ATTUATIVI](#piani-urbanistici-attuativi)
+        - [CONTENUTO](#contenuto-4)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-5)
+    - [PROVINCIA DI TRENTO](#provincia-di-trento-1)
+      - [FINALITÀ](#finalit%C3%A0)
+      - [ATTRIBUZIONI DELLA PROVINCIA](#attribuzioni-della-provincia)
+      - [ATTRIBUZIONI DELLE COMUNITÀ](#attribuzioni-delle-comunit%C3%A0)
+      - [ATTRIBUZIONI DEI COMUNI](#attribuzioni-dei-comuni)
+      - [SISTEMA DI PIANIFICAZIONE TERRITORIALE](#sistema-di-pianificazione-territoriale)
+      - [PUP](#pup)
+        - [CONTENUTO](#contenuto-5)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-6)
+      - [PTC](#ptc)
+        - [CONTENUTO](#contenuto-6)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-7)
+      - [PRG](#prg)
+        - [CONTENUTO](#contenuto-7)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-8)
+      - [PIANI ATTUATIVI](#piani-attuativi-1)
+        - [TIPI DI PIANO ATTUATIVO](#tipi-di-piano-attuativo)
+        - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-9)
+    - [PROVINCIA DI BOLZANO](#provincia-di-bolzano)
+      - [LIVELLI DI PIANIFICAZIONE](#livelli-di-pianificazione)
+      - [PIANIFICAZIONE DI LIVELLO PROVINCIALE](#pianificazione-di-livello-provinciale)
+        - [PSP](#psp)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-10)
+        - [PdS](#pds)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-11)
+      - [PIANIFICAZIONE DI LIVELLO COMUNALE](#pianificazione-di-livello-comunale)
+        - [PSCTP](#psctp)
+          - [CONTENUTI MINIMI](#contenuti-minimi)
+        - [PCTP](#pctp)
+          - [CONTENUTI MINIMI](#contenuti-minimi-1)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-12)
+        - [PIANIFICAZIONE ATTUATIVA](#pianificazione-attuativa-1)
+          - [OBIETTIVI](#obiettivi-1)
+          - [TIPOLOGIE DI PIANI](#tipologie-di-piani)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-13)
+    - [LOMBARDIA](#lombardia-1)
+      - [STRUTTURA](#struttura)
+        - [PTR](#ptr)
+          - [CONTENUTI](#contenuti-1)
+        - [PTCP](#ptcp-1)
+          - [CONTENUTI](#contenuti-2)
+        - [PIANO COMUNALE](#piano-comunale)
+          - [DOCUMENTO DI PIANO](#documento-di-piano)
+          - [PIANO DEI SERVIZI](#piano-dei-servizi)
+          - [PIANO DELLE REGOLE](#piano-delle-regole)
+          - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-14)
+  - [CONSIDERAZIONI CONCLUSIVE](#considerazioni-conclusive)
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
@@ -178,7 +284,7 @@ L'esame si composto da:
   - 1 domanda sul modulo 4 di legislazione.
 - elaborato progettuale con discussione orale.
 
-# INTRODUZIONE ALLA TECNICA URBANISTICA (ZANON)
+# INTRODUZIONE ALLA TECNICA URBANISTICA (Bruno Zanon)
 
 ## TERMINI DELLE DISCIPLINE TERRITORIALI
 * **urbanistica**: impiegato dall'ingegnere spagnolo *Alfonso Cerdà* (1885) nel 1867 per designare una disciplina autonoma avente per scopo l'organizzazione del territorio.
@@ -738,8 +844,8 @@ Secondo la _legge n. 457 art. 31 del 5 agosto 1978_ gli interventi possibili son
 
 ### L'ITER DI APPROVAZIONE DEL PIANO 
 I piani urbanistici sono _atti tecnico - amministrativi_ che devono seguire un iter preciso di approvazione per garantire la correttezza delle norme.  
-Solitamente la giunta comunale (organo esecutivo) decide e avvia il processo di modifica del piano regolatore.  
-Una volta predisposto, il consiglio comunale presenta e __adotta__ il piano. Il piano viene adottato e non approvato!  
+Solitamente la Giunta comunale (organo esecutivo) decide e avvia il processo di modifica del piano regolatore.  
+Una volta predisposto, il Consiglio comunale presenta e __adotta__ il piano. Il piano viene adottato e non approvato!  
 Viene così reso pubblico e può essere visionato per 30 giorni durante cui possono essere presentate delle __osservazioni__ di atti non giustificati o di problemi in esso.  
 
 Dopo la seconda adozione segue l'__esame tecnico__ da parte di uno specifico organo. In seguito viene __approvato__ da organi superiori (regione o provincia autonoma).  
@@ -1210,7 +1316,7 @@ Le pratiche di intervento su un edificio possono essere:
 
 ---
 
-# IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (GENELETTI)
+# IL PROCESSO DI PIANO e GLI STRUMENTI DELLA PIANIFICAZIONE IN ITALIA - LA VALUTAZIONE DEI PIANI (Davide Geneletti)
 
 ## CONTENUTI DEI PRINCIPALI STRUMENTI DI PIANIFICAZIONE TERRITORIALE IN ITALIA
 Ogni regione adotta piani urbanistici con nomi diversi.  
@@ -1222,7 +1328,7 @@ Ogni piano deve contenere 2 elementi fondamentali:
 I piani possono essere __riferiti alle amministrazioni__ (comunali, provinciali, regionali) o __trasversali__ (piano di bacino, piano per il parco). Questi ultimi in particolare intersecano trasversalmente la gerarchia degli altri piani e oltrepassano i confini amministrativi, e si riferiscono a confini territoriali e morfologici.  
 Esiste una gerarchia amministrativa definita dalla _legge 142/1990 e TU enti locali 267/200_ e dalla _legge urbanistica 1150/1942 e smi_. 
 <figure>
-  <img src="images/gerarchiaPiani.jpg" alt="gerarchia" style="width:70%">
+  <img src="images/gerarchiaPiani.JPG" alt="gerarchia" style="width:70%">
   <figcaption>Gerarchia dei piani - <i>Fonte prof. D. Geneletti</i></figcaption>
 </figure>
 
@@ -1238,7 +1344,7 @@ Il piano definisce cosa si può e cosa non si può fare (restrittivo) ma anche c
 
 #### STRUTTURA GENERALE
 <figure>
-  <img src = "images/strutturaPiano.jpg", style = "width:100%">
+  <img src = "images/strutturaPiano.JPG", style = "width:80%">
   <figcaption>Struttura dei piani - _Fonte Prof D. Geneletti_</figcaption>
 </figure>
 
@@ -1378,8 +1484,8 @@ In dettaglio tratta:
 
 ### STRUTTURA GENERALE
 <figure>
-  <img src = "images/strutturaPianoComunale.jpg" style = "width:100%">
-  <figcaption>Struttura del piano urbanistico comunale - _Fonte Prof. D. Geneletti_</figcaption>
+  <img src = "images/strutturaPianoComunale.JPG" style = "width:100%">
+  <figcaption>Struttura del piano urbanistico comunale - Fonte Prof. D. Geneletti</figcaption>
 </figure>
 La struttura è la medesima dei piani precedenti:
 * introduzione/inquadramento;
@@ -1419,3 +1525,866 @@ Il _D.M. 1444/68_ definisce 6 zone omogenee principali:
 * zona F.
 
 Ogni zona comprende svariate sottozone (e.g. C1, C2, etc.).
+
+### CONTENUTI
+Il PRG può avere contenuti diversi in base all'area a cui fa riferimento; ad esempio:
+#### PROVINCIA DI TRENTO
+In provincia di Trento il piano urbanistico è un _piano unico_ chiamato **PRG** e contiene:
+* relazione;
+* carta/zonizzazione;
+* norme tecniche di attuazione;
+* altri elaborati di dettaglio.
+
+#### EMILIA-ROMAGNA
+In Emilia-Romagna esistono più piani _gerarchici_ (come in Veneto) quali:
+* PSC (Piano Strutturale Comunale): comprende le scelte strategiche di assetto e di sviluppo del territorio comunale;
+* RUE (Regolamento Urbanistico Edilizio): definisce i parametri urbanistico-edilizi;
+* POC (Piano Operativo Comunale).
+
+#### LOMBARDIA
+La Lombardia ha 3 _piani divisi per tematiche_. Esistono un piano dei servizi (PDS), un piano delle regole e un documento generale (DDP - documento di piano).
+
+
+
+La zonizzazione, **obbligatoria in ogni piano**, comprende tutto il territorio comunale! Le zone sono uniformate in tutto il Paese (A, B, C, etc. hanno la stessa destinazione) mentre le categorie vengono definite dalla **legenda standard** di ogni regione.
+
+
+### SVILUPPO URBANO
+Nello sviluppo urbano rientra tutto quello che il piano intende fare per lo sviluppo delle aree urbane. Si articola in:
+1. crescita attesa della popolazione durante il periodo di validità del piano;
+2. verifica della disponibilità residua del piano precedente;
+3. dimensionamento del nuovo piano.
+
+#### DOVE METTO GLI ABITANTI?
+Ci sono 3 diversi modi per distribuire la popolazione:
+1. espansione/nuova urbanizzazione: è il metodo **più critico** poiché aumenta il consumo di suolo; viene anche chiamato _green-fill_ e viene particolarmente impiegato per le zone **C**;
+2. completamento: utilizzo di un lotto libero residuo di un'area già urbanizzata. Viene impiegato per le aree di completamento **B** ed è anche chiamato _in-fill_;
+3. riqualificazione/rigenerazione: è il metodo più **virtuoso** dal punto di vista ambientale, non occupando nuovo suolo. Consiste nel riutilizzare il suolo già occupato attraverso la riqualificazione o la demolizione e successiva ricostruzione dell'esistente o ancora la bonifica di aree dismesse e abbandonate. E` anche detto _brown-fill_.
+
+Dal punto di vista __ambientale__ l'obiettivo dei piani comunali moderni è quello di _ridurre il consumo di suolo_.
+
+
+- **Suolo:** strato superficiale che contiene sia sostanza organiche che non organiche (minerali, etc.) essenziale per la vita delle piante. E` una risorsa _non rinnovabile_ (si rigenera molto lentamente: 2.5 cm in 500 anni).
+
+Per tamponare la crescita dell'occupazione di nuovo suolo si agisce attraverso i piani urbanistici, ad esempio con i meccanismi di sviluppo urbano presenti all'interno del piano stesso.
+
+#### SERVIZI
+I servizi, nel piano urbanistico, sono contenuti all'interno della zona **F** e devono essere dimensionati in funzione delle esigenze e del numero di abitanti (insediati e insediabili), soddisfacendo allo stesso momento gli standard minimi definiti dalla legge.
+
+### PROCESSO DI PIANO
+Da un punto di vista logico, il processo di piano si articola come segue:
+1. **obiettivi:** quello che voglio che il piano raggiunga;
+2. **raccolta e analisi dati**;
+3. **studi dettagliati** dei dati raccolti (e.g. land suitability analysis);
+4. **ipotesi di piano**;
+5. **stesura del piano** (normative, cartografie, relazione, etc.).
+
+#### OBIETTIVI
+Possono essere direttamente identificati dalla Giunta o ereditati dai piani sovrastanti (e.g. provinciale/regionale) o proposti dai cittadini. Questo percorso si conclude con la _formalizzazione degli obiettivi_ in un documento. Si possono anche creare dei focus groups su particolari obiettivi, assemblee, questionari, etc. che comprendano anche i cittadini, in modo da cercare di soddisfare i loro bisogni. Durante la stesura delle opportunità e delle criticità vengono sempre coinvolti i cittadini.
+
+#### RACCOLTA e ANALISI DEI DATI
+I dati possono riguardare analisi climatiche (irraggiamento in una specifica area, etc.), rischio idrogeologico, rischio sismico, presenza e localizzazione di pozzi e aree di rispetto, caratterizzazione dei suoli, ecologia (distribuzione degli habitat), aree protette, etc.  
+Il tutto può essere descritto da un _layer-cake model_.
+
+Per quanto riguarda l'ambito __socio-culturale__ i dati più rilevanti sono:
+* uso del suolo;
+* popolazione;
+* crescita urbana;
+* analisi demografica: confronto con le comunità vicine o comunità che comprendono l'area in esame, per valutare gli spostamenti della popolazione.
+
+Alla fine del processo di analisi si crea una banca dati GIS, utile per la creazioni di modelli, e si stileranno delle relazioni (geologica, sismica, etc.).
+
+#### STUDI DI DETTAGLIO
+Negli studi di dettaglio si mettono in relazione i dati raccolti con gli obiettivi, cercando di dare una risposta al problema. Vengono studiate:
+* morfologia del territorio;
+* suolo (meno pregiato);
+* aree di tutela;
+* altro.
+
+#### IPOTESI DI PIANO
+Comprendono le prime bozze del piano (più di una) basate sugli studi di dettaglio nonché sui dati raccolti e sugli obiettivi fissati. Durante il processo di ipotesi si amplia la _questione decisionale ai cittadini_.  
+La bozza, che contiene relazione e norme, deve essere aperta ai commenti del pubblico e di amministrazioni sovrastanti (provincia, regione) o trasversali (gestori di bacini, parchi, etc.). Dopo aver risolto le criticità e integrato consigli e commenti, il piano viene **adottato** per un periodo di prova per poi essere approvato.
+
+---
+
+# LA PIANIFICAZIONE URBANISTICA: PROFILI GIURIDICI (Antonio Cassatella)
+
+Ogni attività umana è regolata da norme giuridiche, nonché ogni attività di trasformazione del territorio e ogni attività umana sul territorio.  
+
+_Non c'è attività umana sul territorio che non sia regolata da una legge_
+
+Esempi come TAV, ferrovia del Brennero, pedemontana, etc. - dal punto di vista giuridico - sono grandi opere pubbliche già progettate e prese in carico da un'impresa. Da un punto di vista legislativo esistono delle leggi e degli atti amministrativi che __impongono__ la realizzazione di queste grandi opere. Da un punto di vista strettamente politico, queste opere vogliono essere bloccate, violando così delle leggi e dei contratti di appalto. Infine, il giurista può discutere attraverso mezzi giuridici e legislativi per interrompere queste opere.
+
+Il diritto tratta svariate attività da un punto di vista particolare, usando loiche autonome e dinamiche proprie che si basano su norme giuridiche.
+
+Vi è una differenza sostanziale tra norme scientifiche e norme giuridiche:
+## NORMA SCIENTIFICA<!-- omit in toc -->
+E` una norma ___descrittiva___, che descrive - appunto - una piccola porzione della realtà usando un linguaggio simbolico - numerico che si traduce spesso in equazioni che descrivono, a loro volta, un fenomeno e hanno un certo _grado di verità_. La norma è detta _descrittiva_ perché collega due fenomeni, ad esempio
+  $$ \sigma = E\,\varepsilon$$
+Questi fenomeni sono legati da __causalità naturale__. Una nuova scoperta scientifica, come ad esempio 
+$$ \sigma = E\,\varepsilon + k$$
+è detta _falsificazione_ e fa si che la proposizione precedente non sia più vera e quindi non descriva più la realtà; trasgredisce, cioè, la regola.
+
+Le regole che condionano il diritto hanno una struttura completamente diversa:
+## NORME GIURIDICHE<!-- omit in toc -->
+Sono regole ___prescrittive___ (indicano alle persone quali comportamenti tenere nei confronti di altre persone o cose). Non descrivono la realtà: non danno indicazioni descrittive su un fatto (e.g. furto) ma dicono cosa succede se si accerta il fatto (reato di furto). Orientano, perciò, la condotta umana.  
+Talvolta possono incorporare regole scientifiche: prescrizioni di elementi/materiali derivanti da studi scientifici per la prevenzioni incendi.  
+Una regola giuridica in quanto tale non dice nulla di vero o di falso perché il suo obiettivo non è quello di descrivere la realtà ma di __prescrivere__. La caratteristica delle regole prescrittive è la ___cogenza___. Il furto non è vietato, ma chi ruba è soggetto a una sanzione (in teoria, se si accerta il furto). Lo schema è
+$$ cogenza \Longrightarrow furto \Longrightarrow imputazione\,\,giuridica$$
+L'imputazione giuridica implica che i fatti non siano legati alla causalità. Se non vuoi essere imputato non commettere certi comportamenti.  
+_Le regole giuridiche possono essere violate_, questo non rende _non vere_ le norme.
+
+## LE FONTI DEL DIRITTO URBANISTICO e DEL DIRITTO DELL'ATTIVITA` EDILIZIA
+### NORME DI RIFERIMENTO
+#### LEGISLAZIONE STATALE
+Comprende leggi dello Stato italiano, elaborate dal parlamento/governo e valide sul territorio italiano, quali:
+* legge n. 1150/1942 __legge urbanistica__: prima legge sull'urbanistica che ha previsto l'obbligo ai comuni di dotarsi di piani regolatori generali. E` la legge statale di riferimento per l'urbanistica;
+* legge n. 382/2001 sull'__espropriazione di pubblica utilità__: è uniforme su tutto il territorio ed è strettamente connessa alla pianificazione del territorio. L'esproprio è un procedimento che attua il processo di pianificazione, acquisendo la proprietà del terreno;
+* d.P.R. 380/2001 dell'__edilizia__: atto preparato dal governo (testo unico cioè raccolta e riordino di norme esistenti, alcune della quali hanno valore di legge) che è stato emanato dal Presidente della Repubblica. Si riferisce ai procedimenti di rilascio del _permesso di costruire_ e quindi allo svolgimento dell'attuazione dei piani.
+
+Queste tre leggi assieme permettono a un tecnico di conoscere bene la materia.
+
+Nel 2001 ci fu una riforma della costituzione (conseguentemente a un referendum) attribuire alle regioni più potere legislativo e amministrativo, tra cui un _potere di governo del territorio_; questo ha implicato un proliferarsi di leggi urbanistiche regionali (o provinciali, per Trento e Bolzano) che integrassero la legge n1150/1942 e il d.P.R. 380/2001, fatta eccezione la legge sugli espropri che continua a valere per tutto il territorio italiano.
+
+## LA PIANIFICAZIONE URBANISTICA: PRINCIPI GENERALI
+Durante l'800, in Italia, non si è avuta una normativa di riferimento per quanto riguardava l'urbanizzazione delle aree di campagna attorno ai centri storici. L'attività costruttiva era guidata dalle norme contenute nel codice civile (o norme private), salvo questioni di sanità pubblica e infrastrutture viarie, fluviali e ferroviarie.  
+I centri storici hanno iniziato ad espandersi progressivamente, basandosi sulle 3 norme sopra elencate (codice civile, sanità pubblica e infrastrutture). Non vi erano grandi limiti alla costruzione nel codice civile, che regola in particolare le distanza dai confini, l'apertura di luci (finestre) affacciate ad altre proprietà, costruzioni in aderenza, etc.  
+Fino oltre meta del '800 non c'è alcun riferimento all'urbanistica e al diritto urbanistico. La costruzione dell'epoca era _disordinata_ e _casuale_, proprio a causa della mancanza di regole. Le opere caratterizzate da un ordine (piazze, chiese, etc.) derivano dal fatto che qualcuno ha voluto costruire un'opera pubblica in maniera ordinata e non è affatto collegato ad una normativa.  
+
+Dopo l'800, con l'unità di Italia, prende piede il _nation building_ (costruire una nazione) atto a costruire e mantenere tutti gli elementi che identificano la nazione. 
+
+I piani ottocenteschi introducono la prima _pianificazione urbanistica_, presente nei grandi centri in modo da superare il disordine presente all'epoca; i piani più importanti sono quelli di Firenze, Roma, Palermo, Milano, Napoli. All'interno dei centri storici sono stati realizzati assi stradali primari, edifici pubblici (scuole, etc.) caratterizzati da tratti comuni. Tutto questo è stato possibile grazie all'applicazione di piani predisposti specificatamente per ogni città, sulla base di leggi speciali.  
+Questa logica si è mantenuta anche durante l'epoca fascista, poiché fino al 1942 non c'era l'obbligo di munirsi di un PRG.  
+
+* __Nel 1929, con i _patti lateranensi_, nasce via della Conciliazione, che collega Roma a San Pietro in Vaticano.__
+
+### LEGGE URBANISTICA 1150/1942
+Si decide di imporre ad ogni comune, a prescindere dalle dimensioni, di munirsi di piani atti a regolare e limitare l'attività costruttiva. I piani devono essere approvati dal Ministero dei lavori pubblici.   
+Il legislatore era interessato a regolare e limitare la costruzione nei centri urbani e quindi la legge del 1942 non era applicabile alle campagne. Questo ha portato alla nascita del fenomeno di _speculazione edilizia_ nelle aree di campagna, che oggi sono le periferie urbane.
+
+### LEGGE 865/1967 "PONTE"
+A fronte della speculazione edilizia degli anni '50-'60, la legge _Ponte_ amplia l'obbligo di pianificazione a tutto il territorio comunale, campagne comprese. Si crea, così, il concetto di _zonizzazione_.  
+
+Il PRG cerca di coordinare sia le attività edilizie pubbliche sia quelle private, per garantire il benessere collettivo.  
+La legge applica il _principio di salvaguardia_ che obbliga ogni attività di costruzione ad essere soggetta ad una pianificazione e quindi a sottostare al PRG.
+
+## IL CONCETTO GIURIDICO DI PIANO
+Nel __linguaggio comune__, un piano è uno strumento che consente di programmare una determinata attività nel tempo a venire, per il conseguimento di determinati risultati.  
+In __termini giuridici__ `il piano è un atto amministrativo volto alla definizione di future attività pubbliche e private volte alla realizzazione di opere.`  
+Un __atto amministrativo__ è un _atto giuridico_ (documento) normalmente adottato da determinati soggetti (pubblica amministrazione quali comune, provincia, regione, etc.) che sulla base della legge hanno poteri che tutelano atti pubblici.
+
+Il piano è un documento redatto da tecnici (aiutati da giuristi nella stesura delle norme) che opera negli interessi della pubblica amministrazione e quindi del pubblico in generale.
+
+___`Il piano è un atto amministrativo generale!`___ Un atto amministrativo generale non si riferisce a un destinatario specifico o a un specifico momento ma è riferita tutti in generale (e.g. ZTL).  
+Le caratteristiche del piano in quanto _atto amministrativo generale_ sono:
+* ___caratteristiche dei destinatari___: un piano urbanistico ha come destinatari non solo i residenti del comune, ma anche i proprietari di immobili che giaciono nel comune. Proprietari e residenti sono solo un sottoinsieme dei destinatari, cui fanno parte anche i pendolari che hanno un forte collegamento con il comune (lavoro, studio, altri servizi). Il numero di destinatari è _indeterminato_ e _indeterminabile_ e proprio per questo il piano è dett __generale__.
+* ___caratteristica di efficacia temporale___ (scadenza): in genere i provvedimenti amministrativi hanno una loro efficacia e quindi un termine; i piani _non hanno termini di efficacia_, non scadono mai. Possono, però, essere modificati attraverso _varianti di piano_ oppure sostituiti integralmente da un nuovo piano. L'esigenza di tutela del territorio fa si che il piano abbia sempre valore a meno che non venga sostituito.
+* ___caratteristica dell'efficacia conformativa___: il piano ha la capacità di conformare il godimento della proprietà privata. Soltanto i piani urbanistici inseriti in atti amministrativi generali hanno questa caratteristica di efficacia conformativa. Il piano contiene una rappresentazione della realtà futura cogente. Il piano non è una soluzione tecnica ma obbliga i soggetti proprietari, onerandoli a costruire nel rispetto delle norme del piano. Il piano limita lo _ius edificandi_ (diritto di costruire) e quindi le attività costruttive (in certe zone). A volte, il piano ingloba lo standard progettuale, vietando l'applicazione di altri standard. Il piano ha efficacia tale da obbligare di applicarlo (pena sanzione).
+
+## LE FUNZIONI DEI PIANI URBANISTICI
+`A cosa serve dal punto di vista giuridico il piano urbanistico comunale?`
+ 
+Da un punto di vista giuridico il piano comunale è necessario perché permette di raggiungere 5 obiettivi:
+1. ___conformazione dell'attività edilizia___: si può costruire (in Italia ma non solo) sulla base di quanto permette il piano di riferimento. C'è un collegamento tra _norme tecniche_ e _norme giuridiche_. Per costruire dove il piano non lo permette è necessaria una _variante al piano_ o una _concessione in deroga_; quest'ultima è concessa per opere pubbliche e opere di interesse pubblico.
+2. ___garantire il coordinamento degli usi possibili del territorio___ (residenziale, industriale, commerciale, agricolo, etc.): il piano urbanistico è uno strumento di governo essenziale per lo sviluppo del territorio. Il decisore politico (comune, provincia/regione) usa il piano per sviluppare il territorio locale secondo le sue scelte. La zonizzazione è un effetto di questo punto. In base alle scelte del decisore politico il piano cambia e cambia così lo sviluppo del territorio (cambia la città). Spesso gli usi vanno _dosati_ e collegati tra loro in modo che "comunichino". Queste scelte avvengono attraverso la pianificazione urbanistica.
+3. ___localizzazione di opere pubbliche e previsione di vincoli espropriativi___ (ospedali, scuole, parchi, parcheggi, etc.): tutti i servizi pubblici vanno dimensionati e integrati nel piano. E` necessaria un attento studio per localizzare al meglio i servizi pubblici per evitare che quartieri non siano provvisti di scuole, ospedali, etc. e che diventino quindi un ghetto. Talvolta, il posizionamento di servizi pubblici necessita di avviare una procedura di esproprio al privato.
+4. ___contributo alla tutela dei centri storici, del paesaggio, dei beni culturali e dell'ambiente___: il piano può proteggere il paesaggio attraverso la pianificazione di riutilizzo e mantenimento dei centri storici e dei beni culturali. Per tutelare l'ambiente è sufficiente tutelare le aree agricole (e.g. vigne, etc.) e boschive in modo da evitare costruzioni non necessarie e mantenere la salubrità dell'aria.
+5. ___la generale funzione di garanzia rispetto all'esercizio e al godimento di diritti di libertà e dell'iniziativa economica___: il piano urbanistico è uno strumento che garantisce il soddisfacimento dei diritti e dei bisogni delle persone. Quando non avviene si riscontrano fenomeni come i ghetti (e.g. Scampia).
+
+## CARATTERISTICHE DELLA PIANIFICAZIONE URBANISTICA
+Esiste una:
+- ___dimensione tecnica del piano urbanistico___: i piani sono perlopiù composti da valutazioni tecniche deliberate da tecnici di fiducia del comune o dell'amministrazione. La pianificazione viene fatta sulla base di dati, raccolti e studiati da tecnici ed esperti, che applicano scienze e tecniche (demografia, sociologia, economia, storia, geologia, etc.),
+- ___dimensione discrezionale del piano urbanistico___: la parte tecnica è la base _conoscitiva_ del piano. La fase successiva è una fase decisionale che si basa sui dati tecnici raccolti; questo procedimento spetto alla pubblica amministrazione (Consiglio comunale, Consiglio provinciale/regionale). Come per le fasi di attuazione del piano, i cittadini possono partecipare attivamente alle scelte. La parte tecnica cede i dati alla parte _politica_, la quale __fa le scelte__ (con la partecipazione dei cittadini). Riassumendo: la parte tecnica raccoglie i dati scientifici e li elabora (dimensione tecnica); la parte politica, sulla base di questi dati, compie delle scelte (assieme ai cittadini); queste scelte generano i contenuti da inserire nel piano e quindi le linee guida da dare ad esso. 
+
+I cittadini possono partecipare attivamente al processo; in particolare, possono impugnare il piano se delle scelte non sono motivate. Il diritto impone la motivazione delle scelte urbanistiche, che si trovano in due atti:
+* ___relazione illustrativa___: comprende le condizioni in cui si trova il piano e i motivi delle scelte (in linea di massima). Comprende le ragioni pratiche e tecniche che hanno portato a quelle scelte.
+* ___verbale di attuazione del piano___: contiene al suo interno i dettagli su come è avvenuta la votazione per l'adozione del piano. La discussione, al contrario della relazione illustrativa, sarà prettamente politica.
+
+Il piano, in quanto atto amministrativo, può essere impugnato davanti a un giudice amministrativo (TAR) se viola piani sovraordinati o norme di settore.
+
+## LIVELLI DI PIANIFICAZIONE TERRITORIALE
+Esistono 3 livelli di pianificazione territoriale:
+1. ___livello di pianificazione regionale/provinciale di coordinamento___;
+2. ___livello comunale___ (PRG);
+3. ___piani attuativi___: attuano, in certe aree del territorio, parti del piano comunale (_e.g. piani di lotizzazione_).
+
+I tre livelli appena menzionati sono diversi l'uno dall'altro; in particolare:
+* hanno diversa efficacia giuridica (e pratica);
+* hanno diverso ambito spaziale di riferimento;
+* hanno diverse procedure di attuazione dei piani.
+
+## IL PRG: CONTENUTI e STRUTTURA
+In base alla legge urbanistica n. 1150/1942:
+* __art. 7 - caratteristiche necessarie del PRG:__
+  * rete delle principali vie di comunicazione (stradali, ferroviarie, navali, etc.);
+  * divisione del territorio in zone (_zonizzazione_) e caratteristiche delle zone (vincoli informativi);
+  * aree e spazi di uso pubblico (esistenti e potenziali) e quindi vincoli di esproprio;
+  * edifici pubblici o ad uso pubblico;
+  * vincoli di carattere storico e paesaggistico;
+  * _norme di attuazione_: serie di articoli che prescrivono ciò che si può e non si può fare in una zona o sottozona del piano (e.g. che tipo di interventi si possono fare nei centri storici). Traduce l'opzione tecnica in obbligo giuridico. È scritta da tecnici (ingegneri, architetti, etc.) i quali devono avere un linguaggio giuridico chiaro e appropriato.
+
+### STRUTTURA FISICA DEL PIANO
+Il piano contiene:
+- relazione illustrativa: obiettivi, stato di fatto del territorio, etc.;
+- cartografia;
+- norme di attuazione: traduzione in regola della parte cartografica del piano. Norme e cartografia devono essere coerenti e con la relazione illustrativa e con le norme esterne (i.e. legge urbanistica); se così non fosse, il piano potrevve essere annullato per illegittimità.
+
+### ZONIZZAZIONE: LE SINGOLE ZONE OMOGENEE
+Normato dall'art. 2 del D.M. 1444/1968, il concetto di __zona omogenea__ è un concetto astratto perché non rispecchia ne le caratteristiche dello stato urbano attuale, ne lo sviluppo dello stesso. Basti pensare ad una grande città: ogni quartiere di una grande città è provvisto di servizi, attività artigianali e commerciali, supermercati, scuole, etc., e ovviamente residenze; tutto questo è una prova del fallimento della zonizzazione. Per lo stesso principio di zone omogenee si vengono a creare ___ghetti___, cioè aree residenziali completamente distaccate dal resto della città, non provviste di servizi pubblici e attività commerciali.  
+Unico esempio di _zona omogenea_ possono essere i piccoli centri extraurbani che comprendono la ___campagna___.
+
+#### LIMITI e SUPERAMENTO DEL MODELLO STATALE
+Il modello della legge urbanistica del 1942 non è più seguito ne dalle regioni ne dalle province; è ancora un punto di riferimento, ma è oramai stato superato.  
+In particolare, il modello statale si basa su:
+* distinzione rigida dei vari piani (regionale, provinciale, comunale);
+* pesante zonizzazione.
+
+##### LIMITI
+I principali limiti del modello della legge urbanistica:
+* il fallimento dei piani territoriali di coordinamento, piani che descrivono l'espansione dei centri urbani ed extraurbani regionali (implementato in modo efficace solo in provincia di Trento). È fallito il governo regionale del territorio, che ha funzionato solo in Trentino attraverso il PUC e che impone ai comuni cosa possono e non possono inserire nei vari piani comunali;
+* inefficacia della zonizzazione;
+* eccessiva rididità dei PRG: il fatto che i piani non abbiano una scadenza (ma possano subire varianti), aumenta il rischio che il piano non riesca a tenere il ritmo dei cambiamenti socio-culturali durante la vita dello stesso piano. Si dovrebbe obbligare i comuni a rivedere il piano, magari, ogni cinque (o dieci) anni, in modo da verificare ciò che è stato attuato e applicato e quindi valutare la bontà dello stesso;
+* limiti endemici della descrezionalità politica: essendo il piano adottato da organi politici, descrive necessariamente le idee della politica che amministra il pubblico in quel momento.
+
+---
+# LA DISCIPLINA DELLA PIANIFICAZIONE ATTUATIVA (Dott. Leonardo Parona)
+La disciplina della pianificazione attuativa si inserisce nell'urbanistica che a sua volta rientra nel governo del territorio.  
+Si ricorda la gerarchia delle fonti, qui descritta:  
+<figure>
+<img src="images/gerarchia-fonti.jpg" alt="gerarchiaFonti" width="80%"/>
+<figcaption> Gerarchia delle fonti </figcaption>
+</figure>
+
+In generale, la legge urbanistica n. 1150/1942 è stata parzialmente superata: le regioni hanno potere legislativo in materia di governo del territorio. A questo punto si devono differenziare le regioni a statuto ordinario da quelle a statuto speciale:
+* ___regioni a statuto ordinario___: il legislatore regionale può emanare leggi in materia urbanistica con alcuni limiti giuridici, dovendo sottostare a:
+  * leggi costituzionali;
+  * trattati internazionali;
+  * altre leggi;  
+
+  come descritto dalla gerarchia delle fonti. Il governo del territorio è una __competenza concorrente__: le leggi regionali sono concorrenti a quelle nazionali. Rimangono prevalenti le leggi nazionali per, ad esempio, il diritto di proprietà (codice civile) e per l'esproprio.
+
+* ___regioni a statuto speciale___: hanno competenza esclusiva in materia urbanistica (C. Cost. 46/2014 e art. 4 e 8, n. 5 Statuto speciale TAA).
+
+---
+`N.B. La legge urbanistica è del 1942, mentre la costituzione è del 1948!`
+
+---
+
+La legge n. 1150/1942 ha un sistema a cascata (o cannocchiale) che è:
+* pluralistico: moltitudini di piani (piani di area vasta, piani comunali, piani urbanistici, etc.);
+* gerarchico;
+* gradualistico.
+
+La pianificazione attuativa si pone all'ultimo livello della cascata.
+
+<figure>
+ <img src="images/cascata-legge-urbanistica.jpg" alt="cascata" width="80%"/>
+ <figcaption>Modello a cascata della legge urbanistica n. 1150/1942</figcaption>
+</figure>
+
+## EVOLUZIONE DEI MODELLI DI PIANIFICAZIONE: CAUSE e SVILUPPI
+La riforma costituzionale del 2001 ha fatto si che il modello della legge urbanistica del 1942 cambiasse: vi è un riparto di competenze legislative dovute a:
+* esigenze di flessibilità degli strumeni urbanistici (varianti, etc.);
+* maggiore attenzione a interessi specifici e settoriali;
+* urbanistica contrattata: rappresentata dalla convenzione di lottizzazione;
+* perequazione urbanistica: per spiegarla si fa un esempio: si supponga che su un terreno gravi un vincolo di esproprio. Il proprietario riceverà si un indennizzo ma, grazie al concetto di perequazione, potrà godere di un vantaggio (non necessariamente automatico) di titoli edificatori da sfruttare (e.g. cubatura edificabile). In questo modo il vincolo viene "ammortizzato" dalla comunità invece che dal singolo.
+
+Si comprende che la pianificazione urbanistica si inserisce in un sistema già di per se complesso.  
+In più, si ritiene che i poteri discrezionali in materia di pianificazione siano sempre meno; questo vale soprattutto per la pianificazione generale.
+
+E nella pianificazione attuativa? 
+
+Anche qua esiste una certa discrezionalità; non è quindi una pianificazione meramente esecutiva delle norme del piano generale!
+
+## SCHEMA DI SINTESI DEI PIANI
+In figura qua sotto è possibile distinguere la "gerarchia", o meglio lo schema, dei piani urbanistici in termini generali.
+
+<figure>
+  <img src="images/schema-sintesi-piani.jpg" alt="schemaSintesiPiani" width="70%"/>
+  <figcaption>Schema di sintesi dei piani urbanistici</figcaption>
+</figure>
+
+## PIANIFICAZIONE ATTUATIVA
+La pianificazione attuativa ha l'obiettivo di specificare, dettagliare e atuare previsioni degi strumenti urbanistici di base. I lati positivi sono la realizzazione degli obiettivi, mentre quelli negativi sono il rischio che siano realizzato interventi non consentiti (con rispettive sanzioni).
+
+La pianificazione attuativa, generalmente ma non è sempre così, avviene attraverso due piani:
+* piano particolareggiato;
+* piano di lottizzazione.
+
+In realtà ogni regione può usare piani differenti o può non usarne, essendo i piani di attuazione non obbligatori.
+
+### PROGRAMMI PLURIENNALI DI ATTUAZIONE
+È un programma di durata triennale (generalmente) le cui finalità sono: 
+* pianificazione temporale di lavori posti in essere da privati;
+* priorità;
+* proporzioni.
+
+Il programma pluriennale di attuazione è stato progressivamente abbandonato; ora è previsto solo per nuovi insediamenti o ristrutturazioni urbanistiche rilevanti.
+
+---
+`N.B. Il programma pluriennale di attuazione è diverso dalla programmazione pluriennale delle opere pubbliche che consiste in una programmazione triennale e che comprende uno studio di fattibilità e un elenco annuale (piano finanziario).`
+
+---
+
+### PIANO PARTICOLAREGGIATO DI ESECUZIONE
+Il piano particolareggiato è uno degli esempi di piano attuativo. È disciplinato dagli artt. 13-17 della legge n. 1150/1942. Le finalità principali sono:
+* specificare le indicazioni di zona del PRG;
+* conformare le opere di rilievo minori, le varianti, etc.
+
+Si può affermare che il piano particolareggiato da un indice sull'attività edilizia privata.
+
+#### PROCEDIMENTO DI FORMAZIONE ORDINARIO
+Il procedimento di formazione ordinario consiste in:
+* progetto da parte del ___comune___ fatto da _tecnici del comune_ o da _privato scelto mediante appalto_;
+* delibera del ___Consiglio comunale___ che _adotta_ il progetto;
+* una volta adottato, il progetto viene _pubblicato_ nell'albo pretorio (e online). I cittadini possono presentare **osservazioni** mentre i proprietari lesi possono presentare delle **opposizioni**. Se il comune decide di accettare le osservazioni e le opposizioni modificherà il piano;
+* il piano viene inviato alla ___regione___ assieme alle modifiche effettuate;
+* il piano viene ri-adottato e ri-pubblicato con notifica ai proprietari lesi;
+* **il piano ha efficacia temporale massima di dieci anni**.
+
+#### PROCEDIMENTO DI FORMAZIONE SEMPLIFICATO
+Il procedimento semplificato si differenzia dal precedente per:
+* potere decisorio solo a livello comunale;
+* le regioni possono solo depositare osservazioni;
+* eventuale trasferimento di competenze alle province.
+
+Viene usato principalmente per le varianti di piano.
+
+### PIANO DI LOTTIZZAZIONE
+Secondo esempio di piano attuativo previsto dalla legge urbanistica nazionale. È disciplinato dalla legge "Ponte" n. 765/1967 (in precedenza da convenzioni urbanistiche).  
+È il principale istituto attraverso cui si realizza l'edificazione contrattata. Le sue finalità sono:
+* coordinamento della disciplina di zone già urbanizzate e di nuovi insediamenti;
+* accollare gli oneri di urbanizzazione ai privati; in particolare:
+    * _urbanizzazione primaria_ a carico del privato;
+    * _urbanizzazione secondaria_ parte (in base ai diversi casi) a carico del pubblico.
+
+#### PROCEDIMENTO DI FORMAZIONE
+La formazione avviene come segue:
+* attuazione su istanza dei ___proprietari___ (maggioranza dei proprietari dell'area per superficie e non procapite) o di iniziativa pubblica. L'istanza deve contenere:
+  * progetto;
+  * schema di convenzione: ripartizione degli oneri e spese degli oneri di costruzione.
+* delibera di approvazione;
+* talvolta può essere necessario un _nulla osta_ dalla regione.
+* una volta approvati progetto e schema di convenzione si stipula la convenzione: ipotesi di accordo integrativo del provvedimento (è un atto formalmente privato o comunqua tra privati);
+* trascrizione della convenzione;
+* autorizzazione allo svolgimento dell'attività edilizia.
+
+#### PROBLEMATICHE
+La lottizzazione è necessaria? Esistono altre modalità nel PRG?
+
+No, non lo è!
+
+È comunque possibile recedere dal contratto in caso di inadempimento. In questo caso le spese per gli oneri di urbanizzazione pagati possono essere riacquisite in altri modi.
+
+La problematica primaria è la _lottizzazione abusiva_: questa può essere materiale (per finalità speculative) o formale.
+
+### PIANI ATTUATIVI SPECIALI e SPERIMENTAZIONI
+Riguardano specifici interessi e cercano di rispondere a specifiche esigenze. Un esempio sono:
+* piani attuativi per l'edilizia residenziale pubblica (L. 167/1967);
+* programmi di recupero urbano;
+* programmi di riqualificazione urbana;
+* programmi di riqualificazione e sviluppo sostenibile del territorio;
+* programmi di riabilitazione urbana;
+* piano strutturale (linee di sviluppo del territorio comunale i.e. zonizzazione) - piano operativo (individuazione delle opere e identificazione delle varie zone).
+
+## IN SINTESI <!-- omit in toc-->
+In sintesi, le caratteristiche generali della pianificazione attuativa sono:
+* pluralismo;
+* rimane un vincolo gerarchico (tendenziale) con il PRG;
+* adottati esclusivamente (o quasi) a livello comunale;
+* non hanno natura necessaria a patto che:
+  * l'area sia sufficientemente urbanizzata;
+  * il PRG non lo puntializzi;
+  * per opere di manutenzione o restauro.
+
+## ESEMPI DI PIANIFICAZIONE URBANISTICA
+### VENETO
+I piani urbanistici in Veneto si organizzano con un sistema a piramide.
+
+<figure>
+  <img src="images/piramide-piani-veneto.jpg" alt="piramidePianiVeneto" width="70%"/>
+  <figcaption>Gerarchia dei piani urbanistici veneti</figcaption>
+</figure>
+
+Il sistema veneto si basa sui seguenti principi:
+* principio di sussidiarietà: se un ente inferiore è capace di svolgere bene un compito, l'ente superiore non deve intervenire, ma può eventualmente sostenerne l'azione. La sussidiarietà può essere: 
+  * verticale:  le funzioni amministrative devono essere attribuite agli enti più prossimi ai cittadini;
+  * orizzontale: riconoscimento formale alla legittimità  del ruolo attivo dei cittadini, singoli o associati, nella promozione di iniziative di interesse generale;
+* coerenza;
+* gerarchia.
+
+#### PTCR
+##### CONTENUTO
+Oltre al governo del territorio il PTCR contiene:
+* programmazione regionale di sviluppo;
+* assetto territoriale regionale;
+* zone e beni oggetto di tutela;
+* valorizzazione e riqualificazione del territorio;
+* schema delle reti di infrastrutture, servizi, etc.;
+* individuazione di aree per insediamenti industriali.
+
+##### PROCEDIMENTO DI FORMAZIONE
+La formazione avviene come segue:
+* documento preliminare elaborato dalla ___Giunta regionale___ e trasmesso agli enti locali;
+* concertazione e partecipazione dei cittadini;
+* adozione da parte della ___Giunta regionale___;
+* deposito entro 30 giorni;
+* osservazioni e proposte entro 120 giorni;
+* trasmissione del piano, ed eventuali osservazioni, al ___Consiglio regionale___, entro 120 giorni;
+* approvazione (o meno) da parte del ___Consiglio regionale___;
+* **efficacia dopo 15 giorni dalla pubblicazione sulla gazzetta ufficiale**.
+
+#### PTCP
+Le province mantengono competenze in materia urbanistica dal punto di vista e dell'organizzazione e della pianificazione e dell'edilizia, in particolare quella scolastica.
+
+##### CONTENUTO
+I contenuti del PTCP sono:
+* relazione ricognitiva dello stato di fatto e delle finalità da perseguire;
+* elaborati grafici;
+* norme tecniche.
+
+Il piano individua gli obiettivi di pianificazione dell'assetto del territorio provinciale come:
+* tutela del suolo;
+* tutela e valorizzazione del patrimonio agro-forestale.
+
+##### PROCEDIMENTO DI FORMAZIONE
+La formazione avviene attraverso:
+* documento preliminare elaborato dalla ___Giunta provinciale___;
+* concertazione e partecipazione;
+* adozione del piano da parte del ___Consiglio provinciale___;
+* deposito entro 120 giorni e per 30 giorni;
+* osservazioni entro 30 giorni dalla scadenza del deposito;
+* trasmissione alla regione entro 60 giorni dalla fine del processo di osservazioni;
+* approvazione della ___Giunta regionale___ entro 180 giorni, se compatibile con il PTRC;
+* **efficacia dopo 15 giorni dalla pubblicazione**.
+
+#### PIANO REGOLATORE COMUNALE
+Il piano regolatore comunale è composto da due strumenti:
+1. piano di assetto del territorio (PAT);
+2. piano degli interventi (PI).
+
+##### PAT
+Delinea le scelte di assetto e sviluppo del territorio comunale.
+###### CONTENUTO
+Si compone di relazione tecnica, elaborati grafici e norme tecniche.  
+Ha bisogno di una _previsione decennale_ che deve contenere:
+* obiettivi e condizioni di sostenibilità;
+* zone e ambiti di tutela e valorizzazione;
+* invarianti idrogeologiche, paesaggistiche, etc.;
+* consumo di suolo;
+* centri storci, fasce di rispeto, etc.;
+* dotazioni minime di servizi e infrastrutture.
+
+###### PROCEDIMENTO DI FORMAZIONE
+Il processo di formazione segue i seguenti passi:
+* documento preliminare redatto dalla ___Giunta comunale___;
+* concertazione;
+* trasmissione al ___Consiglio comunale___;
+* adozione da parte del ___Consiglio comunale___;
+* deposito entro 8 giorni e per 30 giorni;
+* osservazioni entro 30 giorni dalla fine del deposito;
+* trasmissione alla ___provincia___ entro 30 giorni;
+* approvazione da parte della ___Giunta provinciale___ entro 240 giorni (o silenzio assenso), se compatibile con il PTCP e PTRC;
+* **efficacia dopo 15 giorni dalla pubblicazione della delibera di approvazione**.
+
+##### PI
+Strumento urbanistico, coerente al PAT, che individua e tutela gli interventi di organizzazione e trasformazione del territorio. 
+
+Nel sistema veneto, approvazioni e modifiche dei piani di livello superiore obbliga, a livello comunale, di adeguare i piani ***entro 1 anno***.
+
+Il piano degli interventi si compone di relazione programmatica sui tempi, priorità e quadro economico, elaborati grafici e norme tecniche operative.  
+È coordinato con il bilancio pluriennale comunale e con programma triennale delle opere pubbliche.  
+Può essere attuato tramite interventi diretto o piani attuativi.
+
+###### CONTENUTO
+Il piano degli interventi: 
+* precisa la zonizzazione;
+* individua le zone che richiedono interventi diretti;
+* destinazioni d'uso, indici edilizi, etc.;
+* modalità di interventi di trasformazione e conservazione;
+* localizzazione di opere e servizi;
+* piano urbano per traffico, parcheggi, mobilità ciclistica, etc.
+
+###### PROCEDIMENTO DI FORMAZIONE
+Il procedimento di formazione del piano degli interventi è competenza esclusiva del ___Consiglio comunale___.
+* consultazione, concertazione e partecipazione;
+* adozione;
+* deposito entro 8 giorni e per 30 giorni;
+* osservazioni per 30 giorni;
+* decisione e approvazione del piano entro 60 giorni;
+* trasmissione alla provincia (uffici specializzati);
+* **efficacia dopo 15 giorni dalla pubblicazione**.
+
+#### PIANI URBANISTICI ATTUATIVI
+Nella legislazione veneta sono presenti una pluralità di piani attuativi:
+* piano particolareggiato;
+* piano di lottizzazione;
+* piano per l'edilizia popolare;
+* piano di recupero;
+* piano ambientale;
+* etc.
+
+##### CONTENUTO
+I contenuti in comune tra i vari piani sono i seguenti:
+* estratto del piano di assetto territoriale e del piano degli interventi;
+* cartografia che la zona soggetta a intervento;
+* planimetria delle infrastrutture a rete;
+* vincoli;
+* verifica di compatibilità;
+* estratto catastale;
+* progetto planovolumetrico;
+* schema delle opere di urbanizzazione;
+* relazione illustrativa;
+* norme di attuazione.
+
+##### PROCEDIMENTO DI FORMAZIONE
+I piani attuativi sono di competenza della ___Giunta comunale___ (organo esecutivo).
+* iniziativa privata (51% dei proprietari) o pubblica (individuata dalla Giunta comunale);
+* adozione preliminare;
+* deposito entro 5 giorni e per 10 giorni;
+* osservazioni entro 20 giorni;
+* approvazione entro 30 giorni da parte della ___Giunta comunale___ (o silenzio assenso);
+* deposito e notifica ai poprietari dissenzienti (49% dei proprietari);
+* efficacia entro 15 giorni dalla pubblicazione;
+* **durata massima di 10 anni e proroga massima di 5 anni**.
+
+### PROVINCIA DI TRENTO
+Disciplinata dalla legge provinciale per il governo del territorio **L.P. Trento 15/2015**.  
+La provincia ha competenza primaria in materia di urbanistica, piani regolatori e tutela del paesaggio.
+
+#### FINALITÀ
+Le finalità dei piani sono dettate dall'art. 2:
+* riproducibilità e valorizzazione delle risorse naturali;
+* migliorare la qualità della vita;
+* sviluppo sostenibile;
+* riqualificazione e recupero degli insediamenti esistenti;
+* salvaguardia identitaria e cultura locale;
+* competitività;
+* sussidiarietà, partecipazione e valutazione (monitoraggio continuo del piano e delle leggi).
+
+In particolare, la gerarchia trentina si sviluppa come segue:
+
+<figure>
+  <img src="images/gerarchia-trento.jpg" alt="gerarchiaTrento" width="70%" />
+  <figcaption>Gerarchia della Provincia di Trento</figcaption>
+</figure>
+
+#### ATTRIBUZIONI DELLA PROVINCIA
+Le competenze della Provincia sono: 
+* pianificazione provinciale;
+* approvazione dei piani delle comunità e dei PRG regionali;
+* autorizzazioni paesaggistiche;
+* vigilanza, autotutela, poteri sanzionatori.
+
+Esiste poi la _commissione provinciale per l'urbanistica e il paesaggio_ che ha funzione consultiva ma può rilasciare autorizzazioni.
+
+#### ATTRIBUZIONI DELLE COMUNITÀ
+Per quanto riguarda le comunità:
+* pianificazione di livello sovracomunale;
+* parere sulla coerenza del PRG;
+* accertamento della conformità e approvazione di opere pubbliche;
+
+#### ATTRIBUZIONI DEI COMUNI
+Le attribuzioni dei comuni sono regolate dall'art. 8 e comprendono:
+* pianificazione generica e attuativa;
+* regolamento edilizio comunale;
+* il comune può istituire una commissione edilizia; 
+* rilascio di titoli abilitativi edilizi, SCIA e DIA (non sostituiscono i titoli abilitativi);
+* accertamento conformità e approvazione di opere pubbliche;
+* vigilanza e potere sanzionatorio.
+
+#### SISTEMA DI PIANIFICAZIONE TERRITORIALE
+Il sistema di pianificazione territoriale della Provincia di Trento si articola come segue:
+<figure>
+  <img src="images/piramide-piani-trentino.jpg" alt="gerarchiaPianiTrentino" width="80%"/>
+  <figcaption>Gerarchia dei piani urbanistici della Provincia di Trento</figcaption>
+</figure>
+
+#### PUP
+Il piano urbanistico provinciale è adottato con legge.  
+Si compone di una relazione illustrativa, elaboratici tecnici, cartografia e norme tecniche di attuazione. E` lo **strumento unitario** di governo e pianificazione territoriale provinciale.  
+Ha il compito di rapportarsi con la programmazione socio-economica.
+
+##### CONTENUTO
+I contenuti principali del PUP sono:
+* invarianti;
+* carta del paesaggio;
+* individuazione delle aree di tutela ambientale;
+* carta di sintesi della pericolosità;
+* sistema insediativo e reti infrastrutturali.
+
+Si compone sia di _norme prescrittive vincolanti_ che di _norme di direttiva_.
+
+##### PROCEDIMENTO DI FORMAZIONE
+La formazione avviene come segue:
+* documento preliminare predisposto dalla ___Giunta provinciale___ e trasmesso agli enti locali e al _Consiglio provinciale_;
+* osservazioni e proposte da parte degli enti locali entro 90 giorni;
+* indirizzi da parte del Consiglio provinciale entro 120 giorni;
+* adozione da parte della ___Giunta provinciale___;
+* deposito per 90 giorni per la consultazione e la trasmissione a:
+  * regioni limitrofe e provinca di Bolzano (con osservazioni entro 60 giorni);
+  * ministero competente (osservazioni entro 90 giorni);
+  * altro;
+* se la Giunta provinciale apporta modifiche, il piano va depositato nuovamente per 45 giorni. Durante il deposito è possibile presentare osservazioni esclusivamente con riferimento alle modifiche apportate. Se necessita una nuova modifica, il piano non è soggetto a pubblicazioni e deposito;
+* approvazione da parte della ___Giunta___ di un disegno di legge di approvazione del PUP e trasmissione al Consiglio provinciale;
+* il PUP viene approvato dal ___Consiglio provinciale___ con una legge provinciale;
+* le varianti vengono approvate con il  medesimo procedimento.
+
+#### PTC
+Il piano territoriale delle comunità è composto da relazione illustrativa, rapporto ambientale, cartografia e norme di attuazione.  
+Definisce sotto il profilo urbanistico e paesaggistico le strategie per lo sviluppo della comunità. Comunità che è atta a elaborare atti programmatori ed è formata da un Presidente, un Consiglio e un comitato esecutivo.
+
+##### CONTENUTO
+* approfondimento del PUP;
+* delimitazione delle aree di tutela;
+* carta del paesaggio;
+* aree sovracomunali.
+
+##### PROCEDIMENTO DI FORMAZIONE
+* proposta di piano da parte della ___comunità___ con _procedimento partecipativo_;
+* deposito per 90 giorni: consultazione, osservazione e trasmissione a:
+  * comuni della comunità (parere entro 60 giorni);
+  * provincia (parere della commissione urbanistica entro 90 giorni);
+  * enti parco (parere entro 60 giorni);
+  * comunità limitrofe (osservazioni entro 60 giorni);
+* adozione del piano da parte della comunità;
+* trasmissione alla ___Giunta provinciale___;
+* approvazione del piano da parte della ___Giunta provinciale___ entro 60 giorni con delibera;
+* **efficacia il giorno successivo alla pubblicazione della delibera di approvazione**
+* varianti approvate con lo stesso procedimento e termini dimezzati.
+
+#### PRG
+Il piano comunale della Provincia di Trento mantiene il nome definito dalla legge urbanistica n. 1150/1942. Contiene una relazione illustrativa, allegati tecnici, cartografia e norme di attuazione.  
+Disciplina le funzioni comunali sul territorio.
+
+##### CONTENUTO
+Determina le destinazioni delle divese aree e ne disciplina l'uso, oltre a:
+* perimetrare le aree di tutela;
+* individuare gli insediamenti storici e le modalità di conservazione;
+* descrivere la mobilità stradale;
+* individuare i servizi;
+* individuare le aree che necessitano di piani attuativi.
+
+##### PROCEDIMENTO DI FORMAZIONE
+* pubblicazione di un avviso da parte del ___comune___ per 30 giorni per la raccolta di proposte da parte dei cittadini;
+* elaborazione del progetto del piano;
+* adozione preliminare dal ___Consiglio comunale___;
+* deposito per 60 giorni e trasmissione alla _Provincia_;
+* osservazioni durante il deposito;
+* pubblicazione delle disposizioni oggetto di osservazioni (ultimi 20 giorni del deposito);
+* conferenza di pianificazione: indetta dalla struttura provinciale entro 90 giorni. Non ha scopo decisionale ma ha solo funzione __consultiva__. Si può concludere con un parere;
+* adozione definitiva da parte del ___Comune___ entro 120 giorni dal parere della conferenza e trasmissione alla ___Giunta provinciale___;
+* approvazione entro 60 giorni;
+* **efficacia dal giorno successivo alla pubblicazione e notifica**.
+
+#### PIANI ATTUATIVI
+I piani attuativi specificano e sviluppano le previsioni del PRG. Possono modificare i perimetri delle zone definititi dal piano comunale per rispettare i confini catastali.  
+I piani attuativi sono composti da:
+* rilievo planoaltimetrico quotato;
+* planimetria con suddivisione in lotti;
+* planovolumetria;
+* indicazioni di massima degli elementi edilizi;
+* eventuale schema di convenzione.
+
+##### TIPI DI PIANO ATTUATIVO
+Definiti dall'art. 50 della legge provinciale 15/2015, gli strumenti attuativi dei PRG sono:
+<ol type="a">
+  <li>piani di riqualificazione urbana;</li>
+  <li>piani attuativi per specifiche finalità:
+  <ul>
+    <li>edilizia abitativa</li>
+    <li>insediamenti produttivi</li>
+  </ul>
+  <li>piani di lottizzazione.
+</ol>
+
+Se per i primi due tipi di piani attuativi l'iniziativa può essere pubblica, privata o mista, per il piani di lottizzazione l'iniziativa è principalmente privata (eccezionalemte pubblica).
+
+##### PROCEDIMENTO DI FORMAZIONE
+I profili comuni per il procedimento di formazione dei piani attuativi è normato dall'Art. 51 della legge provinciale n. 15/2015:
+* iniziativa pubblica o privata (con accordo di almeno il 60%) con progetto preliminare;
+* adozione da parte del ___Consiglio comunale___ previo parere della _commissione edilizia_;
+* deposito per 30 giorni e notifica;
+* osservazioni durante il deposito;
+* eventuali modifiche;
+* approvazione da parte del ___Consiglio comunale___;
+* **efficacia a partire dal giorno successivo alla pubblicazione**;
+* **durata massima di 10 anni**.
+
+### PROVINCIA DI BOLZANO
+I piani urbanistici della Provincia di Bolzano sono regolamentati dalla legge provinciale 9/2018 che prevede una pluralità di finalità, definite nell'Art. 2:
+* elevata qualità di vita e lavoro;
+* pianificazione funzionale allo sviluppo economico e sostenibile;
+* garantire la competitività;
+* valorizzazione del paesaggio;
+* tutela delle tradizioni;
+* protezione e prevenzione di pericoli naturali;
+* pianificazione funzionale all'agricoltura e silvicoltura;
+* realizzazione di infrastrutture per servizi e abitazioni economicamente accessibili;
+* contenimento del consumo di suolo ed energia.
+
+#### LIVELLI DI PIANIFICAZIONE
+Il sistema della Provincia di Bolzano si basa su due livelli principali di pianificazione, composti a loro volta da svariati piani. In particolare:
+* pianificazione provinciale:
+  - piano strategico provinciale (PSP);
+  - linee guida per il paesaggio (LGP);
+  - piano paesaggistico (PP); 
+  - piani di settore (PdS);
+* pianificazione comunale:
+  - piano delle zone di pericolo (PZP);
+  - programma di sviluppo comunale per il territorio e il paesaggio (PSCTP);
+  - piano comunale per il territorio e il paesaggio (PCTP);
+  - piani di attuazione (PdA).
+
+#### PIANIFICAZIONE DI LIVELLO PROVINCIALE
+##### PSP
+Il PSP fa parte della pianificazione provinciale e coordina le competenze per lo sviluppo del territorio. Esso contiene una relazione illustrativa dello stato di fatto, la definizione dei principi fondamentali per il coordinato sviluppo socio-economico e culturale della popolazione nel territorio provinciale e la definizione degli obiettivi e degli strumenti per l'attuazione del piano.
+
+###### PROCEDIMENTO DI FORMAZIONE
+* progetto adottato dalla ___Giunta provinciale___;
+* pubblicazione per 30 giorni:
+  * osservazioni entro 90 giorni;
+  * parare dei comuni entro 120 giorni;
+  * osservazioni del Ministero delle infrastrutture e dei trasporti entro 120 giorni;
+* approvazione da parte della ___Giunta provinciale___ con un disegno di legge;
+* approvazione del piano con _legge provinciale_ da parte del ___Consiglio provinciale___;
+* **entro 10 anni il piano deve essere confermato o adeguato**.
+##### PdS
+I piani di settore si differenziano dal piano strategico provinciale principalmente per il fatto che hanno funzione generale. Possono comunque riguardare anche porzioni limitate di area.
+
+###### PROCEDIMENTO DI FORMAZIONE
+* proposta della ___Giunta provinciale___ e pubblicazione (della proposta) per almeno 30 giorni;
+* in questo lasso di tempo è possibile presentare osservazioni;
+* parere dei comuni entro 60 giorni;
+
+#### PIANIFICAZIONE DI LIVELLO COMUNALE
+##### PSCTP
+Il programma di sviluppo comunale per il territorio e il paesaggio ha carattere __programmatico__.  
+La legge prevede che sia applicato a più comuni e che abbia una durata preferibilmente lunga con efficacia minima di 10 anni.
+
+###### CONTENUTI MINIMI
+* obiettivi di sviluppo per il soddisfacimento del fabbisogno abitativo;
+* accessibilità e fruibilità dei servizi;
+* censimento di edifici e aree;
+* individuazione di aree insediabili compatibili con gli altri piani (e.g. piano delle zone di pericolo);
+* mobilità;
+* sviluppo del turismo.
+
+##### PCTP
+Il piano comunale per il territorio e il paesaggio è fondamentalmente il piano regolatore comunale. Esso è normato dall'Art. 52 della legge provinciale 9/2018 e si compone di una relazione illustrativa, di un piano di zonizzazione, di una descrizione delle convenzioni, di un piano delle infrastrutture tecniche, di mappe catastali delle aree soggette a vincoli, norme tecniche di attuazione, cronoprogramma e allegati tecnici.  
+Il PCTP definisce l'utilizzo del territorio comunale con __efficacia a tempo indeterminato__.
+
+###### CONTENUTI MINIMI
+* aree e reti per opere di urbanizzazione;
+* zonizzazione.
+
+###### PROCEDIMENTO DI FORMAZIONE
+* proposta da parte del ___Consiglio comunale___ il quale pubblica la proposta per 30 giorni;
+* osservazioni nel termine della pubblicazione;
+* trasmissione alla Provincia e parere entro 30 giorni;
+* adozione da parte del ___Consiglio comunale___ entro 30 giorni;
+* approvazione da parte della ___Giunta provinciale___ entro 30 giorni.
+
+##### PIANIFICAZIONE ATTUATIVA
+Come ben si sa, la pianificazione attuativa non è necessaria, a meno che non sia espressamente scritto nella legge di riferimento. Per quanto riguarda la legge provinciale 9/2018, la pianificazione attuativa è obbligatoria nei seguenti casi:
+* nuove zone miste;
+* aree per le quali vigono leggi speciali o gli strumenti pianificatori lo prevedano.
+
+###### OBIETTIVI
+Gli obiettivi della pianificazione attuativa sono la _perequazione_ e la _compensazione_ degli oneri di urbanizzazione.
+
+###### TIPOLOGIE DI PIANI
+* piano di attuazione (generale);
+* piano di recupero;
+* piano di riqualificazione.
+
+Come si può notare, non è presente il piano partiolareggiato.
+
+###### PROCEDIMENTO DI FORMAZIONE
+* proposta della ___Giunta comunale___ o iniziativa privata;
+* pubblicazione per 30 giorni osservazioni nello stesso termine;
+* approvazione da parte del ___Consiglio comunale___ (o da parte della ___Giunta comunale___ se la popolazione è __maggiore__ di 10000 abitanti) e motivazioni sulle osservazioni e sulle eventuali modifiche;
+* pubblicazione ed entrata in vigore il giorno sucessivo.
+
+### LOMBARDIA
+Il governo del territorio della regione Lombardia è regolato dalla legge regionale n. 12/2005 che definisce un _testo unico_ (urbanistica, edilizia, paesaggio, ambiente, etc.) e una pluralità di piani coordinati.
+
+#### STRUTTURA
+I piani urbanistici lombardi sono strutturati come segue.
+<figure>
+  <img src="images/piramide-piani-lombardia.jpg" alt="gerarchiaPianiLombardia" width="80%"/>
+  <figcaption>Gerarchia dei piani della Regione Lombardia</figcaption>
+</figure>
+
+##### PTR 
+Il piano territoriale regionale ha funzione di indirizzo e orientamento, nonché di coordinamento con il programma regionale di sviluppo.
+
+###### CONTENUTI
+I contenuti essenziali del piano territoriale regionale sono:
+* obiettivi di sviluppo;
+* quadro delle iniziative;
+* criteri operativi di salvaguardia ambientale;
+* quadro ricognitivo.
+
+Il piano può essere affiancato da _piani territoriali regionali d'area_ che descrivono una pianificazione più dettagliata di un'area circoscritta.
+
+##### PTCP 
+Il piano territoriale di coordinamento provinciale mantiene la finalità di direttiva e coordinamento e funge, anche, da piano paesaggistico e ambientale.
+
+###### CONTENUTI
+* quadro conoscitivo più (dettagliato di quello regionale);
+* obiettivi di sviluppo economico-sociale;
+* elementi qualitativi di pianificazione comunale.
+
+##### PIANO COMUNALE
+Il piano comunale è composto da:
+1. piano di governo del territorio (PGT) e piani associati:
+   1. documento di piano;
+   2. piano dei servizi;
+   3. piano delle regole;
+2. piani attuativi e programmazione negoziata con valenza territoriale.
+
+###### DOCUMENTO DI PIANO
+Il documento di piano comprende:
+* quadro ricognitivo e preogrammatorio;
+* quadro conoscitivo del territorio comunale;
+* obiettivi di sviluppo, miglioramento e conservazione;
+* patrimonio edilizio dismesso e da riutilizzare;
+* qualifica del consumo di suolo;
+* politiche di residenza;
+
+Il documento ha una durata di 5 anni, ma è modificabile.
+
+###### PIANO DEI SERVIZI
+Colloca e assicura una dotazione adeguata di attrezzature pubbliche e di interesse pubblico (e verde pubblico) in base al numero di utenti, calcolati da:
+* popolazione stabilmente residente;
+* popolazione da insediare;
+* popolazione gravitante.
+
+###### PIANO DELLE REGOLE
+* definisce gli ambiti del tessuto urbano consolidato;
+* individua gli immobili assoggettati a tutela;
+* individua le aree a rischio;
+* individua le aree agricole e di valore paesaggistico-ambientale;
+* definisce la carta del consumo di suolo;
+* disciplina interventi di nuova edificazione.
+
+###### PROCEDIMENTO DI FORMAZIONE
+Le differenze principali nei procedimenti di formazione dei piani comunali sono qui descritte:
+* il piano di governo del territorio è adottato dal ___Consiglio comunale___;
+* i piani attuativi sono adottati dalla ___Giunta comunale___ o di iniziativa privata.
+
+## CONSIDERAZIONI CONCLUSIVE
+* il quadro normativo è frastagliato (dopo la modifica della Costituzione del 2001) e da centralità di legislazione alle regioni (o province autonome);
+* la pianiicazione si compone di una _pluralità di strumenti edificatori_. Vale (abbastanza) il rapporto gerarchico, anche se i piani comunali possono derogare (eccedere) al piano provinciale (o regionale). In particolare prevalgono _piani più specifici e recenti_;
+* esiste una pluralità di interessi nella pianificazione che devono trovare un punto di incontro, a volte attraverso _piani di settore_ (moltitudine di piani);
+* In generale, i vincoli dei piani sono molto ampi. Esiste ancora una discrezionalità;
+* rimane fondamentale (e sempre presente) la partecipazione dei cittadini (principio di sussidiarietà);
+* l'urbanistica contrattata ha preso piede, in particolar modo nella fase attuativa, attraverso piani di lottizzazione la cui finalità è:
+  * fornire una disciplina razionale a zone non urbanizzate;
+  * allocare ai privati le spese per le opere di urbanizzazione:
+    * primaria: sempre a carico dei privati;
+    * secondaria: parte a carico del pubblico;
+* nota sulla pianificazione attuativa: 
+  * attuata dalla ___Giunta comunale___;
+  * non sempre necessaria.
