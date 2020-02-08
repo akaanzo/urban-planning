@@ -1,8 +1,8 @@
 --- 
 title: Appunti di Tecnica Urbanistica  
-Docenti: *Geneletti* - *Zanon* - *Cassatella* - *Parona*
-Autore: *Matteo Franzoi - 2019-03-20*  
-Università degli Studi di Trento  
+Docenti: *Geneletti* - *Zanon* - *Cassatella* - *Parona*  
+Autore: *Matteo Franzoi* - Università degli Studi di Trento  
+_Ultimo aggiornamento: 2020-02-08_   
 ---
 ---
 
@@ -12,25 +12,25 @@ Università degli Studi di Trento
   - [TERRITORIO, LUOGO](#territorio-luogo)
     - [LUOGO](#luogo)
     - [NON - LUOGO](#non---luogo)
-  - [INSEDIAMENTI, CITTÀ e RETI URBANE](#insediamenti-citt%C3%A0-e-reti-urbane)
-    - [CITTÀ](#citt%C3%A0)
-    - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale)
+  - [INSEDIAMENTI, CITTÀ e RETI URBANE](#insediamenti-citt%c3%80-e-reti-urbane)
+    - [CITTÀ](#citt%c3%80)
+    - [CITTÀ INDUSTRIALE](#citt%c3%80-industriale)
       - [VILLAGGI OPERAI](#villaggi-operai)
       - [URBANISTICA TECNICA](#urbanistica-tecnica)
-  - [LA CITTÀ DEL MOVIMENTO MODERNO (Le Corbusier)](#la-citt%C3%A0-del-movimento-moderno-le-corbusier)
-    - [DALLA CITTÀ INDUSTRIALE ALLA CITTÀ CONTEMPORANEA](#dalla-citt%C3%A0-industriale-alla-citt%C3%A0-contemporanea)
-    - [LA CRISI DELLA CITTÀ MODERNA](#la-crisi-della-citt%C3%A0-moderna)
-    - [CITTÀ CONTEMPORANEA](#citt%C3%A0-contemporanea)
+  - [LA CITTÀ DEL MOVIMENTO MODERNO (Le Corbusier)](#la-citt%c3%80-del-movimento-moderno-le-corbusier)
+    - [DALLA CITTÀ INDUSTRIALE ALLA CITTÀ CONTEMPORANEA](#dalla-citt%c3%80-industriale-alla-citt%c3%80-contemporanea)
+    - [LA CRISI DELLA CITTÀ MODERNA](#la-crisi-della-citt%c3%80-moderna)
+    - [CITTÀ CONTEMPORANEA](#citt%c3%80-contemporanea)
     - [NUOVE FORME DI TERRITORIO URBANIZZATO](#nuove-forme-di-territorio-urbanizzato)
-    - [CRISI DELLA CITTÀ CONTEMPORANEA](#crisi-della-citt%C3%A0-contemporanea)
-  - [TERRITORIO e CITTÀ IN EUROPA e ITALIA (dall'età industriale a oggi)](#territorio-e-citt%C3%A0-in-europa-e-italia-dallet%C3%A0-industriale-a-oggi)
-    - [RIVOLUZIONE INDUSTRIALE, CAPITALISMO, CITTÀ INDUSTRIALE](#rivoluzione-industriale-capitalismo-citt%C3%A0-industriale)
+    - [CRISI DELLA CITTÀ CONTEMPORANEA](#crisi-della-citt%c3%80-contemporanea)
+  - [TERRITORIO e CITTÀ IN EUROPA e ITALIA (dall'età industriale a oggi)](#territorio-e-citt%c3%80-in-europa-e-italia-dallet%c3%a0-industriale-a-oggi)
+    - [RIVOLUZIONE INDUSTRIALE, CAPITALISMO, CITTÀ INDUSTRIALE](#rivoluzione-industriale-capitalismo-citt%c3%80-industriale)
       - [INNOVAZIONE TECNICA](#innovazione-tecnica)
       - [NUOVO SISTEMA ECONOMICO](#nuovo-sistema-economico)
-      - [COLLOCAZIONE DELLE ATTIVITÀ SUL TERRITORIO](#collocazione-delle-attivit%C3%A0-sul-territorio)
+      - [COLLOCAZIONE DELLE ATTIVITÀ SUL TERRITORIO](#collocazione-delle-attivit%c3%80-sul-territorio)
       - [FERROVIE](#ferrovie)
       - [TRASFORMAZIONI URBANE IN EUROPA](#trasformazioni-urbane-in-europa)
-      - [L'ITALIA NEL SECOLO $XIX$](#litalia-nel-secolo-xix)
+      - [L'ITALIA NEL SECOLO $XIX$](#litalia-nel-secolo-mathsemanticsmrowmixmimiimimixmimrowannotation-encoding%22applicationx-tex%22xixannotationsemanticsmathxix)
         - [INFRASTRUTTURE STRADALI](#infrastrutture-stradali)
         - [COME SCEGLIERE LE LINEE FERROVIARIE?](#come-scegliere-le-linee-ferroviarie)
         - [BONIFICHE](#bonifiche)
@@ -46,10 +46,10 @@ Università degli Studi di Trento
       - [NUOVE INFRASTRUTTURE](#nuove-infrastrutture)
       - [BOOM EDILIZIO](#boom-edilizio)
       - [EVOLUZIONE DELLA NORMATIVA URBANISTICA NEL DOPOGUERRA](#evoluzione-della-normativa-urbanistica-nel-dopoguerra)
-      - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO](#vincoli-dei-piani-e-indennit%C3%A0-di-esproprio)
+      - [VINCOLI DEI PIANI e INDENNITÀ DI ESPROPRIO](#vincoli-dei-piani-e-indennit%c3%80-di-esproprio)
       - [L'AMBIENTE NEL DOPOGUERRA](#lambiente-nel-dopoguerra)
   - [EVOLUZIONE DEL PIANO URBANISTICO](#evoluzione-del-piano-urbanistico)
-    - [CITTÀ INDUSTRIALE](#citt%C3%A0-industriale-1)
+    - [CITTÀ INDUSTRIALE](#citt%c3%80-industriale-1)
       - [NEW YORK](#new-york)
     - [PIANO OTTOCENTESCO](#piano-ottocentesco)
     - [I PIANI DEL '900 IN ITALIA](#i-piani-del-900-in-italia)
@@ -60,7 +60,7 @@ Università degli Studi di Trento
     - [ITALIA](#italia)
       - [TRENTO](#trento)
   - [IL PIANO REGOLATORE GENERALE](#il-piano-regolatore-generale)
-    - [FINALITÀ DEL PIANO](#finalit%C3%A0-del-piano)
+    - [FINALITÀ DEL PIANO](#finalit%c3%80-del-piano)
     - [COSTRUZIONE DEL PIANO URBANISTICO](#costruzione-del-piano-urbanistico)
       - [RUOLO E FORMA DEL PIANO](#ruolo-e-forma-del-piano)
       - [DIMENSIONAMENTO](#dimensionamento)
@@ -202,7 +202,7 @@ Università degli Studi di Trento
       - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione)
       - [PROBLEMATICHE](#problematiche)
     - [PIANI ATTUATIVI SPECIALI e SPERIMENTAZIONI](#piani-attuativi-speciali-e-sperimentazioni)
-  - [IN SINTESI ](#in-sintesi)
+  - [IN SINTESI <!-- omit in toc-->](#in-sintesi)
   - [ESEMPI DI PIANIFICAZIONE URBANISTICA](#esempi-di-pianificazione-urbanistica)
     - [VENETO](#veneto)
       - [PTCR](#ptcr)
@@ -222,9 +222,9 @@ Università degli Studi di Trento
         - [CONTENUTO](#contenuto-4)
         - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-5)
     - [PROVINCIA DI TRENTO](#provincia-di-trento-1)
-      - [FINALITÀ](#finalit%C3%A0)
+      - [FINALITÀ](#finalit%c3%80)
       - [ATTRIBUZIONI DELLA PROVINCIA](#attribuzioni-della-provincia)
-      - [ATTRIBUZIONI DELLE COMUNITÀ](#attribuzioni-delle-comunit%C3%A0)
+      - [ATTRIBUZIONI DELLE COMUNITÀ](#attribuzioni-delle-comunit%c3%80)
       - [ATTRIBUZIONI DEI COMUNI](#attribuzioni-dei-comuni)
       - [SISTEMA DI PIANIFICAZIONE TERRITORIALE](#sistema-di-pianificazione-territoriale)
       - [PUP](#pup)
@@ -268,11 +268,14 @@ Università degli Studi di Trento
           - [PIANO DELLE REGOLE](#piano-delle-regole)
           - [PROCEDIMENTO DI FORMAZIONE](#procedimento-di-formazione-14)
   - [CONSIDERAZIONI CONCLUSIVE](#considerazioni-conclusive)
+
+---
+
 # APPUNTI DI TECNICA URBANISTICA  <!-- omit in toc -->
 ## INTRODUZIONE AL CORSO
 Il corso pone le basi per l'**introduzione all'urbanistica** e si articola in 4 moduli:  
 1) introduzione alla tecnica urbanistica (*Zanon*);  
-2) strumenti e processi di pianificazione urbana e terrioriale (*Geneletti*);  
+2) strumenti e processi di pianificazione urbana e territoriale (*Geneletti*);  
 3) elementi e progettazione urbana;  
 4) tecnica e principi di legislazione urbanistica (*Cassatella*).
 
@@ -305,7 +308,7 @@ Anche l'Unione Europea con il progetto **Natura 2000** ha iniziato a salvaguarda
 * **norme**: leggi che regolano comportamenti (scala edilizia).
 * **programmi**: riguardano aspetti economici di organizzazione temporale.
 * **procedure** definizione di scelte e decisioni come *autorizzazioni*, *valutazioni di impatto ambientale*, etc.  
-A volte prevedono la conformità di certe norme, altre vole sono valutative (impatto ambientale, sicurezza, etc.).
+A volte prevedono la conformità di certe norme, altre volte sono valutative (impatto ambientale, sicurezza, etc.).
 * **politiche**: intervento di amministrazioni pubbliche.
 
 ## SOGGETTI DELLE DISCIPLINE TERRITORIALI
@@ -324,7 +327,7 @@ Il territorio funziona perché consente relazioni con il sito e/o altri parti de
 
 Il territorio è costruito mediante fasi, dette *atti territorializzanti*:  
 1. **denominazione**: un luogo ha un significato per chi lo frequenta. Serve per identificare una superficie o un luogo.  
-2. **perimtrizzazione**: confini che consentono la definizione dei luoghi.  
+2. **perimetrazione**: confini che consentono la definizione dei luoghi.  
 3. **trasformazione materiale**  
 4. **comunicazione**: uscire dai limiti fisici con la creazione di reti, nodi, maglie che consentono la relazione tra parti diverse del territorio.  
 5. **strutturazione**
@@ -380,7 +383,7 @@ In genere, le città sono una diversa dall'altra. Il concetto di città non è l
 La città deve offrire protezione e servizi al territorio circostante. Deve essere collocata in un luogo appropriato: lungo un percorso, in un incrocio di reti, etc.
 
 ### CITTÀ INDUSTRIALE
-Tra il '700 e '800, in Inghilterra e Europa centrale, si formano nuove attivita produttive: le **fabbriche**.  
+Tra il '700 e '800, in Inghilterra e Europa centrale, si formano nuove attività produttive: le **fabbriche**.  
 Tra le nuove tecnologie portate dalla rivoluzione industriale c'è la *macchina a vapore* (fine '700).  
 
 L'invenzione di nuovi attrezzi agricoli che sostituiscono l'uomo porta una "migrazione" delle persone dalle campagne alla città, che trovano lavoro nelle industrie presenti nei centri urbani.  
@@ -504,7 +507,7 @@ Gestisce regolamentando le trasformazioni territoriali con la finalità di **med
 Con l'avvento del vapore le **attività si concentrano** e non rimangono solo vicino a fiumi e corsi d'acqua (necessari per dare "energia").
 
 Il trasporto di merci avveniva su:
-* canali: natualmente presenti;
+* canali: naturalmente presenti;
 * strade;
 * ferrovie.
 
@@ -535,9 +538,9 @@ Dopo l'unificazione politica del 1861, si scelse un modello napoleonico di ammin
 Nasce la prima legge sulle **espropriazioni per causa di utilità pubblica**: *legge n. 2359 del 25 giugno 1865*.  
 Nonostante questo, non esistevano leggi che descrivevano come ampliare l'abitato. Per farlo era necessario adottare i piani regolatori (prima statali e poi passati in mano alle regioni).  
 
-Durante il secolo $XIX$ prevavelano le attività agricole, principalmente poste lungo i corsi d'acqua. 
+Durante il secolo $XIX$ prevalevano le attività agricole, principalmente poste lungo i corsi d'acqua. 
 
-La scoperta dell'**idroelettrico** all'inizio del '900 porta a un veloce sviluppo delle zone più avantaggiate (dove passavano corsi d'acqua). In seguito la nazionalizzazione del sistema idroelettrico consente un ampliamento della rete anche a zone rurali.
+La scoperta dell'**idroelettrico** all'inizio del '900 porta a un veloce sviluppo delle zone più avvantaggiate (dove passavano corsi d'acqua). In seguito la nazionalizzazione del sistema idroelettrico consente un ampliamento della rete anche a zone rurali.
 
 Fotografando l'Italia del secolo $XIX$, si può vedere che:
 * l'Italia settentrionale era caratterizzata da piccole città concentrate;
@@ -556,7 +559,7 @@ Lo Stato decide e gestisce le tratte autostradali (oltre alle ferrovie) assegnan
 Scegliendo linee più dirette (stile alta velocità) si corre il rischio di tagliare fuori alcune città, prediligendo città più importanti.  
 Si creano così delle linee secondarie per collegare le città tagliate fuori alle linee principali, formando una **rete ferroviaria**.
 
-Nel 1905, a causa della crisi delle aziende gestori delle ferrovie, lo Stato decide di nazionalizzara la rete ferroviaria.
+Nel 1905, a causa della crisi delle aziende gestori delle ferrovie, lo Stato decide di nazionalizzare la rete ferroviaria.
 
 Dopo il 1936, con l'avvento dell'idroelettrico e la carenza di carbone, si avvia un processo di elettrificazione delle linee principali, eliminando qualche linea secondaria.
 
@@ -564,7 +567,7 @@ Nel 2009 le principali reti ferroviarie erano collegate con le linee europee.
 
 ##### BONIFICHE
 I cambiamenti territoriali possono avvenire anche attraverso **bonifiche** e arginazioni (come ad esempio per il Po). Gli interventi possono essere finanziati sia dal pubblico (in particolare per i corsi d'acqua) che da privati.  
-Le dimensioni degli interventi dell'epoca erano molto grandi. Un esempio possono essere il _delta del Po_, la _pianura veronese e ferrerase_.  
+Le dimensioni degli interventi dell'epoca erano molto grandi. Un esempio possono essere il _delta del Po_, la _pianura veronese e ferrarese_.  
 I privati che finanziavano le bonifiche erano principalmente grandi imprese capitalistiche che avevano il fine di lavorare il terreno. Importanti lavori sono stati fatti anche costruendo collegamenti e servizi, che formarono poi un **capoluogo**. Un esempio di questo processo è _Latina_.  
 Nel primo dopoguerra il compito di bonificare le aree di Latina era stato dato ai reduci della prima guerra mondiale (invece che alle grandi imprese).
 
@@ -596,7 +599,7 @@ Le condizioni abitative erano molto problematiche: le persone erano attirate ver
 Nasce il dibattito fra il _ricostruire le parti storiche come e dove erano_ e l'_utilizzo di nuove tecnologie_ in modo da costruire "come oggi".
 
 A cavallo degli anni '50 la situazione economica era grave e la maggior parte della popolazione si occupava di agricoltura.  
-Ha il via una fase di __emigrazione__ temporanea verso i Paesi europei, e permanente verso il nord - america.
+Ha il via una fase di __emigrazione__ temporanea verso i Paesi europei, e permanente verso il nord - America.
 
 #### RICOSTRUZIONE
 La ricostruzione fu favorita dal __"piano Marshall"__ (USA) che integrava economicamente anche gli altri Paesi colpiti. Il sostegno per consentire di far ripartire l'economia era comune tra tutti gli Stati.
@@ -615,7 +618,7 @@ In altri casi è intervenuto l'ente pubblico con l'edilizia popolare costruita d
 
 Nasce un processo di urbanizzazione (servizi di trasporto pubblico, altre costruzioni edilizie, etc.) nelle zone attorno alla città.
 
-Nel 1963, in seguito al processo di ricostruzione, l'economia italiana ha un __booom__.
+Nel 1963, in seguito al processo di ricostruzione, l'economia italiana ha un __boom__.
 
 #### IL BOOM ECONOMICO DEL 1963
 Durante il boom economico del 1963 molte imprese si rafforzano con la progettazione di auto e moto e nascono le prime industrie di elettrodomestici.  
@@ -667,7 +670,7 @@ Diventa importante collegare tra loro le componenti della città e definire mode
 #### NEW YORK
 A New York, i commissari definiscono una _griglia regolare_ e semplice che risulta un elemento solido pesantemente impiegato.  
 Di notevole importanza per una città così ampia sono gli spazi verdi: viene creato _Central Park_, parco molto vasto posizionato in mezzo alla città.  
-Alle strade principali viene dato il nome di "i - esima" __Aveneu__. Alle strade secondarie "j - esima" __Street__. Entrambe non risultavano eccessivamente larghe (come i viali francesi).  
+Alle strade principali viene dato il nome di "i - esima" __Avenue__. Alle strade secondarie "j - esima" __Street__. Entrambe non risultavano eccessivamente larghe (come i viali francesi).  
 Il modello di edificio impiegato si estende in altezza, in modo da occupare meno area possibile del territorio.
 
 ### PIANO OTTOCENTESCO
@@ -693,7 +696,7 @@ Il territorio viene diviso in zone a cui vengono definite le destinazioni d'uso 
 ### AMSTERDAM - PIANO RAZIONALISTA (1934)
 Si attiva un percorso di analisi preliminari e di previsione negli anni futuri in funzione del numero di abitanti futuro (scuole necessarie, servizi, etc.).
 
-Vengono costituiti dei quartieri residenzili serviti da scuole e servizi pubbici vari.  
+Vengono costituiti dei quartieri residenziali serviti da scuole e servizi pubblici vari.  
 Il territorio viene suddiviso in zone che definiscono il piano attuativo.
 
 ### ITALIA
@@ -708,7 +711,7 @@ __N.B. Il piano non è un progetto! Dà più libertà di interpretazione e delle
 Sulla base della legge urbanistica del 1942, sono stati avviati i __piani__ (anche se in ritardo, intorno agli anni '70). Questi prevedevano lo __zoning__ distinguendo le attività che potevano essere svolte e le funzioni ammesse in determinate zone.
 
 #### TRENTO
-A Trento, il PRG del 1989 contiene lo zoning che è composto da microzone. Questo lo rende facilmenta attuabile.
+A Trento, il PRG del 1989 contiene lo zoning che è composto da microzone. Questo lo rende facilmente attuabile.
 
 In zone già urbanizzate, o in lottizzazioni, si può intervenire applicando un _piano attuativo_.
 
@@ -766,13 +769,13 @@ Il PRG deve soddisfare piani e tematiche di settore quali:
 Lo zoning consiste nell'individuazione cartografica delle diverse zone. Bisogna comunque tener conto delle fasce di rispetto da autostrade, ferrovie, depuratori, etc. Questo rende lo zoning un processo complicato.
 
 ### STANDARD URBANISTICI
-Gli standard urbanistci sono stati definiti da un decreto ministeriale del 1968 e dalla legge "__Ponte__" del 1967 e fissano operativamente parametri quali:
+Gli standard urbanistici sono stati definiti da un decreto ministeriale del 1968 e dalla legge "__Ponte__" del 1967 e fissano operativamente parametri quali:
 * limite inderogabile di densità edilizia;
 * altezza massima;
 * distanza tra i fabbricati;
 * etc.
 
-Il piano regolatore deve già soddisfare i limiti e gli standarde definiti, prevedendo spazi pubblici e parcheggi.
+Il piano regolatore deve già soddisfare i limiti e gli standard definiti, prevedendo spazi pubblici e parcheggi.
 
 Il decreto interviene _fissando limiti ai parametri edificatori e prescrivendo aree e attrezzature pubbliche_.
 
@@ -781,7 +784,7 @@ Gli __standard urbanistici__ sono quantità minime prescritte per le quantità d
 #### ZONE TERRITORIALI OMOGENEE
 La norma sugli standard individua le zone territoriali omogenee:
 * __A__: centri storici;
-* __B__: parti ediciate consolidate;
+* __B__: parti edificate consolidate;
 * __C__: aree di nuovo sviluppo residenziale;
 * __D__: aree per insediamenti industriali;
 * __E__: aree agricole;
@@ -797,7 +800,7 @@ Questa superficie viene ripartita come segue:
 * $9.00\,m^2$ __spazi pubblici attrezzati a parco__ e per il gioco e per lo sport;
 * $2.50\,m^2$ __parcheggi__.
 
-Il __dimensionamento__ avviene tramite  indici di densità, territoriale o fondiaria ($\simeq 2\,m^3/m^2$), e parametri che misurano le esigenze di spazio pro capite (circa $25\,m^2$ di superfricie abitabile).
+Il __dimensionamento__ avviene tramite  indici di densità, territoriale o fondiaria ($\simeq 2\,m^3/m^2$), e parametri che misurano le esigenze di spazio pro capite (circa $25\,m^2$ di superficie abitabile).
 
 Indici di densità territoriale alti portano a superfici effettivamente edificabili minori e quindi indici di densità fondiaria bassi.
 
@@ -819,7 +822,7 @@ Si devono comunque rispettare le regole imposte dagli indici edificatori tipo:
 È possibile derogare in caso di pareti non finestrate, di vani scala, etc.;
 * altezza degli edifici: il piano descrive anche la modalità di misura (gronda, metà falda, colmo, etc.);
 * densità fondiaria: espressa in $m^3 / m^2$ o in $m^2_{calpestabili} / m^2$. Nel secondo caso vani come ingresso, vano scala, muratura, etc. non vengono contati (adottato dal PRG di Trento). Per indici di densità fondiaria più grandi di $3\,m^3/m^2$ è necessario un piano attuativo. Per limitare l'edificabilità (ad esempio in zone agricole) si abbassa l'indice edificatorio. Per le residenze in territorio aperto il rapporto è di $0.01\,m^3/m^2$;
-* densità terrioriale: rapporto tra volume edificabile e superficie dove alcune aree sono destinate secondo gli standard;
+* densità territoriale: rapporto tra volume edificabile e superficie dove alcune aree sono destinate secondo gli standard;
 * distanza dai confini ($5\,m$);
 * distanza dalle strade: definita dal decreto sugli standard vale all'esterno dei centri abitati;
 * superfici a parcheggio: sono presenti 2 indicazioni:
@@ -831,13 +834,13 @@ Si devono comunque rispettare le regole imposte dagli indici edificatori tipo:
 ### DEFINIZIONE DEGLI INTERVENTI EDILIZI
 Gli interventi edilizi sono normati non solo da zonizzazione, destinazioni d'uso e da indici ma anche da indicazioni riferite all'intervento specifico ai singoli edifici.
 
-Alcune parti, come nel centro urbano, non sono regolamentate da indici ma dall'_individuazione di singole unità edilizie_ e dalla refolazione degli interventi da effettuare. Ad esempio, per edifici storici, non sono importanti i limiti di volume e le distanze, ma viene regolamentata con riferimento alle operazioni di restauro e conservazione dello stesso.  
+Alcune parti, come nel centro urbano, non sono regolamentate da indici ma dall'_individuazione di singole unità edilizie_ e dalla regolazione degli interventi da effettuare. Ad esempio, per edifici storici, non sono importanti i limiti di volume e le distanze, ma viene regolamentata con riferimento alle operazioni di restauro e conservazione dello stesso.  
 Ogni singola unità edilizia avrà le sue regole da rispettare.
 
 Secondo la _legge n. 457 art. 31 del 5 agosto 1978_ gli interventi possibili sono:
 * manutenzione ordinaria: riparazione, rinnovamento, mantenimento dell'efficienza dell'edificio (impianti, etc.);
 * manutenzione straordinaria: modificare o sostituire parti strutturali, realizzare servizi igienico - sanitari o tecnologici (senza che aumentino il volume dell'edificio e la superficie delle unità o modifichino le destinazioni d'uso);
-* restauro e risanamento conservatorio: conservare l'organismo edilizio e assicurarne le funzionalità. Esempi sono il consolidamento, ripristino e rinnovo degli elementi dell'edificio. Reastauro e risanamento sono due interventi diversi: il restauro è molto rigoroso mentre il risanamento è più libero ma non consente di modificare drasticamente l'aspetto dell'edificio;
+* restauro e risanamento conservatorio: conservare l'organismo edilizio e assicurarne le funzionalità. Esempi sono il consolidamento, ripristino e rinnovo degli elementi dell'edificio. Restauro e risanamento sono due interventi diversi: il restauro è molto rigoroso mentre il risanamento è più libero ma non consente di modificare drasticamente l'aspetto dell'edificio;
 * ristrutturazione edilizia: trasformare gli organismi edilizi mediante un insieme di opere in modo da ottenere un organismo in parte o del tutto diverso dal precedente. Include anche la demolizione e successiva __fedele__ ricostruzione di un fabbricato identico;
 * nuova costruzione: trasformazione edilizia o urbanistica del territorio;
 * ristrutturazione urbanistica: sostituire il tessuto urbanistico - edilizio.
@@ -907,13 +910,13 @@ Il sistema consente di archiviare i dati ed estrarli. I dati sono corredati da _
 
 ### CARTOGRAFIA
 La cartografia è necessaria per operare sul lato urbano.  
-La scala cartografica è fondamentale per defiire il livello di dettaglio delle informazioni raccolte.
+La scala cartografica è fondamentale per definire il livello di dettaglio delle informazioni raccolte.
 La cartografia è molto dispendiosa sia economicamente che in termini di tempo. A volte, infatti, possono non essere aggiornate.
 
 #### PRODUZIONE CARTOGRAFICA
 I produttori cartografici italiani sono:
 * __Istituto Geografico Militare__: scala di rappresentazione di 1:100'000, 1:50'000;
-* __regioni__ e __province autonome__: sclale di 1:10'000, 1:5000;
+* __regioni__ e __province autonome__: scale di 1:10'000, 1:5000;
 * __catasto__: documenta le proprietà immobiliari a fini fiscali. La cartografia che produce è di scala 1:1000, etc. e non rappresentano il territorio ma hanno una visuale piatta.
 
 È quasi impossibile sovrapporre carte catastali e topografiche.
@@ -939,7 +942,7 @@ I dati necessari sono forniti da:
   * agricoltura.
   
   Dal 1 ottobre 2018 è in atto il censimento permanente che avviene in modo dinamico e continuativo. In precedenza il censimento avveniva ogni 10 anni.  
-  Il censimento fornische dati relativi a:
+  Il censimento fornisce dati relativi a:
   * popolazione per sesso, età, istruzione;
   * famiglie e relativi componenti;
   * attività svolte (agricoltura, industria, terziario);
@@ -964,7 +967,7 @@ Gli aspetti da indagare sono:
 * ambiente, risorse, paesaggio, salvaguardia dell'ambiente e delle risorse, senso di appartenenza;
 * popolazione e sue attività;
 * attività economiche di un determinato territorio;
-* dinamiche insediative: variazione di popolazione e di attività econoniche;
+* dinamiche insediative: variazione di popolazione e di attività economiche;
 * uso del suolo: cosa c'è e dove (qui ci sono boschi, qui prati, etc.);
 * struttura urbana: reticolo, suburbanizzazione, corte, etc.;
 * patrimonio edilizio e produzione edilizia;
@@ -982,7 +985,7 @@ I piani ambientali si riferiscono a:
 * sicurezza idrogeologica.
 
 ### MOBILITA'
-Un esempio sulla mobilità è il piano urbano di moblità, che non va inteso solo come una questione sul traffico ma rigurda le relazioni con il territorio (collegamento tra poli).
+Un esempio sulla mobilità è il piano urbano di mobilità, che non va inteso solo come una questione sul traffico ma riguarda le relazioni con il territorio (collegamento tra poli).
 
 ## I DATI
 I dati si distinguono in:
@@ -1009,7 +1012,7 @@ Le analisi demografiche mettono in luce:
 * dimensione della popolazione residente totale e la sua variazione;
 * dinamiche familiari;
 * struttura della popolazione;
-* componente della varizione;
+* componente della variazione;
 * mobilità territoriale.
 ### STUDIO DEI CARATTERI DI UNA POPOLAZIONE
 Consiste nello studio della variazione di popolazione nel tempo in ambito territoriale.
@@ -1054,7 +1057,7 @@ Sitte classificò le tipologie di edifici in:
 ### TIPOLOGIA e MORFOLOGIA URBANA
 Il tipo edilizio è legato alla morfologia urbana e alle sue relazioni. Si parla di __tessuto costruttivo__.
 
-Bisogna tener conto delle trasforamazioni eseguite all'insediamento con certe modalità.
+Bisogna tener conto delle trasformazioni eseguite all'insediamento con certe modalità.
 
 Dopo gli anni '60 - '70 tutte le città hanno iniziato a mappare le tipologie urbane e il loro rapporto con il sistema viario.  
 Questi studi sono serviti per regolarizzare l'edificazione urbanistica.
@@ -1137,7 +1140,7 @@ La localizzazione dei servizi pubblici nello spazio urbano è importante per far
 ### SERVIZI
 I servizi possono riguardare:
 * attività pubbliche: municipio, scuola, ospedale, etc.;
-* attivià di interesse pubblico gestite da soggetti privati;
+* attività di interesse pubblico gestite da soggetti privati;
 * attività private: mercato, etc.
 
 I servizi devono rispondere alle esigenze localizzative delle attività di competenza pubblica o di interesse collettivo.  
@@ -1147,9 +1150,9 @@ La pianificazione urbanistica ha il compito di governare la localizzazione delle
 Molte attività che una volta erano gestite dal pubblico, sono state _esternalizzate_. Ora, i servizi possono essere prodotti indifferentemente sia da parte del pubblico che da parte di privati.
 
 ### QUADRO UE
-La **UE** interviene in ambito servizi, con particolare occhio ai mercati. Spinge per la liberizzazione delle modalità di fornitura.
+La **UE** interviene in ambito servizi, con particolare occhio ai mercati. Spinge per la liberalizzazione delle modalità di fornitura.
 
-La __carta dei servizi pubblici__ puntualizza i diritti fondamenteali e i principi; in particolare:
+La __carta dei servizi pubblici__ puntualizza i diritti fondamentali e i principi; in particolare:
 * continuità del servizio;
 * sicurezza;
 * parità di accesso;
@@ -1157,7 +1160,7 @@ La __carta dei servizi pubblici__ puntualizza i diritti fondamenteali e i princi
 
 I servizi non vengono erogati per fare mercato ma per __benessere sociale__. Il pubblico infatti, anche nella gestione da parte di privati, contribuisce  economicamente.  
 In gran parte i servizi vengono pagati con la fiscalità (imposte) ma anche con una tariffa (servizi di trasporto pubblico) o con una tassa.  
-Le finalià dei servizi pubblici sono:
+Le finalità dei servizi pubblici sono:
 * promozione personale e sociale: scuola;
 * integrazione;
 * sicurezza;
@@ -1288,7 +1291,7 @@ Ampliando l'offerta di terreni i prezzi non calano (utile per l'esproprio che av
 #### RUOLO DELL'ENTE PUBBLICO
 L'ente pubblico opera:
 * sostenendo le famiglie: agevolazioni, sgravi fiscali, mutui, etc.;
-* intevenendo con modifiche agli strumenti di piano;
+* intervenendo con modifiche agli strumenti di piano;
 * tollerando o sanando l'abusivismo.
 
 #### ABITAZIONI PRIMARIE e SECONDARIE
@@ -1332,7 +1335,7 @@ Esiste una gerarchia amministrativa definita dalla _legge 142/1990 e TU enti loc
   <figcaption>Gerarchia dei piani - <i>Fonte prof. D. Geneletti</i></figcaption>
 </figure>
 
-In alcune regioni esistno piani intermedi (sovracomunali) come:
+In alcune regioni esistono piani intermedi (sovracomunali) come:
 * piano territoriale della città metropolitana;
 * piano territoriale intercomunale;
 * etc.
@@ -1420,7 +1423,7 @@ I temi principali trattati nel PTCP sono:
 * sviluppo socio - economico;
 * assetto insediativo.
 
-Il PTCP ha alcune competenze specifiche per interessi sovracomunali (centri commeriali, campi sportivi, etc.). 
+Il PTCP ha alcune competenze specifiche per interessi sovracomunali (centri commerciali, campi sportivi, etc.). 
 
 Essenzialmente si struttura come il piano regionale, in particolare si compone di:
 * relazione;
@@ -1434,7 +1437,7 @@ Entrambi fanno parte del piano di area vasta (piani sovracomunali).
 Introdotto dalla _L. 183/1989_ che istituisce le autorità di bacino e tutela le acqua e il rischio idrogeologico.  
 E` un piano territoriale di settore relativo alla difesa del suolo e delle acque superficiali e sotterranee.  
 
-Le prescrizioni del piano di bacino sono __vincolanti__ e per i piani che stanno sotto (comunali) e per le amministrazioni pubbliche e i cittidini.
+Le prescrizioni del piano di bacino sono __vincolanti__ e per i piani che stanno sotto (comunali) e per le amministrazioni pubbliche e i cittadini.
 
 Il territorio dei piani di bacino scinde i confini geografici e considera confini idrologici e/o morfologici.  
 
@@ -1512,7 +1515,7 @@ La conoscenza contiene temi come:
 Il quadro conoscitivo può contenere una sintesi di _opportunità_ e _criticità_ del territorio comunale sotto forma di tabella o cartografia.
 
 #### PROPOSTE
-Srutturate in _obiettivi_ (astratte) e _azioni_ (concrete) molto specifiche.
+Strutturate in _obiettivi_ (astratte) e _azioni_ (concrete) molto specifiche.
 
 #### ATTUAZIONE
 E` sempre presente una tavola di zonizzazione che divide __tutto__ il territorio comunale in aree omogenee per tipologia e destinazione d'uso. Ad ogni zona è associata una normativa specifica che definisce funzioni, indici di edificabilità, tipologie di insediamento, interventi ammessi (demolizioni, ricostruzioni, etc.).  
@@ -1615,7 +1618,7 @@ _Non c'è attività umana sul territorio che non sia regolata da una legge_
 
 Esempi come TAV, ferrovia del Brennero, pedemontana, etc. - dal punto di vista giuridico - sono grandi opere pubbliche già progettate e prese in carico da un'impresa. Da un punto di vista legislativo esistono delle leggi e degli atti amministrativi che __impongono__ la realizzazione di queste grandi opere. Da un punto di vista strettamente politico, queste opere vogliono essere bloccate, violando così delle leggi e dei contratti di appalto. Infine, il giurista può discutere attraverso mezzi giuridici e legislativi per interrompere queste opere.
 
-Il diritto tratta svariate attività da un punto di vista particolare, usando loiche autonome e dinamiche proprie che si basano su norme giuridiche.
+Il diritto tratta svariate attività da un punto di vista particolare, usando logiche autonome e dinamiche proprie che si basano su norme giuridiche.
 
 Vi è una differenza sostanziale tra norme scientifiche e norme giuridiche:
 ## NORMA SCIENTIFICA<!-- omit in toc -->
@@ -1625,7 +1628,7 @@ Questi fenomeni sono legati da __causalità naturale__. Una nuova scoperta scien
 $$ \sigma = E\,\varepsilon + k$$
 è detta _falsificazione_ e fa si che la proposizione precedente non sia più vera e quindi non descriva più la realtà; trasgredisce, cioè, la regola.
 
-Le regole che condionano il diritto hanno una struttura completamente diversa:
+Le regole che condizionano il diritto hanno una struttura completamente diversa:
 ## NORME GIURIDICHE<!-- omit in toc -->
 Sono regole ___prescrittive___ (indicano alle persone quali comportamenti tenere nei confronti di altre persone o cose). Non descrivono la realtà: non danno indicazioni descrittive su un fatto (e.g. furto) ma dicono cosa succede se si accerta il fatto (reato di furto). Orientano, perciò, la condotta umana.  
 Talvolta possono incorporare regole scientifiche: prescrizioni di elementi/materiali derivanti da studi scientifici per la prevenzioni incendi.  
@@ -1677,7 +1680,7 @@ Il piano è un documento redatto da tecnici (aiutati da giuristi nella stesura d
 
 ___`Il piano è un atto amministrativo generale!`___ Un atto amministrativo generale non si riferisce a un destinatario specifico o a un specifico momento ma è riferita tutti in generale (e.g. ZTL).  
 Le caratteristiche del piano in quanto _atto amministrativo generale_ sono:
-* ___caratteristiche dei destinatari___: un piano urbanistico ha come destinatari non solo i residenti del comune, ma anche i proprietari di immobili che giaciono nel comune. Proprietari e residenti sono solo un sottoinsieme dei destinatari, cui fanno parte anche i pendolari che hanno un forte collegamento con il comune (lavoro, studio, altri servizi). Il numero di destinatari è _indeterminato_ e _indeterminabile_ e proprio per questo il piano è dett __generale__.
+* ___caratteristiche dei destinatari___: un piano urbanistico ha come destinatari non solo i residenti del comune, ma anche i proprietari di immobili che giacciono nel comune. Proprietari e residenti sono solo un sottoinsieme dei destinatari, cui fanno parte anche i pendolari che hanno un forte collegamento con il comune (lavoro, studio, altri servizi). Il numero di destinatari è _indeterminato_ e _indeterminabile_ e proprio per questo il piano è detto __generale__.
 * ___caratteristica di efficacia temporale___ (scadenza): in genere i provvedimenti amministrativi hanno una loro efficacia e quindi un termine; i piani _non hanno termini di efficacia_, non scadono mai. Possono, però, essere modificati attraverso _varianti di piano_ oppure sostituiti integralmente da un nuovo piano. L'esigenza di tutela del territorio fa si che il piano abbia sempre valore a meno che non venga sostituito.
 * ___caratteristica dell'efficacia conformativa___: il piano ha la capacità di conformare il godimento della proprietà privata. Soltanto i piani urbanistici inseriti in atti amministrativi generali hanno questa caratteristica di efficacia conformativa. Il piano contiene una rappresentazione della realtà futura cogente. Il piano non è una soluzione tecnica ma obbliga i soggetti proprietari, onerandoli a costruire nel rispetto delle norme del piano. Il piano limita lo _ius edificandi_ (diritto di costruire) e quindi le attività costruttive (in certe zone). A volte, il piano ingloba lo standard progettuale, vietando l'applicazione di altri standard. Il piano ha efficacia tale da obbligare di applicarlo (pena sanzione).
 
@@ -1706,7 +1709,7 @@ Il piano, in quanto atto amministrativo, può essere impugnato davanti a un giud
 Esistono 3 livelli di pianificazione territoriale:
 1. ___livello di pianificazione regionale/provinciale di coordinamento___;
 2. ___livello comunale___ (PRG);
-3. ___piani attuativi___: attuano, in certe aree del territorio, parti del piano comunale (_e.g. piani di lotizzazione_).
+3. ___piani attuativi___: attuano, in certe aree del territorio, parti del piano comunale (_e.g. piani di lottizzazione_).
 
 I tre livelli appena menzionati sono diversi l'uno dall'altro; in particolare:
 * hanno diversa efficacia giuridica (e pratica);
@@ -1727,7 +1730,7 @@ In base alla legge urbanistica n. 1150/1942:
 Il piano contiene:
 - relazione illustrativa: obiettivi, stato di fatto del territorio, etc.;
 - cartografia;
-- norme di attuazione: traduzione in regola della parte cartografica del piano. Norme e cartografia devono essere coerenti e con la relazione illustrativa e con le norme esterne (i.e. legge urbanistica); se così non fosse, il piano potrevve essere annullato per illegittimità.
+- norme di attuazione: traduzione in regola della parte cartografica del piano. Norme e cartografia devono essere coerenti e con la relazione illustrativa e con le norme esterne (i.e. legge urbanistica); se così non fosse, il piano potrebbe essere annullato per illegittimità.
 
 ### ZONIZZAZIONE: LE SINGOLE ZONE OMOGENEE
 Normato dall'art. 2 del D.M. 1444/1968, il concetto di __zona omogenea__ è un concetto astratto perché non rispecchia ne le caratteristiche dello stato urbano attuale, ne lo sviluppo dello stesso. Basti pensare ad una grande città: ogni quartiere di una grande città è provvisto di servizi, attività artigianali e commerciali, supermercati, scuole, etc., e ovviamente residenze; tutto questo è una prova del fallimento della zonizzazione. Per lo stesso principio di zone omogenee si vengono a creare ___ghetti___, cioè aree residenziali completamente distaccate dal resto della città, non provviste di servizi pubblici e attività commerciali.  
@@ -1743,8 +1746,8 @@ In particolare, il modello statale si basa su:
 I principali limiti del modello della legge urbanistica:
 * il fallimento dei piani territoriali di coordinamento, piani che descrivono l'espansione dei centri urbani ed extraurbani regionali (implementato in modo efficace solo in provincia di Trento). È fallito il governo regionale del territorio, che ha funzionato solo in Trentino attraverso il PUC e che impone ai comuni cosa possono e non possono inserire nei vari piani comunali;
 * inefficacia della zonizzazione;
-* eccessiva rididità dei PRG: il fatto che i piani non abbiano una scadenza (ma possano subire varianti), aumenta il rischio che il piano non riesca a tenere il ritmo dei cambiamenti socio-culturali durante la vita dello stesso piano. Si dovrebbe obbligare i comuni a rivedere il piano, magari, ogni cinque (o dieci) anni, in modo da verificare ciò che è stato attuato e applicato e quindi valutare la bontà dello stesso;
-* limiti endemici della descrezionalità politica: essendo il piano adottato da organi politici, descrive necessariamente le idee della politica che amministra il pubblico in quel momento.
+* eccessiva rigidità dei PRG: il fatto che i piani non abbiano una scadenza (ma possano subire varianti), aumenta il rischio che il piano non riesca a tenere il ritmo dei cambiamenti socio-culturali durante la vita dello stesso piano. Si dovrebbe obbligare i comuni a rivedere il piano, magari, ogni cinque (o dieci) anni, in modo da verificare ciò che è stato attuato e applicato e quindi valutare la bontà dello stesso;
+* limiti endemici della discrezionalità politica: essendo il piano adottato da organi politici, descrive necessariamente le idee della politica che amministra il pubblico in quel momento.
 
 ---
 # LA DISCIPLINA DELLA PIANIFICAZIONE ATTUATIVA (Dott. Leonardo Parona)
@@ -1784,7 +1787,7 @@ La pianificazione attuativa si pone all'ultimo livello della cascata.
 
 ## EVOLUZIONE DEI MODELLI DI PIANIFICAZIONE: CAUSE e SVILUPPI
 La riforma costituzionale del 2001 ha fatto si che il modello della legge urbanistica del 1942 cambiasse: vi è un riparto di competenze legislative dovute a:
-* esigenze di flessibilità degli strumeni urbanistici (varianti, etc.);
+* esigenze di flessibilità degli strumenti urbanistici (varianti, etc.);
 * maggiore attenzione a interessi specifici e settoriali;
 * urbanistica contrattata: rappresentata dalla convenzione di lottizzazione;
 * perequazione urbanistica: per spiegarla si fa un esempio: si supponga che su un terreno gravi un vincolo di esproprio. Il proprietario riceverà si un indennizzo ma, grazie al concetto di perequazione, potrà godere di un vantaggio (non necessariamente automatico) di titoli edificatori da sfruttare (e.g. cubatura edificabile). In questo modo il vincolo viene "ammortizzato" dalla comunità invece che dal singolo.
@@ -1805,7 +1808,7 @@ In figura qua sotto è possibile distinguere la "gerarchia", o meglio lo schema,
 </figure>
 
 ## PIANIFICAZIONE ATTUATIVA
-La pianificazione attuativa ha l'obiettivo di specificare, dettagliare e atuare previsioni degi strumenti urbanistici di base. I lati positivi sono la realizzazione degli obiettivi, mentre quelli negativi sono il rischio che siano realizzato interventi non consentiti (con rispettive sanzioni).
+La pianificazione attuativa ha l'obiettivo di specificare, dettagliare e attuare previsioni degli strumenti urbanistici di base. I lati positivi sono la realizzazione degli obiettivi, mentre quelli negativi sono il rischio che siano realizzato interventi non consentiti (con rispettive sanzioni).
 
 La pianificazione attuativa, generalmente ma non è sempre così, avviene attraverso due piani:
 * piano particolareggiato;
@@ -1839,7 +1842,7 @@ Il procedimento di formazione ordinario consiste in:
 * delibera del ___Consiglio comunale___ che _adotta_ il progetto;
 * una volta adottato, il progetto viene _pubblicato_ nell'albo pretorio (e online). I cittadini possono presentare **osservazioni** mentre i proprietari lesi possono presentare delle **opposizioni**. Se il comune decide di accettare le osservazioni e le opposizioni modificherà il piano;
 * il piano viene inviato alla ___regione___ assieme alle modifiche effettuate;
-* il piano viene ri-adottato e ri-pubblicato con notifica ai proprietari lesi;
+* il piano viene riadottato e ripubblicato con notifica ai proprietari lesi;
 * **il piano ha efficacia temporale massima di dieci anni**.
 
 #### PROCEDIMENTO DI FORMAZIONE SEMPLIFICATO
@@ -1860,12 +1863,12 @@ Secondo esempio di piano attuativo previsto dalla legge urbanistica nazionale. �
 
 #### PROCEDIMENTO DI FORMAZIONE
 La formazione avviene come segue:
-* attuazione su istanza dei ___proprietari___ (maggioranza dei proprietari dell'area per superficie e non procapite) o di iniziativa pubblica. L'istanza deve contenere:
+* attuazione su istanza dei ___proprietari___ (maggioranza dei proprietari dell'area per superficie e non pro capite) o di iniziativa pubblica. L'istanza deve contenere:
   * progetto;
   * schema di convenzione: ripartizione degli oneri e spese degli oneri di costruzione.
 * delibera di approvazione;
 * talvolta può essere necessario un _nulla osta_ dalla regione.
-* una volta approvati progetto e schema di convenzione si stipula la convenzione: ipotesi di accordo integrativo del provvedimento (è un atto formalmente privato o comunqua tra privati);
+* una volta approvati progetto e schema di convenzione si stipula la convenzione: ipotesi di accordo integrativo del provvedimento (è un atto formalmente privato o comunque tra privati);
 * trascrizione della convenzione;
 * autorizzazione allo svolgimento dell'attività edilizia.
 
@@ -1894,7 +1897,7 @@ In sintesi, le caratteristiche generali della pianificazione attuativa sono:
 * adottati esclusivamente (o quasi) a livello comunale;
 * non hanno natura necessaria a patto che:
   * l'area sia sufficientemente urbanizzata;
-  * il PRG non lo puntializzi;
+  * il PRG non lo puntualizzi;
   * per opere di manutenzione o restauro.
 
 ## ESEMPI DI PIANIFICAZIONE URBANISTICA
@@ -1972,7 +1975,7 @@ Ha bisogno di una _previsione decennale_ che deve contenere:
 * zone e ambiti di tutela e valorizzazione;
 * invarianti idrogeologiche, paesaggistiche, etc.;
 * consumo di suolo;
-* centri storci, fasce di rispeto, etc.;
+* centri storci, fasce di rispetto, etc.;
 * dotazioni minime di servizi e infrastrutture.
 
 ###### PROCEDIMENTO DI FORMAZIONE
@@ -2044,7 +2047,7 @@ I piani attuativi sono di competenza della ___Giunta comunale___ (organo esecuti
 * deposito entro 5 giorni e per 10 giorni;
 * osservazioni entro 20 giorni;
 * approvazione entro 30 giorni da parte della ___Giunta comunale___ (o silenzio assenso);
-* deposito e notifica ai poprietari dissenzienti (49% dei proprietari);
+* deposito e notifica ai proprietari dissenzienti (49% dei proprietari);
 * efficacia entro 15 giorni dalla pubblicazione;
 * **durata massima di 10 anni e proroga massima di 5 anni**.
 
@@ -2122,7 +2125,7 @@ La formazione avviene come segue:
 * indirizzi da parte del Consiglio provinciale entro 120 giorni;
 * adozione da parte della ___Giunta provinciale___;
 * deposito per 90 giorni per la consultazione e la trasmissione a:
-  * regioni limitrofe e provinca di Bolzano (con osservazioni entro 60 giorni);
+  * regioni limitrofe e Provincia di Bolzano (con osservazioni entro 60 giorni);
   * ministero competente (osservazioni entro 90 giorni);
   * altro;
 * se la Giunta provinciale apporta modifiche, il piano va depositato nuovamente per 45 giorni. Durante il deposito è possibile presentare osservazioni esclusivamente con riferimento alle modifiche apportate. Se necessita una nuova modifica, il piano non è soggetto a pubblicazioni e deposito;
@@ -2158,7 +2161,7 @@ Il piano comunale della Provincia di Trento mantiene il nome definito dalla legg
 Disciplina le funzioni comunali sul territorio.
 
 ##### CONTENUTO
-Determina le destinazioni delle divese aree e ne disciplina l'uso, oltre a:
+Determina le destinazioni delle diverse aree e ne disciplina l'uso, oltre a:
 * perimetrare le aree di tutela;
 * individuare gli insediamenti storici e le modalità di conservazione;
 * descrivere la mobilità stradale;
@@ -2198,7 +2201,7 @@ Definiti dall'art. 50 della legge provinciale 15/2015, gli strumenti attuativi d
   <li>piani di lottizzazione.
 </ol>
 
-Se per i primi due tipi di piani attuativi l'iniziativa può essere pubblica, privata o mista, per il piani di lottizzazione l'iniziativa è principalmente privata (eccezionalemte pubblica).
+Se per i primi due tipi di piani attuativi l'iniziativa può essere pubblica, privata o mista, per il piani di lottizzazione l'iniziativa è principalmente privata (eccezionalmente pubblica).
 
 ##### PROCEDIMENTO DI FORMAZIONE
 I profili comuni per il procedimento di formazione dei piani attuativi è normato dall'Art. 51 della legge provinciale n. 15/2015:
@@ -2298,13 +2301,13 @@ Gli obiettivi della pianificazione attuativa sono la _perequazione_ e la _compen
 * piano di recupero;
 * piano di riqualificazione.
 
-Come si può notare, non è presente il piano partiolareggiato.
+Come si può notare, non è presente il piano particolareggiato.
 
 ###### PROCEDIMENTO DI FORMAZIONE
 * proposta della ___Giunta comunale___ o iniziativa privata;
 * pubblicazione per 30 giorni osservazioni nello stesso termine;
 * approvazione da parte del ___Consiglio comunale___ (o da parte della ___Giunta comunale___ se la popolazione è __maggiore__ di 10000 abitanti) e motivazioni sulle osservazioni e sulle eventuali modifiche;
-* pubblicazione ed entrata in vigore il giorno sucessivo.
+* pubblicazione ed entrata in vigore il giorno successivo.
 
 ### LOMBARDIA
 Il governo del territorio della regione Lombardia è regolato dalla legge regionale n. 12/2005 che definisce un _testo unico_ (urbanistica, edilizia, paesaggio, ambiente, etc.) e una pluralità di piani coordinati.
@@ -2346,7 +2349,7 @@ Il piano comunale è composto da:
 
 ###### DOCUMENTO DI PIANO
 Il documento di piano comprende:
-* quadro ricognitivo e preogrammatorio;
+* quadro ricognitivo e programmatorio;
 * quadro conoscitivo del territorio comunale;
 * obiettivi di sviluppo, miglioramento e conservazione;
 * patrimonio edilizio dismesso e da riutilizzare;
@@ -2376,7 +2379,7 @@ Le differenze principali nei procedimenti di formazione dei piani comunali sono 
 
 ## CONSIDERAZIONI CONCLUSIVE
 * il quadro normativo è frastagliato (dopo la modifica della Costituzione del 2001) e da centralità di legislazione alle regioni (o province autonome);
-* la pianiicazione si compone di una _pluralità di strumenti edificatori_. Vale (abbastanza) il rapporto gerarchico, anche se i piani comunali possono derogare (eccedere) al piano provinciale (o regionale). In particolare prevalgono _piani più specifici e recenti_;
+* la pianificazione si compone di una _pluralità di strumenti edificatori_. Vale (abbastanza) il rapporto gerarchico, anche se i piani comunali possono derogare (eccedere) al piano provinciale (o regionale). In particolare prevalgono _piani più specifici e recenti_;
 * esiste una pluralità di interessi nella pianificazione che devono trovare un punto di incontro, a volte attraverso _piani di settore_ (moltitudine di piani);
 * In generale, i vincoli dei piani sono molto ampi. Esiste ancora una discrezionalità;
 * rimane fondamentale (e sempre presente) la partecipazione dei cittadini (principio di sussidiarietà);
